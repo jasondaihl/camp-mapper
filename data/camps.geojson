@@ -110,7 +110,7 @@
         "city": "Lafayette",
         "state": "LA",
         "website": "https://www.swampbasebsa.org",
-        "description": "Louisiana Swamp Base is a national conservation and high adventure recreation program created in 2010 by the Evangeline Area Council, Scouting America to commemorate the Centennial of Scouting while also making a 100 year commitment to annually immerse thousands of youth in the environment and culture of the Atchafalaya Swamp."
+        "description": "A national high-adventure program offering 6-day paddling treks through the Atchafalaya Swamp, the nation's largest river swamp. Created in 2010 by the Evangeline Area Council, with treks running since 2013."
       }
     },
     {
@@ -126,7 +126,215 @@
         "city": "Morris",
         "state": "IL",
         "website": "https://www.rainbowcouncil.org/camping/scouts-bsa-summer-camp",
-        "description": "Traditional Scout camp offering camping, swimming, and outdoor skills development in central Illinois."
+        "description": "A 600-acre Scout reservation near Morris, Illinois, offering year-round camping, 65+ merit badges at summer camp, and resident programs for Cub Scouts and Scouts BSA."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-88.3543, 42.0719]
+      },
+      "properties": {
+        "name": "Camp Big Timber",
+        "type": "council_camp",
+        "council": "Three Fires Council",
+        "city": "Elgin",
+        "state": "IL",
+        "website": "https://threefirescouncil.org/camp-big-timber/",
+        "description": "Founded in 1926, a 70-acre Scout camp in the heart of Elgin offering resident summer camp, leader training courses, and year-round outdoor programming."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-86.2792, 43.3972]
+      },
+      "properties": {
+        "name": "Owasippe Scout Reservation",
+        "type": "council_camp",
+        "council": "Pathway to Adventure Council",
+        "city": "Twin Lake",
+        "state": "MI",
+        "website": "https://www.owasippeadventure.com/",
+        "description": "The oldest continuously operating Scout camp in the United States, established in 1911. A 4,800-acre reservation featuring multiple sub-camps, lakes, and high-adventure programs in western Michigan."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-86.3664, 41.9262]
+      },
+      "properties": {
+        "name": "Camp Frank S. Betz",
+        "type": "council_camp",
+        "council": "Pathway to Adventure Council",
+        "city": "Berrien Springs",
+        "state": "MI",
+        "website": "https://pathwaytoadventure.org/campbetz/",
+        "description": "A 57-acre Scout camp on the St. Joseph River operating since 1922, offering Cub Scout and family camping programs in southwestern Michigan."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-87.8147, 40.0394]
+      },
+      "properties": {
+        "name": "Camp Robert Drake",
+        "type": "council_camp",
+        "council": "Prairielands Council",
+        "city": "Fairmount",
+        "state": "IL",
+        "website": "https://www.campdrake.com/",
+        "description": "Founded in 1932, a Scout camp in east central Illinois serving Prairielands Council with resident summer camp programs for Scouts BSA, Cub Scouts, and Venturing."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.318, 40.7162]
+      },
+      "properties": {
+        "name": "Ingersoll Scout Reservation",
+        "type": "council_camp",
+        "council": "W. D. Boyce Council",
+        "city": "London Mills",
+        "state": "IL",
+        "website": "https://wdboyce.org/ingersoll/",
+        "description": "Nearly 1,000-acre Scout reservation in central Illinois, founded in 1963, offering resident summer camp, Cub Scout programs, and year-round camping."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.0142, 48.217]
+      },
+      "properties": {
+        "name": "Cache Lake Camp",
+        "type": "council_high_adventure",
+        "council": "W. D. Boyce Council",
+        "city": "Sand Point Lake",
+        "state": "ON",
+        "website": "https://wdboyce.org/cache-lake/",
+        "description": "Remote wilderness high-adventure camp on Sand Point Lake in Ontario, Canada, accessible only by water from Crane Lake, Minnesota. Founded in 1963, offering fishing, canoeing, and backcountry camping."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-88.9652, 45.3689]
+      },
+      "properties": {
+        "name": "Ma-Ka-Ja-Wan Scout Reservation",
+        "type": "council_camp",
+        "council": "Northeast Illinois Council",
+        "city": "Pearson",
+        "state": "WI",
+        "website": "https://makajawan.com/",
+        "description": "A 1,500-acre reservation in the Northwoods of Wisconsin featuring three sub-camps, spring-fed lakes, and over 85 years of Scouting tradition. One of the few camps in the nation with a perfect BSA accreditation rating."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-88.1758, 42.5087]
+      },
+      "properties": {
+        "name": "Camp Sol R. Crown",
+        "type": "council_camp",
+        "council": "Northeast Illinois Council",
+        "city": "Trevor",
+        "state": "WI",
+        "website": "https://www.campcrown.org/",
+        "description": "A 146-acre Scout camp in southeastern Wisconsin offering year-round camping, Cub Scout camporees, and cabin accommodations for Scouting units."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-89.3589, 41.9529]
+      },
+      "properties": {
+        "name": "Camp Lowden",
+        "type": "council_camp",
+        "council": "Blackhawk Area Council",
+        "city": "Oregon",
+        "state": "IL",
+        "website": "https://www.camplowden.org/",
+        "description": "A 250-acre Scout camp along the Rock River near Oregon, Illinois, offering summer resident camp, Cub Scout programs, and year-round cabin rentals."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.0135, 42.3497]
+      },
+      "properties": {
+        "name": "Canyon Camp",
+        "type": "council_camp",
+        "council": "Blackhawk Area Council",
+        "city": "Stockton",
+        "state": "IL",
+        "website": "https://www.canyoncampbsa.org/",
+        "description": "Established in 1936, a 330-acre wooded camp near Galena, Illinois, offering 55+ merit badges and serving Scouts from Illinois, Wisconsin, and Iowa."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-89.968, 42.11]
+      },
+      "properties": {
+        "name": "Mount Carroll Cabin",
+        "type": "council_camp",
+        "council": "Blackhawk Area Council",
+        "city": "Mt. Carroll",
+        "state": "IL",
+        "website": "https://blackhawkscouting.org/about/council-camps-facilities/mount-carroll-cabin/",
+        "description": "A rustic 20-acre Scout cabin built in 1936, located north of Mt. Carroll, available for weekend unit camping without electricity or indoor plumbing."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-88.2999, 42.6076]
+      },
+      "properties": {
+        "name": "Camp Oh-Da-Ko-Ta",
+        "type": "council_camp",
+        "council": "Three Harbors Council",
+        "city": "Burlington",
+        "state": "WI",
+        "website": "https://www.threeharborsscouting.org/camping/camp-oh-da-ko-ta/64325",
+        "description": "A 185-acre Scout camp on Dyer Lake near Burlington, Wisconsin, established in 1929, offering year-round camping for Cub Scouts, Scouts BSA, and Venturing Crews."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-88.1681, 43.6941]
+      },
+      "properties": {
+        "name": "Camp Long Lake",
+        "type": "council_camp",
+        "council": "Potawatomi Area Council",
+        "city": "St. Cloud",
+        "state": "WI",
+        "website": "https://www.pacbsa.org/camping/",
+        "description": "A 200-acre Scout camp nestled in the Kettle Moraine State Forest, operating since 1946, offering 50+ merit badge programs, aquatics on Long Lake, and climbing courses."
       }
     }
   ]
