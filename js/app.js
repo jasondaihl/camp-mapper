@@ -88,11 +88,22 @@
 
   var layerOrder = ["council_camp", "council_high_adventure", "high_adventure"];
 
+  var overlayLabels = {
+    high_adventure:
+      '<span class="legend-circle" style="width:16px;height:16px;background:#D4A017;"></span> National High Adventure Base',
+    council_high_adventure:
+      '<span class="legend-circle" style="width:14px;height:14px;background:#9E9E9E;"></span> Council High Adventure Base',
+    council_camp:
+      '<span class="legend-circle" style="width:12px;height:12px;background:#2E7D32;"></span> Council Camp',
+  };
+
   fetch("data/camps.geojson")
     .then(function (response) {
       return response.json();
     })
     .then(function (data) {
+      var overlays = {};
+      var layersByType = {};
       layerOrder.forEach(function (type) {
         var filtered = {
           type: "FeatureCollection",
@@ -100,7 +111,7 @@
             return f.properties.type === type;
           }),
         };
-        L.geoJSON(filtered, {
+        var layer = L.geoJSON(filtered, {
           pointToLayer: function (feature, latlng) {
             var style =
               markerStyles[feature.properties.type] || markerStyles.council_camp;
@@ -110,27 +121,11 @@
             layer.bindPopup(buildPopupHTML(feature.properties));
           },
         }).addTo(map);
+        layersByType[type] = layer;
       });
+      ["high_adventure", "council_high_adventure", "council_camp"].forEach(function (type) {
+        overlays[overlayLabels[type]] = layersByType[type];
+      });
+      L.control.layers(null, overlays, { collapsed: false, position: "bottomright" }).addTo(map);
     });
-
-  var legend = L.control({ position: "bottomright" });
-  legend.onAdd = function () {
-    var div = L.DomUtil.create("div", "legend");
-    div.innerHTML =
-      "<h4>Camp Types</h4>" +
-      '<div class="legend-item">' +
-      '<span class="legend-circle" style="width:16px;height:16px;background:#D4A017;"></span>' +
-      " National High Adventure Base" +
-      "</div>" +
-      '<div class="legend-item">' +
-      '<span class="legend-circle" style="width:14px;height:14px;background:#9E9E9E;"></span>' +
-      " Council High Adventure Base" +
-      "</div>" +
-      '<div class="legend-item">' +
-      '<span class="legend-circle" style="width:12px;height:12px;background:#2E7D32;"></span>' +
-      " Council Camp" +
-      "</div>";
-    return div;
-  };
-  legend.addTo(map);
 })();
