@@ -41,9 +41,9 @@ Add a new feature to `data/camps.geojson`:
 
 ## Deploy to GitHub Pages
 
-1. Go to the repo's **Settings > Pages**
-2. Set source to **Deploy from a branch**, branch **main**, folder **/ (root)**
-3. The site will be live at `https://<username>.github.io/camp-mapper/`
+The site automatically deploys to GitHub Pages on every push to `main` via GitHub Actions.
+
+Live at: [https://jasondaihl.github.io/camp-mapper/](https://jasondaihl.github.io/camp-mapper/)
 
 ## Attribution
 
