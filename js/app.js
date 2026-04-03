@@ -86,21 +86,31 @@
     return html;
   }
 
+  var layerOrder = ["council_camp", "council_high_adventure", "high_adventure"];
+
   fetch("data/camps.geojson")
     .then(function (response) {
       return response.json();
     })
     .then(function (data) {
-      L.geoJSON(data, {
-        pointToLayer: function (feature, latlng) {
-          var style =
-            markerStyles[feature.properties.type] || markerStyles.council_camp;
-          return L.circleMarker(latlng, style);
-        },
-        onEachFeature: function (feature, layer) {
-          layer.bindPopup(buildPopupHTML(feature.properties));
-        },
-      }).addTo(map);
+      layerOrder.forEach(function (type) {
+        var filtered = {
+          type: "FeatureCollection",
+          features: data.features.filter(function (f) {
+            return f.properties.type === type;
+          }),
+        };
+        L.geoJSON(filtered, {
+          pointToLayer: function (feature, latlng) {
+            var style =
+              markerStyles[feature.properties.type] || markerStyles.council_camp;
+            return L.circleMarker(latlng, style);
+          },
+          onEachFeature: function (feature, layer) {
+            layer.bindPopup(buildPopupHTML(feature.properties));
+          },
+        }).addTo(map);
+      });
     });
 
   var legend = L.control({ position: "bottomright" });
