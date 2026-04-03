@@ -1,11 +1,14 @@
-html, body, #map {
+html,
+body,
+#map {
   height: 100%;
   margin: 0;
   padding: 0;
 }
 
 body {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  font-family:
+    -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
 }
 
 .camp-popup h3 {
@@ -24,15 +27,15 @@ body {
 }
 
 .camp-popup .type-badge.high-adventure {
-  background-color: #D4A017;
+  background-color: #d4a017;
 }
 
 .camp-popup .type-badge.council-high-adventure {
-  background-color: #4A90E2;
+  background-color: #4a90e2;
 }
 
 .camp-popup .type-badge.council-camp {
-  background-color: #2E7D32;
+  background-color: #2e7d32;
 }
 
 .camp-popup .detail {
