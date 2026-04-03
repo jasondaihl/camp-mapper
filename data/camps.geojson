@@ -357,6 +357,74 @@
         "website": "https://www.pacbsa.org/camping/",
         "description": "A 200-acre Scout camp nestled in the Kettle Moraine State Forest, operating since 1946, offering 50+ merit badge programs, aquatics on Long Lake, and climbing courses."
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-88.1658, 36.8247]
+      },
+      "properties": {
+        "name": "Aquabase",
+        "type": "council_high_adventure",
+        "council": "Lincoln Heritage Council",
+        "address": "1531 Cross Rd, Benton, KY 42025",
+        "city": "Benton",
+        "state": "KY",
+        "website": "https://lhcbsa.org/pfeffer-scout-reservation/",
+        "description": "Mid-America's premier high-adventure sailing program on Kentucky Lake at Pfeffer Scout Reservation. Scouts crew 25-foot Catalina sailboats, with additional watersports, small boat sailing, and BSA Lifeguard training."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-85.6417, 37.8869]
+      },
+      "properties": {
+        "name": "Camp Crooked Creek",
+        "type": "council_camp",
+        "council": "Lincoln Heritage Council",
+        "address": "950 Terry Dr, Shepherdsville, KY 40165",
+        "city": "Shepherdsville",
+        "state": "KY",
+        "website": "https://lhcbsa.org/harry-s-frazier-jr-scout-reservation-information/",
+        "description": "Part of the Harry S. Frazier, Jr. Scout Reservation, located 27 miles south of Louisville, offering summer resident camp and year-round Scouting programs."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-88.1662, 36.8245]
+      },
+      "properties": {
+        "name": "Pfeffer Scout Reservation",
+        "type": "council_camp",
+        "council": "Lincoln Heritage Council",
+        "address": "1531 Cross Rd, Benton, KY 42025",
+        "city": "Benton",
+        "state": "KY",
+        "website": "https://lhcbsa.org/pfeffer-scout-reservation/",
+        "description": "A 400-acre reservation on Kentucky Lake in western Kentucky, offering Scouts BSA and Cub Scout resident summer camp programs. Also home to the Aquabase high-adventure sailing program."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-85.6266, 38.4834]
+      },
+      "properties": {
+        "name": "Tunnel Mill Scout Reservation",
+        "type": "council_camp",
+        "council": "Lincoln Heritage Council",
+        "address": "3913 Tunnel Mill Rd, Charlestown, IN 47111",
+        "city": "Charlestown",
+        "state": "IN",
+        "website": "https://lhcbsa.org/tunnel-mill-scout-reservation/",
+        "description": "A Scout reservation tucked inside an oxbow bend in Fourteen Mile Creek near Charlestown, Indiana, offering summer resident camp and year-round Scouting programs."
+      }
     }
   ]
 }
