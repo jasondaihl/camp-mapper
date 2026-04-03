@@ -160,6 +160,22 @@
         "website": "https://www.swampbasebsa.org",
         "description": "Louisiana Swamp Base is a national conservation and high adventure recreation program created in 2010 by the Evangeline Area Council, Scouting America to commemorate the Centennial of Scouting while also making a 100 year commitment to annually immerse thousands of youth in the environment and culture of the Atchafalaya Swamp."
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-88.345144, 41.32415]
+      },
+      "properties": {
+        "name": "Rainbow Scout Reservation",
+        "type": "council_camp",
+        "council": "Rainbow Council",
+        "city": "Morris",
+        "state": "IL",
+        "website": "https://www.rainbowcouncil.org/camping/scouts-bsa-summer-camp",
+        "description": "Traditional Scout camp offering camping, swimming, and outdoor skills development in central Illinois."
+      }
     }
   ]
 }
