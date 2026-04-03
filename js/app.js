@@ -32,7 +32,7 @@
   };
 
   var typeLabels = {
-    high_adventure: "High Adventure Base",
+    high_adventure: "National High Adventure",
     council_high_adventure: "Council High Adventure",
     council_camp: "Council Camp",
   };
