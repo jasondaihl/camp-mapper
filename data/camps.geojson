@@ -5,15 +5,16 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-105.2747, 36.3953]
+        "coordinates": [
+          -105.2747,
+          36.3953
+        ]
       },
       "properties": {
         "name": "Philmont Scout Ranch",
         "type": "high_adventure",
         "council": null,
         "address": "17 Deer Run Rd, Cimarron, NM 87714",
-        "city": "Cimarron",
-        "state": "NM",
         "website": "https://www.philmontscoutranch.org",
         "description": "Scouting America's premier high adventure base covering 140,000 acres in the Rocky Mountains of northeastern New Mexico."
       }
@@ -22,15 +23,16 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-91.8671, 47.9032]
+        "coordinates": [
+          -91.8671,
+          47.9032
+        ]
       },
       "properties": {
         "name": "Northern Tier High Adventure",
         "type": "high_adventure",
         "council": null,
         "address": "14790 Moose Lake Rd, Ely, MN 55731",
-        "city": "Ely",
-        "state": "MN",
         "website": "https://www.ntier.org",
         "description": "Canoeing and wilderness adventures in the Boundary Waters of northern Minnesota and Canada."
       }
@@ -39,15 +41,16 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-80.5886, 24.9465]
+        "coordinates": [
+          -80.5886,
+          24.9465
+        ]
       },
       "properties": {
         "name": "Florida Sea Base",
         "type": "high_adventure",
         "council": null,
         "address": "73800 Overseas Hwy, Islamorada, FL 33036",
-        "city": "Islamorada",
-        "state": "FL",
         "website": "https://www.bsaseabase.org",
         "description": "Aquatic high adventure programs including sailing, scuba diving, and kayaking in the Florida Keys."
       }
@@ -56,15 +59,16 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-80.9987, 37.9137]
+        "coordinates": [
+          -80.9987,
+          37.9137
+        ]
       },
       "properties": {
         "name": "Summit Bechtel Reserve",
         "type": "high_adventure",
         "council": null,
         "address": "2550 Jack Furst Dr, Glen Jean, WV 25846",
-        "city": "Glen Jean",
-        "state": "WV",
         "website": "https://www.summitbsa.org",
         "description": "Home of the National Scout Jamboree, offering zip lines, mountain biking, skateboarding, and more in southern West Virginia."
       }
@@ -73,15 +77,16 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-123.958, 45.1542]
+        "coordinates": [
+          -123.958,
+          45.1542
+        ]
       },
       "properties": {
         "name": "Camp Meriwether",
         "type": "council_camp",
         "council": "Cascade Pacific Council",
         "address": "17500 Cape Lookout Rd, Cloverdale, OR 97112",
-        "city": "Cloverdale",
-        "state": "OR",
         "website": "https://cpcscouting.org/project/camp-meriwether/",
         "description": "Oceanfront Scout camp on the Oregon coast near Tillamook Head."
       }
@@ -90,15 +95,16 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-83.5977, 34.7865]
+        "coordinates": [
+          -83.5977,
+          34.7865
+        ]
       },
       "properties": {
         "name": "Camp Rainey Mountain",
         "type": "council_camp",
         "council": "Northeast Georgia Council",
         "address": "1494 Rainey Mountain Rd, Clayton, GA 30525",
-        "city": "Clayton",
-        "state": "GA",
         "website": "https://www.nega-bsa.org/CRM",
         "description": "Mountain camp in the foothills of the Blue Ridge Mountains in northeast Georgia."
       }
@@ -107,15 +113,16 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-92.000762, 30.187759]
+        "coordinates": [
+          -92.000762,
+          30.187759
+        ]
       },
       "properties": {
         "name": "Swamp Base",
         "type": "council_high_adventure",
         "council": "Evangeline Area Council",
         "address": "2266 S College Rd, Suite E, Lafayette, LA 70508",
-        "city": "Lafayette",
-        "state": "LA",
         "website": "https://www.swampbasebsa.org",
         "description": "A national high-adventure program offering 6-day paddling treks through the Atchafalaya Swamp, the nation's largest river swamp. Created in 2010 by the Evangeline Area Council, with treks running since 2013."
       }
@@ -124,15 +131,16 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-88.345144, 41.32415]
+        "coordinates": [
+          -88.345144,
+          41.32415
+        ]
       },
       "properties": {
         "name": "Rainbow Scout Reservation",
         "type": "council_camp",
         "council": "Rainbow Council",
         "address": "2600 Winterbottom Rd, Morris, IL 60450",
-        "city": "Morris",
-        "state": "IL",
         "website": "https://www.rainbowcouncil.org/camping/scouts-bsa-summer-camp",
         "description": "A 600-acre Scout reservation near Morris, Illinois, offering year-round camping, 65+ merit badges at summer camp, and resident programs for Cub Scouts and Scouts BSA."
       }
@@ -141,15 +149,16 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-88.3543, 42.0719]
+        "coordinates": [
+          -88.3543,
+          42.0719
+        ]
       },
       "properties": {
         "name": "Camp Big Timber",
         "type": "council_camp",
         "council": "Three Fires Council",
         "address": "37W955 Big Timber Rd, Elgin, IL 60124",
-        "city": "Elgin",
-        "state": "IL",
         "website": "https://threefirescouncil.org/camp-big-timber/",
         "description": "Founded in 1926, a 70-acre Scout camp in the heart of Elgin offering resident summer camp, leader training courses, and year-round outdoor programming."
       }
@@ -158,7 +167,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-86.2792, 43.3972]
+        "coordinates": [
+          -86.2792,
+          43.3972
+        ]
       },
       "properties": {
         "name": "Owasippe Scout Reservation",
@@ -166,8 +178,6 @@
         "council": "Pathway to Adventure Council",
         "logo": "https://images.squarespace-cdn.com/content/v1/52755680e4b08c252c728986/60b6ca68-9275-4ef9-9600-de212e7c57cb/Large+Logo.png",
         "address": "9900 Russell Rd, Twin Lake, MI 49457",
-        "city": "Twin Lake",
-        "state": "MI",
         "website": "https://www.owasippeadventure.com/",
         "description": "The oldest continuously operating Scout camp in the United States, established in 1911. A 4,800-acre reservation featuring multiple sub-camps, lakes, and high-adventure programs in western Michigan."
       }
@@ -176,15 +186,16 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-86.3664, 41.9262]
+        "coordinates": [
+          -86.3664,
+          41.9262
+        ]
       },
       "properties": {
         "name": "Camp Frank S. Betz",
         "type": "council_camp",
         "council": "Pathway to Adventure Council",
         "address": "3858 E Snow Rd, Berrien Springs, MI 49103",
-        "city": "Berrien Springs",
-        "state": "MI",
         "website": "https://pathwaytoadventure.org/campbetz/",
         "description": "A 57-acre Scout camp on the St. Joseph River operating since 1922, offering Cub Scout and family camping programs in southwestern Michigan."
       }
@@ -193,7 +204,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-87.8147, 40.0394]
+        "coordinates": [
+          -87.8147,
+          40.0394
+        ]
       },
       "properties": {
         "name": "Camp Robert Drake",
@@ -201,8 +215,6 @@
         "council": "Prairielands Council",
         "logo": "https://images.squarespace-cdn.com/content/v1/6553e763f5a8d30ab49efcc4/2f5c6536-3665-468f-8ac6-86bad7831ecb/camp+drake+logo+remade+with+no+background+2.png",
         "address": "9994 Camp Drake Rd, Fairmount, IL 61841",
-        "city": "Fairmount",
-        "state": "IL",
         "website": "https://www.campdrake.com/",
         "description": "Founded in 1932, a Scout camp in east central Illinois serving Prairielands Council with resident summer camp programs for Scouts BSA, Cub Scouts, and Venturing."
       }
@@ -211,7 +223,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-90.318, 40.7162]
+        "coordinates": [
+          -90.318,
+          40.7162
+        ]
       },
       "properties": {
         "name": "Ingersoll Scout Reservation",
@@ -219,8 +234,6 @@
         "council": "W. D. Boyce Council",
         "logo": "https://wdboyce.org/wp-content/uploads/elementor/thumbs/ISR-Hawk-Logo-white-small-rdckz0whd9r7l9eg84nyqfxkys1j38lgute38it2lq.png",
         "address": "33 Knox Road 650 E, London Mills, IL 61544",
-        "city": "London Mills",
-        "state": "IL",
         "website": "https://wdboyce.org/ingersoll/",
         "description": "Nearly 1,000-acre Scout reservation in central Illinois, founded in 1963, offering resident summer camp, Cub Scout programs, and year-round camping."
       }
@@ -229,15 +242,16 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-91.0142, 48.217]
+        "coordinates": [
+          -91.0142,
+          48.217
+        ]
       },
       "properties": {
         "name": "Cache Lake Camp",
         "type": "council_high_adventure",
         "council": "W. D. Boyce Council",
         "address": "Bach Bay, Sand Point Lake, ON, Canada",
-        "city": "Sand Point Lake",
-        "state": "ON",
         "website": "https://wdboyce.org/cache-lake/",
         "description": "Remote wilderness high-adventure camp on Sand Point Lake in Ontario, Canada, accessible only by water from Crane Lake, Minnesota. Founded in 1963, offering fishing, canoeing, and backcountry camping."
       }
@@ -246,7 +260,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-88.9652, 45.3689]
+        "coordinates": [
+          -88.9652,
+          45.3689
+        ]
       },
       "properties": {
         "name": "Ma-Ka-Ja-Wan Scout Reservation",
@@ -254,8 +271,6 @@
         "council": "Northeast Illinois Council",
         "logo": "https://makajawan.com/Data/Sites/2/media/logos/makajawan-logo.png",
         "address": "W6500 Spring Lake Rd, Pearson, WI 54462",
-        "city": "Pearson",
-        "state": "WI",
         "website": "https://makajawan.com/",
         "description": "A 1,500-acre reservation in the Northwoods of Wisconsin featuring three sub-camps, spring-fed lakes, and over 85 years of Scouting tradition. One of the few camps in the nation with a perfect BSA accreditation rating."
       }
@@ -264,7 +279,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-88.1758, 42.5087]
+        "coordinates": [
+          -88.1758,
+          42.5087
+        ]
       },
       "properties": {
         "name": "Camp Sol R. Crown",
@@ -272,8 +290,6 @@
         "council": "Northeast Illinois Council",
         "logo": "https://www.campcrown.org/Data/Sites/3/media/logos/Camp-Crown-logo.png",
         "address": "11651 304th Ave, Trevor, WI 53179",
-        "city": "Trevor",
-        "state": "WI",
         "website": "https://www.campcrown.org/",
         "description": "A 146-acre Scout camp in southeastern Wisconsin offering year-round camping, Cub Scout camporees, and cabin accommodations for Scouting units."
       }
@@ -282,7 +298,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-89.3589, 41.9529]
+        "coordinates": [
+          -89.3589,
+          41.9529
+        ]
       },
       "properties": {
         "name": "Camp Lowden",
@@ -290,8 +309,6 @@
         "council": "Blackhawk Area Council",
         "logo": "https://images.squarespace-cdn.com/content/v1/5c7064a1f4755a1b4bddce94/efadde9f-730f-4df2-ae7b-c98c5817c957/Lowden+Logo.png",
         "address": "4418 S Scout Rd, Oregon, IL 61061",
-        "city": "Oregon",
-        "state": "IL",
         "website": "https://www.camplowden.org/",
         "description": "A 250-acre Scout camp along the Rock River near Oregon, Illinois, offering summer resident camp, Cub Scout programs, and year-round cabin rentals."
       }
@@ -300,15 +317,16 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-90.0135, 42.3497]
+        "coordinates": [
+          -90.0135,
+          42.3497
+        ]
       },
       "properties": {
         "name": "Canyon Camp",
         "type": "council_camp",
         "council": "Blackhawk Area Council",
         "address": "4856 E Townsend Rd, Stockton, IL 61085",
-        "city": "Stockton",
-        "state": "IL",
         "website": "https://www.canyoncampbsa.org/",
         "description": "Established in 1936, a 330-acre wooded camp near Galena, Illinois, offering 55+ merit badges and serving Scouts from Illinois, Wisconsin, and Iowa."
       }
@@ -317,15 +335,16 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-89.968, 42.11]
+        "coordinates": [
+          -89.968,
+          42.11
+        ]
       },
       "properties": {
         "name": "Mount Carroll Cabin",
         "type": "council_camp",
         "council": "Blackhawk Area Council",
         "address": "Mt. Carroll, IL 61053",
-        "city": "Mt. Carroll",
-        "state": "IL",
         "website": "https://blackhawkscouting.org/about/council-camps-facilities/mount-carroll-cabin/",
         "description": "A rustic 20-acre Scout cabin built in 1936, located north of Mt. Carroll, available for weekend unit camping without electricity or indoor plumbing."
       }
@@ -334,15 +353,16 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-88.2999, 42.6076]
+        "coordinates": [
+          -88.2999,
+          42.6076
+        ]
       },
       "properties": {
         "name": "Camp Oh-Da-Ko-Ta",
         "type": "council_camp",
         "council": "Three Harbors Council",
         "address": "3363 Dyer Lake Rd, Burlington, WI 53105",
-        "city": "Burlington",
-        "state": "WI",
         "website": "https://www.threeharborsscouting.org/camping/camp-oh-da-ko-ta/64325",
         "description": "A 185-acre Scout camp on Dyer Lake near Burlington, Wisconsin, established in 1929, offering year-round camping for Cub Scouts, Scouts BSA, and Venturing Crews."
       }
@@ -351,15 +371,16 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-88.1681, 43.6941]
+        "coordinates": [
+          -88.1681,
+          43.6941
+        ]
       },
       "properties": {
         "name": "Camp Long Lake",
         "type": "council_camp",
         "council": "Potawatomi Area Council",
         "address": "N4350 Boy Scout Rd, St. Cloud, WI 53079",
-        "city": "St. Cloud",
-        "state": "WI",
         "website": "https://www.pacbsa.org/camping/",
         "description": "A 200-acre Scout camp nestled in the Kettle Moraine State Forest, operating since 1946, offering 50+ merit badge programs, aquatics on Long Lake, and climbing courses."
       }
@@ -368,15 +389,16 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-88.1658, 36.8247]
+        "coordinates": [
+          -88.1658,
+          36.8247
+        ]
       },
       "properties": {
         "name": "Aquabase",
         "type": "council_high_adventure",
         "council": "Lincoln Heritage Council",
         "address": "1531 Cross Rd, Benton, KY 42025",
-        "city": "Benton",
-        "state": "KY",
         "website": "https://lhcbsa.org/pfeffer-scout-reservation/",
         "description": "Mid-America's premier high-adventure sailing program on Kentucky Lake at Pfeffer Scout Reservation. Scouts crew 25-foot Catalina sailboats, with additional watersports, small boat sailing, and BSA Lifeguard training."
       }
@@ -385,15 +407,16 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-85.6417, 37.8869]
+        "coordinates": [
+          -85.6417,
+          37.8869
+        ]
       },
       "properties": {
         "name": "Camp Crooked Creek",
         "type": "council_camp",
         "council": "Lincoln Heritage Council",
         "address": "950 Terry Dr, Shepherdsville, KY 40165",
-        "city": "Shepherdsville",
-        "state": "KY",
         "website": "https://lhcbsa.org/harry-s-frazier-jr-scout-reservation-information/",
         "description": "Part of the Harry S. Frazier, Jr. Scout Reservation, located 27 miles south of Louisville, offering summer resident camp and year-round Scouting programs."
       }
@@ -402,15 +425,16 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-88.1662, 36.8245]
+        "coordinates": [
+          -88.1662,
+          36.8245
+        ]
       },
       "properties": {
         "name": "Pfeffer Scout Reservation",
         "type": "council_camp",
         "council": "Lincoln Heritage Council",
         "address": "1531 Cross Rd, Benton, KY 42025",
-        "city": "Benton",
-        "state": "KY",
         "website": "https://lhcbsa.org/pfeffer-scout-reservation/",
         "description": "A 400-acre reservation on Kentucky Lake in western Kentucky, offering Scouts BSA and Cub Scout resident summer camp programs. Also home to the Aquabase high-adventure sailing program."
       }
@@ -419,15 +443,16 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-85.6266, 38.4834]
+        "coordinates": [
+          -85.6266,
+          38.4834
+        ]
       },
       "properties": {
         "name": "Tunnel Mill Scout Reservation",
         "type": "council_camp",
         "council": "Lincoln Heritage Council",
         "address": "3913 Tunnel Mill Rd, Charlestown, IN 47111",
-        "city": "Charlestown",
-        "state": "IN",
         "website": "https://lhcbsa.org/tunnel-mill-scout-reservation/",
         "description": "A Scout reservation tucked inside an oxbow bend in Fourteen Mile Creek near Charlestown, Indiana, offering summer resident camp and year-round Scouting programs."
       }
@@ -436,15 +461,16 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-89.1343, 37.6366]
+        "coordinates": [
+          -89.1343,
+          37.6366
+        ]
       },
       "properties": {
         "name": "Pine Ridge Scout Camp",
         "type": "council_camp",
         "council": "Greater St. Louis Area Council",
         "address": "1139 Pine Ridge Lane, Makanda, IL 62958",
-        "city": "Makanda",
-        "state": "IL",
         "website": "https://stlbsa.org/properties/camp-pine-ridge/",
         "description": "Established on 150 acres in the Shawnee National Forest along the shores of Little Grassy Lake, surrounded by the Crab Orchard National Wildlife Refuge. Offers kayaking, canoeing, fishing, archery, climbing, and rappelling."
       }
@@ -453,15 +479,16 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-90.226, 38.9436]
+        "coordinates": [
+          -90.226,
+          38.9436
+        ]
       },
       "properties": {
         "name": "Camp Warren Levis",
         "type": "council_camp",
         "council": "Greater St. Louis Area Council",
         "address": "5500 Boy Scout Lane, Godfrey, IL 62035",
-        "city": "Godfrey",
-        "state": "IL",
         "website": "https://stlbsa.org/properties/camp-warren-levis/",
         "description": "A 285-acre camp just north of Alton, IL featuring a private lake, seasonal swimming pool, 11 campsites, archery and shooting ranges, climbing tower, and hiking trails."
       }
@@ -470,15 +497,16 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-91.3152, 40.1929]
+        "coordinates": [
+          -91.3152,
+          40.1929
+        ]
       },
       "properties": {
         "name": "Saukenauk Scout Reservation",
         "type": "council_camp",
         "council": "Mississippi Valley Council",
         "address": "2948 E 1000th St, Mendon, IL 62351",
-        "city": "Mendon",
-        "state": "IL",
         "website": "https://mvcscouting.org/our-camps/saukenauk-scout-reservation/",
         "description": "A 602-acre reservation located 25 miles north of Quincy, divided into four camp sections, offering year-round outdoor programming."
       }
@@ -487,15 +515,16 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-89.6811, 39.7042]
+        "coordinates": [
+          -89.6811,
+          39.7042
+        ]
       },
       "properties": {
         "name": "Camp Illinek",
         "type": "council_camp",
         "council": "Abraham Lincoln Council",
         "address": "6610 Iron Bridge Road, Chatham, IL 62629",
-        "city": "Chatham",
-        "state": "IL",
         "website": "https://www.alincolnscouting.org/facilities-1",
         "description": "Established in 1939 on 80 acres on Lake Springfield, offering year-round camping, Cub Scout summer programs, canoes, kayaks, archery, and crafts."
       }
@@ -504,15 +533,16 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-91.3574, 40.5394]
+        "coordinates": [
+          -91.3574,
+          40.5394
+        ]
       },
       "properties": {
         "name": "Camp Eastman",
         "type": "council_camp",
         "council": "Mississippi Valley Council",
         "address": "750 E. County Road 1780, Nauvoo, IL 62354",
-        "city": "Nauvoo",
-        "state": "IL",
         "website": "https://mvcscouting.org/our-camps/camp-eastman/",
         "description": "Founded in 1926, a 142-acre camp on the Mississippi River south of Nauvoo featuring 11 campsites, a swimming pool, creek for small boat instruction, and river access."
       }
@@ -521,15 +551,16 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-90.0486, 39.3687]
+        "coordinates": [
+          -90.0486,
+          39.3687
+        ]
       },
       "properties": {
         "name": "Camp Bunn",
         "type": "council_camp",
         "council": "Abraham Lincoln Council",
         "address": "5259 Camp Lane, Hettick, IL 62649",
-        "city": "Hettick",
-        "state": "IL",
         "website": "https://www.alincolnscouting.org/camp-bunn",
         "description": "Established in 1972, a nationally accredited 600-acre camp featuring Lake Freesen, climbing and ropes courses, shooting sports, an observatory, and year-round residential programs."
       }

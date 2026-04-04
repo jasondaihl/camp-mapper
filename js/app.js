@@ -48,7 +48,12 @@
     html += '<div class="camp-popup-header">';
     html += "<h3>" + props.name + "</h3>";
     if (props.logo) {
-      html += '<img class="camp-logo" src="' + props.logo + '" alt="' + props.name + ' logo">';
+      html +=
+        '<img class="camp-logo" src="' +
+        props.logo +
+        '" alt="' +
+        props.name +
+        ' logo">';
     }
     html += "</div>";
     html +=
@@ -67,13 +72,6 @@
 
     if (props.address) {
       html += '<div class="detail">' + props.address + "</div>";
-    } else {
-      var location = [];
-      if (props.city) location.push(props.city);
-      if (props.state) location.push(props.state);
-      if (location.length) {
-        html += '<div class="detail">' + location.join(", ") + "</div>";
-      }
     }
 
     if (props.website) {
@@ -119,7 +117,8 @@
         var layer = L.geoJSON(filtered, {
           pointToLayer: function (feature, latlng) {
             var style =
-              markerStyles[feature.properties.type] || markerStyles.council_camp;
+              markerStyles[feature.properties.type] ||
+              markerStyles.council_camp;
             return L.circleMarker(latlng, style);
           },
           onEachFeature: function (feature, layer) {
@@ -128,9 +127,13 @@
         }).addTo(map);
         layersByType[type] = layer;
       });
-      ["high_adventure", "council_high_adventure", "council_camp"].forEach(function (type) {
-        overlays[overlayLabels[type]] = layersByType[type];
-      });
-      L.control.layers(null, overlays, { collapsed: false, position: "bottomright" }).addTo(map);
+      ["high_adventure", "council_high_adventure", "council_camp"].forEach(
+        function (type) {
+          overlays[overlayLabels[type]] = layersByType[type];
+        },
+      );
+      L.control
+        .layers(null, overlays, { collapsed: false, position: "bottomright" })
+        .addTo(map);
     });
 })();
