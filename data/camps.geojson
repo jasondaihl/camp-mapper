@@ -1881,6 +1881,81 @@
         "website": "https://www.scoutingpr.org/guajataka/",
         "description": "Founded in 1938, the Puerto Rico Council's only camping grounds, known as 'El Santuario de Amistad,' bordering Guajataca Lake with capacity for over 500 participants."
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-96.7530, 45.4870]
+      },
+      "properties": {
+        "name": "Camp Iyataka",
+        "type": "council_camp",
+        "council": "Sioux Council",
+        "address": "47232 131st St, Wilmot, SD 57279",
+        "website": "https://www.adventurebeginshere.org/iyataka",
+        "description": "Sioux Council Scout camp near Wilmot, South Dakota, offering summer resident camp and year-round outdoor programs."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-95.7025, 44.0953]
+      },
+      "properties": {
+        "name": "Camp Shetek",
+        "type": "council_camp",
+        "council": "Sioux Council",
+        "address": "98 Smith Lake Dr, Currie, MN 56123",
+        "website": "https://www.campshetek.com/",
+        "description": "A 25-acre wooded Scout camp on Lake Shetek, privately owned by the Sioux Council since the 1940s, hosting over 5,000 campers yearly."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-97.5215, 42.8677]
+      },
+      "properties": {
+        "name": "Lewis and Clark Scout Reservation",
+        "type": "council_camp",
+        "council": "Sioux Council",
+        "address": "31071 Boy Scout Rd, Tabor, SD 57063",
+        "website": "https://www.adventurebeginshere.org/LCSR",
+        "description": "Sioux Council Scout reservation on Lewis and Clark Lake, 10 miles west of Yankton on the Missouri River, offering summer camp and year-round programs."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-103.7241, 43.8985]
+      },
+      "properties": {
+        "name": "Medicine Mountain Scout Ranch",
+        "type": "council_camp",
+        "council": "Sioux Council",
+        "address": "24201 Bobcat Rd, Custer, SD 57730",
+        "website": "https://www.siouxcouncil.org/MMSR",
+        "description": "Sioux Council Scout ranch and adventure base in the Black Hills near Custer, South Dakota, offering summer camp and high adventure programs."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-96.5700, 43.2188]
+      },
+      "properties": {
+        "name": "Newton Hills Camp",
+        "type": "council_camp",
+        "council": "Sioux Council",
+        "address": "28767 482nd Ave, Canton, SD 57013",
+        "website": "https://www.adventurebeginshere.org/",
+        "description": "Sioux Council Scout camp at Newton Hills State Park south of Canton, South Dakota, offering camping and outdoor programs."
+      }
     }
   ]
 }
