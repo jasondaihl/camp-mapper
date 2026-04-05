@@ -1281,6 +1281,156 @@
         "website": "https://firemtn.org/",
         "description": "Mount Baker Council Scout camp near Mount Vernon, Washington, offering Scouts BSA summer camp and year-round outdoor programs."
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.5793, 36.9961]
+      },
+      "properties": {
+        "name": "Blue Ridge Scout Reservation",
+        "type": "council_camp",
+        "council": "Blue Ridge Mountains Council",
+        "address": "2600 Max Creek Rd, Hiwassee, VA 24347",
+        "website": "https://bsa-brmc.org/",
+        "description": "A 13,700-acre wilderness reservation in the Blue Ridge Mountains of Southwest Virginia, featuring Camp Powhatan as its main camp."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-78.3908, 36.6046]
+      },
+      "properties": {
+        "name": "Camp Eagle Point",
+        "type": "council_camp",
+        "council": "Heart of Virginia Council",
+        "address": "3500 Taylor Ferry Rd, Boydton, VA 23917",
+        "website": "https://hovc.org/eagle-point/",
+        "description": "A 120-acre primitive camping facility on three peninsulas on Kerr Reservoir in Mecklenburg County, leased from the Army Corps of Engineers."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-78.3895, 39.2101]
+      },
+      "properties": {
+        "name": "Camp Rock Enon Scout Reservation",
+        "type": "council_camp",
+        "council": "Shenandoah Area Council",
+        "address": "292 Rock Enon Springs Rd, Gore, VA 22637",
+        "website": "https://www.camprockenon.org/",
+        "description": "Shenandoah Area Council Scout camp in Frederick County offering summer camp, Cub Scout camps, and year-round unit camping."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.2294, 38.1342]
+      },
+      "properties": {
+        "name": "Camp Shenandoah",
+        "type": "council_camp",
+        "council": "Virginia Headwaters Council",
+        "address": "222 Boy Scout Ln, Swoope, VA 24479",
+        "website": "https://www.campshenandoah.org/",
+        "description": "A Scout camp in the Shenandoah Valley operated by the Virginia Headwaters Council, offering resident summer camp and year-round camping programs."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.8686, 37.6768]
+      },
+      "properties": {
+        "name": "Camp T. Brady Saunders",
+        "type": "council_camp",
+        "council": "Heart of Virginia Council",
+        "address": "1723 Maidens Rd, Maidens, VA 23102",
+        "website": "https://bradysaunders.net/",
+        "description": "Heart of Virginia Council's premier resident summer camp for older youth on the 604-acre Heart of Virginia Scout Reservation in Goochland County."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.6659, 38.8280]
+      },
+      "properties": {
+        "name": "Camp William B. Snyder",
+        "type": "council_camp",
+        "council": "National Capital Area Council",
+        "address": "6100 Antioch Rd, Haymarket, VA 20169",
+        "website": "https://www.gotosnyder.org/",
+        "description": "A 405-acre camp in Prince William County, one of the largest Cub Scout camps in the United States, with a dining hall accommodating 600 people."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.8680, 37.6770]
+      },
+      "properties": {
+        "name": "Cub Adventure Camp",
+        "type": "council_camp",
+        "council": "Heart of Virginia Council",
+        "address": "1699 Maidens Rd, Maidens, VA 23102",
+        "website": "https://cubadventurecamp.net/",
+        "description": "A BSA-accredited Cub Scout summer camp on the Heart of Virginia Scout Reservation in Goochland County."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.4696, 37.9674]
+      },
+      "properties": {
+        "name": "Goshen Scout Reservation",
+        "type": "council_camp",
+        "council": "National Capital Area Council",
+        "address": "340 Millard Burke Memorial Hwy, Goshen, VA 24439",
+        "website": "https://www.gotogoshen.org/",
+        "description": "A 4,000-acre reservation with six camps around Lake Merriweather, including Camp Bowman and Camp Baird for the Lenhok'sin High Adventure program."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.8811, 37.1932]
+      },
+      "properties": {
+        "name": "Pipsico Scout Reservation",
+        "type": "council_camp",
+        "council": "Tidewater Council",
+        "address": "57 Pipsico Rd, Spring Grove, VA 23881",
+        "website": "https://pipsicobsa.com/",
+        "description": "A 916-acre year-round Scout camp on the James River in Surry County with a mile and a half of riverfront shoreline and bald eagle nesting sites."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.9696, 40.0879]
+      },
+      "properties": {
+        "name": "Sinoquipe Scout Reservation",
+        "type": "council_camp",
+        "council": "Shenandoah Area Council",
+        "address": "677 Boy Scout Rd, Fort Littleton, PA 17223",
+        "website": "https://www.campsinoquipe.org/",
+        "description": "A 500-acre Scout reservation in the mountains of Fulton County, Pennsylvania, around a 10-acre lake near the Pennsylvania Turnpike."
+      }
     }
   ]
 }
