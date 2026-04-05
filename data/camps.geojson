@@ -2016,6 +2016,96 @@
         "website": "https://scoutingnlc.org/campingprograms/properties/heartbutte/",
         "description": "Northern Lights Council Scout reservation on Lake Tschida, south of Glen Ullin, offering Cub Scout adventure camp and year-round weekend camping."
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-97.4200, 31.8500]
+      },
+      "properties": {
+        "name": "Camp Shuler",
+        "type": "council_camp",
+        "council": "Longhorn Council",
+        "address": "Clifton, TX 76634",
+        "website": "https://www.longhorncouncil.org/camp-properties",
+        "description": "Longhorn Council 50-acre primitive camping facility on Lake Whitney, used for campouts and outdoor programs."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-100.0613, 30.8426]
+      },
+      "properties": {
+        "name": "Camp Sol Mayer",
+        "type": "council_camp",
+        "council": "Texas Southwest Council",
+        "address": "299 Camp Sol Mayer Rd, Menard, TX 76859",
+        "website": "https://www.scoutingtsc.org/camp-sol-mayer/",
+        "description": "A Scout camp with a rich history dating back to 1945, the long-term camp property of the Texas Southwest Council near Menard."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-95.2303, 30.6089]
+      },
+      "properties": {
+        "name": "Camp Strake",
+        "type": "council_camp",
+        "council": "Sam Houston Area Council",
+        "address": "2020 Camp Strake Rd, Coldspring, TX 77331",
+        "website": "https://shacbsa.org/camp-strake",
+        "description": "Sam Houston Area Council's premier Scouts BSA summer camp near Coldspring, Texas."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-97.5066, 31.0075]
+      },
+      "properties": {
+        "name": "Camp Tahuaya",
+        "type": "council_camp",
+        "council": "Longhorn Council",
+        "address": "2603 Tahuaya Dr, Belton, TX 76513",
+        "website": "https://www.longhorncouncil.org/camp-tahuaya-family-adventure-campground",
+        "description": "Longhorn Council family adventure campground near Belton, Texas, offering group camping, events, and year-round outdoor programs."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-97.2677, 30.1745]
+      },
+      "properties": {
+        "name": "Camp Tom Wooten",
+        "type": "council_camp",
+        "council": "Capitol Area Council",
+        "address": "785 FM 1441, Bastrop, TX 78602",
+        "website": "http://www.capitolareascouting.org/activities/camping/cub-world/",
+        "description": "Capitol Area Council's primary Cub Scout camp at Lost Pines Scout Reservation, on the north shores of Lake Bastrop in the Lost Pines Region."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-99.8733, 32.2431]
+      },
+      "properties": {
+        "name": "Camp Tonkawa",
+        "type": "council_camp",
+        "council": "Texas Trails Council",
+        "address": "FM 89, Buffalo Gap, TX 79508",
+        "website": "https://www.texastrailsbsa.com/camping/camp-tonkawa/61684",
+        "description": "Texas Trails Council Scout camp 12 miles south of Abilene near Buffalo Gap, adjacent to Abilene State Park."
+      }
     }
   ]
 }
