@@ -966,6 +966,66 @@
         "website": "https://awbsa.org/",
         "description": "A historic Scout camp in the Snowy Range Mountains, approximately 33 miles west of Laramie, offering camping and outdoor adventure on over 100 acres of Forest Service land."
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.2363, 38.4398]
+      },
+      "properties": {
+        "name": "Camp Arrowhead",
+        "type": "council_camp",
+        "council": "Buckskin Council",
+        "address": "506 Scout Camp Rd, Ona, WV 25545",
+        "website": "https://www.buckskin.org/camping/camparrowhead/",
+        "description": "A 280-acre Scout camp in Ona, West Virginia, offering summer resident camp, fishing, and year-round outdoor programs for the Buckskin Council."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.3652, 39.1481]
+      },
+      "properties": {
+        "name": "Camp Kootaga",
+        "type": "council_camp",
+        "council": "Buckskin Council",
+        "address": "79 Camp Kootaga Rd, Walker, WV 26180",
+        "website": "https://www.buckskin.org/camping/campkootaga/",
+        "description": "A historic Scout camp along the Little Kanawha River featuring a climbing tower, summer resident camp, and year-round camping for the Buckskin Council."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.8725, 39.5063]
+      },
+      "properties": {
+        "name": "Camp Lynn",
+        "type": "council_camp",
+        "council": "Mountaineer Area Council",
+        "address": "Boy Scout Rd, Morgantown, WV 26508",
+        "website": "https://mountaineerscouting.org/",
+        "description": "A 168-acre rustic camping facility near Camp Mountaineer with natural streams, hardwood and pine forests, ideal for backpacking, trail excursions, and primitive camping."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.8992, 39.5243]
+      },
+      "properties": {
+        "name": "Camp Mountaineer",
+        "type": "council_camp",
+        "council": "Mountaineer Area Council",
+        "address": "187 Camp Mountaineer Rd, Morgantown, WV 26508",
+        "website": "https://mountaineerscouting.org/camp-mountaineer/",
+        "description": "Over 1,000-acre Scout camp established in 1954, featuring a lake, quarter-mile zip lines, climbing towers, hiking trails, and summer resident camp for the Mountaineer Area Council."
+      }
     }
   ]
 }
