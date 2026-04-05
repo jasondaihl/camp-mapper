@@ -1956,6 +1956,66 @@
         "website": "https://www.adventurebeginshere.org/",
         "description": "Sioux Council Scout camp at Newton Hills State Park south of Canton, South Dakota, offering camping and outdoor programs."
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-101.3704, 48.2448]
+      },
+      "properties": {
+        "name": "Big 4 Scout Camp",
+        "type": "council_camp",
+        "council": "Northern Lights Council",
+        "address": "900 54th St, Minot, ND 58703",
+        "website": "https://scoutingnlc.org/campingprograms/properties/big4/",
+        "description": "Northern Lights Council Scout camp just west of Minot, North Dakota, used for day camp programs, Webelos and Scout campouts."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.9473, 47.0960]
+      },
+      "properties": {
+        "name": "Butler Wilderness Outpost",
+        "type": "council_camp",
+        "council": "Northern Lights Council",
+        "address": "29984 Journey Trail, Park Rapids, MN 56470",
+        "website": "https://scoutingnlc.org/campingprograms/properties/butleroutpost/",
+        "description": "Northern Lights Council Cub Scout facility on a 2,400-acre outdoor classroom near Park Rapids, Minnesota."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.9473, 47.0960]
+      },
+      "properties": {
+        "name": "Camp Wilderness",
+        "type": "council_camp",
+        "council": "Northern Lights Council",
+        "address": "29984 Journey Trail, Park Rapids, MN 56470",
+        "website": "https://scoutingnlc.org/campingprograms/properties/camp-wilderness/",
+        "description": "Northern Lights Council's premier 2,400-acre Scouts BSA summer camp, 17 miles north of Park Rapids, Minnesota."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-101.8098, 46.5908]
+      },
+      "properties": {
+        "name": "Heart Butte Scout Reservation",
+        "type": "council_camp",
+        "council": "Northern Lights Council",
+        "address": "5680 ND49, Elgin, ND 58533",
+        "website": "https://scoutingnlc.org/campingprograms/properties/heartbutte/",
+        "description": "Northern Lights Council Scout reservation on Lake Tschida, south of Glen Ullin, offering Cub Scout adventure camp and year-round weekend camping."
+      }
     }
   ]
 }
