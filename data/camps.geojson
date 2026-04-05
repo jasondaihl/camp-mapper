@@ -1461,6 +1461,141 @@
         "website": "https://www.scoutingvermont.org/mtnorris.html",
         "description": "A scenic 1,071-acre Scout reservation in Eden Mills, Vermont, serving the Green Mountain Council for over 75 years with summer camp and year-round programs."
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.7699, 41.2608]
+      },
+      "properties": {
+        "name": "Camp Browning",
+        "type": "council_camp",
+        "council": "Crossroads of the West Council",
+        "address": "15510 East Causey Dr, Huntsville, UT 84317",
+        "website": "https://www.utahscouts.org/browning",
+        "description": "Crossroads of the West Council Scout camp near Causey Reservoir in the mountains east of Huntsville, Utah."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-112.0639, 41.8253]
+      },
+      "properties": {
+        "name": "Camp Fife",
+        "type": "council_camp",
+        "council": "Crossroads of the West Council",
+        "address": "Fielding, UT 84311",
+        "website": "https://www.utahscouts.org/fife",
+        "description": "A 30-acre Scout camp on the Bear River near Cutler Dam, an hour north of Ogden, offering aquatics-focused summer programs."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.3950, 41.9750]
+      },
+      "properties": {
+        "name": "Camp Hunt Aquatics Base",
+        "type": "council_camp",
+        "council": "Crossroads of the West Council",
+        "address": "2000 N Bear Lake Blvd, Garden City, UT 84028",
+        "website": "https://www.utahscouts.org/hunt",
+        "description": "Aquatics-focused Scout camp on the west shore of Bear Lake, two miles north of Garden City, offering big-lake adventure programs."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.5758, 41.3158]
+      },
+      "properties": {
+        "name": "Camp Kiesel",
+        "type": "council_camp",
+        "council": "Crossroads of the West Council",
+        "address": "15510 Causey Dr, Huntsville, UT 84317",
+        "website": "https://www.utahscouts.org/kiesel",
+        "description": "Crossroads of the West Council Scout camp near Huntsville, Utah, offering summer resident camp and year-round outdoor programs."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.6933, 39.9730]
+      },
+      "properties": {
+        "name": "Camp Maple Dell",
+        "type": "council_camp",
+        "council": "Crossroads of the West Council",
+        "address": "14166 S Payson Canyon Rd, Payson, UT 84651",
+        "website": "https://www.utahscouts.org/mapledell",
+        "description": "Crossroads of the West Council Scout camp in Payson Canyon along the historic Mt. Nebo Loop, offering summer resident camp and year-round programs."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.3837, 39.5021]
+      },
+      "properties": {
+        "name": "Camp Tifie",
+        "type": "council_camp",
+        "council": "Crossroads of the West Council",
+        "address": "Sky Haven Dr, Mount Pleasant, UT 84647",
+        "website": "https://www.utahscouts.org/tifie",
+        "description": "Crossroads of the West Council Scout camp perched among oak and pine trees with views of Mount Pleasant, offering Scouts BSA summer camp programs."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.7506, 40.6939]
+      },
+      "properties": {
+        "name": "Camp Tracy",
+        "type": "council_camp",
+        "council": "Crossroads of the West Council",
+        "address": "3901 E Mill Creek Canyon Rd, Salt Lake City, UT 84109",
+        "website": "https://www.utahscouts.org/tracy",
+        "description": "Crossroads of the West Council Scout camp in Mill Creek Canyon, Salt Lake City, offering shooting sports, adventure programs, and year-round camping."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-113.3967, 37.1847]
+      },
+      "properties": {
+        "name": "Quail Creek Scout Camp",
+        "type": "council_camp",
+        "council": "Crossroads of the West Council",
+        "address": "4680 W 150 N, Hurricane, UT 84737",
+        "website": "https://www.utahscouts.org/camps",
+        "description": "Crossroads of the West Council Scout camp in southern Utah near Quail Creek Reservoir, offering day camps and year-round outdoor programs."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.1113, 43.7233]
+      },
+      "properties": {
+        "name": "Teton High Adventure Base",
+        "type": "council_high_adventure",
+        "council": "Crossroads of the West Council",
+        "address": "PO Box 343, Driggs, ID 83422",
+        "website": "https://www.utahscouts.org/teton",
+        "description": "A nationally accredited high adventure base offering programs throughout the Teton Range, 16 miles south of Jackson Hole."
+      }
     }
   ]
 }
