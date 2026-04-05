@@ -921,6 +921,51 @@
         "website": "https://www.scoutinghawaii.org/camps/oahu/",
         "description": "Flagship camp of the Aloha Council on 70 acres on Oahu's North Shore. Features the Weinberg Lodge, swimming pool, riflery range, and hosts summer camp, Winter Summit, and NYLT."
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-105.3410, 42.3317]
+      },
+      "properties": {
+        "name": "Camp Laramie Peak",
+        "type": "council_camp",
+        "council": "Adventure West Council",
+        "address": "65 Forest Service Rd #633, Wheatland, WY 82201",
+        "website": "https://awbsa.org/",
+        "description": "An intimate Scout camp limited to 150 Scouts per session in the Laramie Mountains, offering shooting sports, nature programs, and a Living History area with metalworking and western heritage."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-110.8577, 44.1094]
+      },
+      "properties": {
+        "name": "Camp Loll",
+        "type": "council_camp",
+        "council": "Crossroads of the West Council",
+        "address": "Ashton-Flagg Ranch Rd, Moran, WY 83013",
+        "website": "https://www.utahscouts.org/loll/",
+        "description": "Scout camp and high adventure base on Lake of the Woods in Targhee National Forest, one mile from Yellowstone and four miles from Grand Teton National Park."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-106.1092, 41.0722]
+      },
+      "properties": {
+        "name": "Chimney Park Scout Camp",
+        "type": "council_camp",
+        "council": "Adventure West Council",
+        "address": "1 Scout Rd, Woods Landing-Jelm, WY 82063",
+        "website": "https://awbsa.org/",
+        "description": "A historic Scout camp in the Snowy Range Mountains, approximately 33 miles west of Laramie, offering camping and outdoor adventure on over 100 acres of Forest Service land."
+      }
     }
   ]
 }
