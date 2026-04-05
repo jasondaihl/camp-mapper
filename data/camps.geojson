@@ -281,6 +281,21 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [-90.9006, 41.4019]
+      },
+      "properties": {
+        "name": "Camp Loud Thunder",
+        "type": "council_camp",
+        "council": "Illowa Council",
+        "address": "9906-175th Street West, Illinois City, IL 61259",
+        "website": "https://loudthunder.org/",
+        "description": "A 200-acre Scout reservation adjacent to Loud Thunder Forest Preserve near the Mississippi River, offering summer resident camp, aquatics, climbing, shooting sports, and year-round camping."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-89.968, 42.11]
       },
       "properties": {
