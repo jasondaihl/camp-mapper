@@ -2393,6 +2393,278 @@
         "website": "https://www.longhorncouncil.org/",
         "description": "Scout ranch roughly 60 miles west of Fort Worth, offering summer camp and year-round camping programs."
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-85.8552, 31.4102]
+      },
+      "properties": {
+        "name": "Camp Alaflo",
+        "type": "council_camp",
+        "council": "Alabama-Florida Council",
+        "city": "Enterprise",
+        "state": "AL",
+        "website": "https://bsa3.org/summer-camp-2/",
+        "description": "520-acre council camp near Enterprise featuring lake swimming, canoeing, archery, shotgun, and rifle ranges."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-85.6147, 34.5243]
+      },
+      "properties": {
+        "name": "Camp Comer Scout Reservation",
+        "type": "council_camp",
+        "council": "Greater Alabama Council",
+        "city": "Mentone",
+        "state": "AL",
+        "website": "https://1bsa.org/camp-comer/",
+        "description": "1,000+ acre scout reservation on Lookout Mountain featuring a 90-acre lake, 5-mile Thunderbird Trail with waterfalls and rock crevices. Open since 1966."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-87.3938, 33.1853]
+      },
+      "properties": {
+        "name": "Camp Horne",
+        "type": "council_camp",
+        "council": "Black Warrior Council",
+        "city": "Cottondale",
+        "state": "AL",
+        "website": "https://www.bwc-bsa.org/facilities",
+        "description": "488-acre nationally accredited summer camp with two lakes, shooting sports complex, and climbing/rappelling tower. In operation since 1924."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-87.0595, 33.2516]
+      },
+      "properties": {
+        "name": "Camp Jack Wright",
+        "type": "council_camp",
+        "council": "Greater Alabama Council",
+        "city": "McCalla",
+        "state": "AL",
+        "website": "https://1bsa.org/camp-jack-wright/",
+        "description": "40-acre primitive camping facility in Roupes Valley surrounded by Tannehill Historical State Park. Dedicated May 4, 1997."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-85.9321, 34.6498]
+      },
+      "properties": {
+        "name": "Camp Jackson",
+        "type": "council_camp",
+        "council": "Greater Alabama Council",
+        "city": "Scottsboro",
+        "state": "AL",
+        "website": "https://1bsa.org/camp-jackson/",
+        "description": "515-acre camp located 5 miles east of Scottsboro on the Tennessee River at Jones Cove."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-87.2710, 33.8996]
+      },
+      "properties": {
+        "name": "Camp O'Rear",
+        "type": "council_camp",
+        "council": "Black Warrior Council",
+        "city": "Jasper",
+        "state": "AL",
+        "website": "https://www.bwc-bsa.org/facilities",
+        "description": "90-acre primitive-style scout camp featuring a small dining hall with kitchen and fireplace."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-85.6699, 33.5237]
+      },
+      "properties": {
+        "name": "Camp Sequoyah (Frank Spain Scout Reservation)",
+        "type": "council_camp",
+        "council": "Greater Alabama Council",
+        "city": "Delta",
+        "state": "AL",
+        "website": "https://1bsa.org/camp-seqouyah/",
+        "description": "1,447-acre reservation in the Talladega National Forest near Mt. Cheaha, featuring 80-acre Lake Cross for boating, kayaking, and swimming. Dedicated June 29, 1972."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-87.5681, 34.8823]
+      },
+      "properties": {
+        "name": "Camp Westmoreland",
+        "type": "council_camp",
+        "council": "Greater Alabama Council",
+        "city": "Florence",
+        "state": "AL",
+        "website": "https://1bsa.org/camp-westmorland/",
+        "description": "284-acre historic camp on Shoals Creek, one of the oldest BSA camps in the US dating to 1929. Listed on the Alabama Historical Commission Register."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-87.8134, 31.6089]
+      },
+      "properties": {
+        "name": "Maubila Scout Reservation",
+        "type": "council_camp",
+        "council": "Mobile Area Council",
+        "city": "Grove Hill",
+        "state": "AL",
+        "website": "https://scoutingmac.org/camp-maubila/",
+        "description": "450+ acre reservation in Clarke County featuring a lake for water sports, dining hall, archery, marksmanship, nature study, and STEM lab."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-86.5049, 32.5828]
+      },
+      "properties": {
+        "name": "Warner Scout Reservation",
+        "type": "council_camp",
+        "council": "Tukabatchee Area Council",
+        "city": "Prattville",
+        "state": "AL",
+        "website": "https://www.tukabatcheebsa.org/camp-tukabatchee",
+        "description": "1,000-acre reservation with two camps: Camp Tukabatchee (350 acres, opened 2000) and Cub Scout Camp Dexter C. Hobbs. Features a 50-acre lake and COPE course."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-87.8363, 32.5486]
+      },
+      "properties": {
+        "name": "White Bluff Scout Reservation",
+        "type": "council_camp",
+        "council": "Black Warrior Council",
+        "city": "Demopolis",
+        "state": "AL",
+        "website": "https://www.bwc-bsa.org/facilities",
+        "description": "Primitive scout high adventure camp on the Black Warrior River featuring a large pavilion and boat landing."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.3736, 34.4068]
+      },
+      "properties": {
+        "name": "Camp Geronimo",
+        "type": "council_camp",
+        "council": "Grand Canyon Council",
+        "city": "Payson",
+        "state": "AZ",
+        "website": "https://www.campgeronimo.org/",
+        "description": "Nearly 200-acre summer camp at 5,420 ft elevation at the base of the Mogollon Rim, featuring 29 campsites, a lake, climbing tower, swimming pool, and shooting sports."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-110.7215, 32.4033]
+      },
+      "properties": {
+        "name": "Camp Lawton",
+        "type": "council_camp",
+        "council": "Catalina Council",
+        "city": "Tucson",
+        "state": "AZ",
+        "website": "https://catalinacouncil.org/outdoors/lawton/",
+        "description": "Scout camp in the Santa Catalina Mountains, continuously operated since 1921. Offers mountain biking, hiking trails, tent and cabin camping."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.0779, 32.1779]
+      },
+      "properties": {
+        "name": "Double V Scout Ranch",
+        "type": "council_camp",
+        "council": "Catalina Council",
+        "city": "Tucson",
+        "state": "AZ",
+        "website": "https://catalinacouncil.org/outdoors/doublev/",
+        "description": "360-acre ranch six miles southwest of Tucson near Cat Mountain, featuring ramadas, a junior Olympic swimming pool, and Sonoran Desert terrain."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-112.0408, 33.3614]
+      },
+      "properties": {
+        "name": "Heard Scout Pueblo",
+        "type": "council_camp",
+        "council": "Grand Canyon Council",
+        "city": "Phoenix",
+        "state": "AZ",
+        "website": "https://www.heardscoutpueblo.org/",
+        "description": "500-acre Sonoran Desert property at the base of South Mountain with 120 acres of trails, hosting Cub Scout Day Camp, shooting sports, and camping."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.0500, 34.3010]
+      },
+      "properties": {
+        "name": "R-C Scout Ranch",
+        "type": "council_camp",
+        "council": "Grand Canyon Council",
+        "city": "Payson",
+        "state": "AZ",
+        "website": "https://www.r-cscoutranch.org/",
+        "description": "78-acre former working cattle ranch southeast of Payson along AZ Route 260, purchased in 1945. Home to Cub Scout Summer Resident Camp and various training programs."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.9729, 35.1384]
+      },
+      "properties": {
+        "name": "Raymond Scout Reservation",
+        "type": "council_camp",
+        "council": "Grand Canyon Council",
+        "city": "Parks",
+        "state": "AZ",
+        "website": "https://www.campraymond.org/",
+        "description": "160-acre camp between the Kaibab and Coconino National Forests, 30 miles from Flagstaff along the rim of Sycamore Canyon. Opened in 1964."
+      }
     }
   ]
 }
