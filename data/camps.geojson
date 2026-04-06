@@ -926,7 +926,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-105.3410, 42.3317]
+        "coordinates": [-105.341, 42.3317]
       },
       "properties": {
         "name": "Camp Laramie Peak",
@@ -1046,7 +1046,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-91.2350, 44.0300]
+        "coordinates": [-91.235, 44.03]
       },
       "properties": {
         "name": "Camp Decorah",
@@ -1361,7 +1361,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-77.6659, 38.8280]
+        "coordinates": [-77.6659, 38.828]
       },
       "properties": {
         "name": "Camp William B. Snyder",
@@ -1376,7 +1376,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-77.8680, 37.6770]
+        "coordinates": [-77.868, 37.677]
       },
       "properties": {
         "name": "Cub Adventure Camp",
@@ -1496,7 +1496,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-111.3950, 41.9750]
+        "coordinates": [-111.395, 41.975]
       },
       "properties": {
         "name": "Camp Hunt Aquatics Base",
@@ -1526,7 +1526,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-111.6933, 39.9730]
+        "coordinates": [-111.6933, 39.973]
       },
       "properties": {
         "name": "Camp Maple Dell",
@@ -1811,7 +1811,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-150.2436, 62.5540]
+        "coordinates": [-150.2436, 62.554]
       },
       "properties": {
         "name": "Denali High Adventure Scout Base",
@@ -1841,7 +1841,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-146.6920, 64.2970]
+        "coordinates": [-146.692, 64.297]
       },
       "properties": {
         "name": "Lost Lake Scout Camp",
@@ -1886,7 +1886,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-96.7530, 45.4870]
+        "coordinates": [-96.753, 45.487]
       },
       "properties": {
         "name": "Camp Iyataka",
@@ -1946,7 +1946,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-96.5700, 43.2188]
+        "coordinates": [-96.57, 43.2188]
       },
       "properties": {
         "name": "Newton Hills Camp",
@@ -1976,7 +1976,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-94.9473, 47.0960]
+        "coordinates": [-94.9473, 47.096]
       },
       "properties": {
         "name": "Butler Wilderness Outpost",
@@ -1991,7 +1991,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-94.9473, 47.0960]
+        "coordinates": [-94.9473, 47.096]
       },
       "properties": {
         "name": "Camp Wilderness",
@@ -2021,7 +2021,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-97.4200, 31.8500]
+        "coordinates": [-97.42, 31.85]
       },
       "properties": {
         "name": "Camp Shuler",
@@ -2127,7 +2127,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-96.9310, 32.6743]
+        "coordinates": [-96.931, 32.6743]
       },
       "properties": {
         "name": "Camp Wisdom",
@@ -2178,7 +2178,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-101.3945, 33.1680]
+        "coordinates": [-101.3945, 33.168]
       },
       "properties": {
         "name": "C.W. Post Memorial Camp",
@@ -2313,7 +2313,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-97.5833, 26.2500]
+        "coordinates": [-97.5833, 26.25]
       },
       "properties": {
         "name": "Camp Perry",
@@ -2478,7 +2478,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-87.2710, 33.8996]
+        "coordinates": [-87.271, 33.8996]
       },
       "properties": {
         "name": "Camp O'Rear",
@@ -2638,7 +2638,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-111.0500, 34.3010]
+        "coordinates": [-111.05, 34.301]
       },
       "properties": {
         "name": "R-C Scout Ranch",
@@ -2734,7 +2734,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-92.2400, 36.3450]
+        "coordinates": [-92.24, 36.345]
       },
       "properties": {
         "name": "Camp Spencer",
@@ -2782,7 +2782,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-94.0118, 35.0560]
+        "coordinates": [-94.0118, 35.056]
       },
       "properties": {
         "name": "Rogers Scout Reservation",
@@ -2792,6 +2792,54 @@
         "state": "AR",
         "website": "https://www.naturalstatecouncil.org/RSR",
         "description": "2,800-acre facility built on former Booneville Sanatorium land, featuring a 250-person dining hall, training lodge, and 115-acre Keenan Lake."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.6714, 46.4967]
+      },
+      "properties": {
+        "name": "Camp Alpine (Kandersteg International Scout Centre)",
+        "type": "council_high_adventure",
+        "council": "Transatlantic Council",
+        "city": "Kandersteg",
+        "state": null,
+        "website": "https://tacscouting.org/camps/camp-alpine/",
+        "description": "BSA high adventure program at the Kandersteg International Scout Centre in the Swiss Alps, offering hiking, climbing, and cultural exchange."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.5022, 45.4872]
+      },
+      "properties": {
+        "name": "Camp Avantura BSA",
+        "type": "council_high_adventure",
+        "council": "Transatlantic Council",
+        "city": "Savudrija",
+        "state": null,
+        "website": "https://tacscouting.org/camps/camp-avantura/",
+        "description": "BSA high adventure base on the Istrian Peninsula in Croatia, offering sailing, sea kayaking, and cultural exploration along the Adriatic coast."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.2078, -0.6633]
+      },
+      "properties": {
+        "name": "Camp Kenya",
+        "type": "council_high_adventure",
+        "council": "Transatlantic Council",
+        "city": "Sagana",
+        "state": null,
+        "website": "https://tacscouting.org/camps/campkenya/",
+        "description": "BSA high adventure program in Kenya featuring wildlife safaris, community service projects, and outdoor adventures near Mount Kenya."
       }
     }
   ]
