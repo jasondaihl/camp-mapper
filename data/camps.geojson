@@ -2122,6 +2122,277 @@
         "website": "https://www.scoutinglvac.org/engelstad-scout-park/",
         "description": "Las Vegas Area Council Scout park located on S Paradise Road, serving as the council's Scouting resource center and outdoor activity site."
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-96.9310, 32.6743]
+      },
+      "properties": {
+        "name": "Camp Wisdom",
+        "type": "council_camp",
+        "council": "Circle Ten Council",
+        "address": "6400 W Red Bird Ln, Dallas, TX 75236",
+        "city": "Dallas",
+        "state": "TX",
+        "website": "https://www.circletenbsa.org/",
+        "description": "Urban council camp in Dallas used for Cub Adventure Camps and various Scouting programs."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-97.9018, 33.1972]
+      },
+      "properties": {
+        "name": "Chisholm Trail High Adventure Base",
+        "type": "council_high_adventure",
+        "council": "Longhorn Council",
+        "address": "Boy Scout Rd, Runaway Bay, TX 76425",
+        "city": "Bridgeport",
+        "state": "TX",
+        "website": "https://www.longhorncouncil.org/",
+        "description": "High adventure base on Lake Bridgeport with 15 miles of lake access, offering aquatics and wilderness programs."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-95.8989, 32.0965]
+      },
+      "properties": {
+        "name": "Clements Scout Reservation",
+        "type": "council_camp",
+        "council": "Circle Ten Council",
+        "address": "11217 FM 2970, Athens, TX 75751",
+        "city": "Athens",
+        "state": "TX",
+        "website": "https://www.circletenbsa.org/",
+        "description": "3,300-acre ranch named after former Texas Governor Bill Clements, home to Trevor Rees-Jones Scout Camp with summer camp, horse programs, and year-round camping."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-101.3945, 33.1680]
+      },
+      "properties": {
+        "name": "C.W. Post Memorial Camp",
+        "type": "council_camp",
+        "council": "South Plains Council",
+        "address": "1730 FM 669, Post, TX 79356",
+        "city": "Post",
+        "state": "TX",
+        "website": "https://www.southplainscouncil.org/",
+        "description": "Established in 1926 in Garza County, one of the oldest Scout camps in West Texas."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-97.1611, 33.1837]
+      },
+      "properties": {
+        "name": "Hills and Hollows",
+        "type": "council_camp",
+        "council": "Longhorn Council",
+        "address": "3945 Roselawn Dr, Denton, TX 76207",
+        "city": "Decatur",
+        "state": "TX",
+        "website": "https://www.longhorncouncil.org/",
+        "description": "25-acre camp with 4 campsites and a pavilion on the south side of Denton."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-97.1647, 26.1037]
+      },
+      "properties": {
+        "name": "Laguna Station Sea Base",
+        "type": "council_high_adventure",
+        "council": "Rio Grande Council",
+        "city": "South Padre Island",
+        "state": "TX",
+        "website": "https://www.riograndecouncil.org/",
+        "description": "Sea base on South Padre Island offering aquatic and marine adventure programs."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-97.2677, 30.1745]
+      },
+      "properties": {
+        "name": "Lost Pines Scout Reservation",
+        "type": "council_camp",
+        "council": "Capitol Area Council",
+        "address": "785 FM 1441, Bastrop, TX 78602",
+        "city": "Bastrop",
+        "state": "TX",
+        "website": "http://www.capitolareascouting.org/",
+        "description": "Nearly 542-acre reservation on the north shores of Lake Bastrop, offering summer camp, winter camp, and year-round camping."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-98.5713, 29.2475]
+      },
+      "properties": {
+        "name": "Mays Family Scout Ranch",
+        "type": "council_camp",
+        "council": "Alamo Area Council",
+        "address": "3445 Fest Rd, San Antonio, TX 78264",
+        "city": "San Antonio",
+        "state": "TX",
+        "website": "https://www.alamoareabsa.org/",
+        "description": "140-acre ranch alongside the Medina River south of downtown San Antonio, designed for youth and family camping."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-98.5316, 29.5353]
+      },
+      "properties": {
+        "name": "McGimsey Scout Park",
+        "type": "council_camp",
+        "council": "Alamo Area Council",
+        "address": "10810 Wedgewood Dr, San Antonio, TX 78230",
+        "city": "San Antonio",
+        "state": "TX",
+        "website": "https://www.alamoareabsa.org/",
+        "description": "140-acre camp in North Central San Antonio hosting Cub Scout Day Camps, family camps, and training courses."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-96.0189, 30.3364]
+      },
+      "properties": {
+        "name": "McNair Cub Scout Adventure Camp / Tellepsen Scout Camp",
+        "type": "council_camp",
+        "council": "Sam Houston Area Council",
+        "address": "3450 County Road 317, Navasota, TX 77868",
+        "city": "Huntsville",
+        "state": "TX",
+        "website": "https://www.samhoustonbsa.org/",
+        "description": "Part of the Bovay Scout Ranch complex. Tellepsen serves Boy Scout troops with shooting sports and climbing; McNair serves Cub Scout families with weekend adventure programs."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-98.4803, 34.0572]
+      },
+      "properties": {
+        "name": "Perkins Scout Reservation",
+        "type": "council_camp",
+        "council": "Northwest Texas Council",
+        "address": "9970 Perkins Rd, Wichita Falls, TX 76305",
+        "city": "Burkburnett",
+        "state": "TX",
+        "website": "https://www.nwtbsa.org/",
+        "description": "Approximately 400-acre reservation donated by J.J. and Lois Perkins, located between Sheppard Air Force Base and Burkburnett."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-97.5833, 26.2500]
+      },
+      "properties": {
+        "name": "Camp Perry",
+        "type": "council_camp",
+        "council": "Rio Grande Council",
+        "address": "FM 1420, Rio Hondo, TX 78583",
+        "city": "Rio Hondo",
+        "state": "TX",
+        "website": "https://www.riograndecouncil.org/",
+        "description": "Founded in 1927, the oldest continuous Boy Scout camp in Texas, located 2 miles north of Rio Hondo."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-97.2407, 29.9597]
+      },
+      "properties": {
+        "name": "Roy D. Rivers Wilderness Camp",
+        "type": "council_camp",
+        "council": "Capitol Area Council",
+        "address": "172 Split Oak Road, Smithville, TX 78957",
+        "city": "Smithville",
+        "state": "TX",
+        "website": "http://www.capitolareascouting.org/",
+        "description": "Almost 400 acres of rugged wilderness between Smithville and Rosanky, offering primitive camping year-round with no defined campsites or facilities."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.4384, 30.7542]
+      },
+      "properties": {
+        "name": "Scott Scout Ranch (Camp Urland)",
+        "type": "council_camp",
+        "council": "Three Rivers Council",
+        "address": "1170 Spring Valley Dr, Woodville, TX 75979",
+        "city": "Woodville",
+        "state": "TX",
+        "website": "https://www.threeriversbsa.org/",
+        "description": "715 acres in the East Texas Piney Woods offering canoeing, shooting sports, cycling, welding, archery, and blacksmithing year-round."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-97.9076, 33.1956]
+      },
+      "properties": {
+        "name": "Sid Richardson Scout Ranch",
+        "type": "council_camp",
+        "council": "Longhorn Council",
+        "address": "Boy Scout Road, Runaway Bay, TX 76426",
+        "city": "Bridgeport",
+        "state": "TX",
+        "website": "https://www.longhorncouncil.org/",
+        "description": "2,500-acre camp with over 15 miles of shoreline on Lake Bridgeport, about 60 miles northwest of Fort Worth."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-98.3168, 32.8161]
+      },
+      "properties": {
+        "name": "Worth Ranch",
+        "type": "council_camp",
+        "council": "Longhorn Council",
+        "address": "1518 Worth Ranch Road, Palo Pinto, TX 76484",
+        "city": "Palo Pinto",
+        "state": "TX",
+        "website": "https://www.longhorncouncil.org/",
+        "description": "Scout ranch roughly 60 miles west of Fort Worth, offering summer camp and year-round camping programs."
+      }
     }
   ]
 }
