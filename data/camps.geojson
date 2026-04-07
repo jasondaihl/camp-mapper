@@ -3607,6 +3607,91 @@
         "website": "https://www.mainehighadventure.org",
         "description": "High adventure base at the northeast corner of Baxter State Park on Grand Lake Matagamon."
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.2695, 39.6963]
+      },
+      "properties": {
+        "name": "Broad Creek Memorial Scout Reservation",
+        "type": "council_camp",
+        "council": "Baltimore Area Council",
+        "city": "Whiteford",
+        "state": "MD",
+        "address": "1929 Susquehanna Hall Rd, Whiteford, MD 21160",
+        "website": "https://broadcreekscouting.org/",
+        "description": "Outdoor youth learning center owned and operated by the Baltimore Area Council."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.4696, 37.9674]
+      },
+      "properties": {
+        "name": "Goshen Scout Reservation",
+        "type": "council_camp",
+        "council": "National Capital Area Council",
+        "city": "Goshen",
+        "state": "VA",
+        "address": "340 Millard Burke Memorial Hwy, Goshen, VA 24439",
+        "website": "https://www.gotogoshen.org/",
+        "description": "Multi-camp Scout reservation in the Blue Ridge Mountains with a 450-acre lake, including Camp Bowman and Camp Baird."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.7459, 38.5494]
+      },
+      "properties": {
+        "name": "Henson Scout Reservation",
+        "type": "council_camp",
+        "council": "Del-Mar-Va Council",
+        "city": "Galestown",
+        "state": "MD",
+        "address": "5700 Nanticoke Rd, Rhodesdale, MD 21659",
+        "website": "https://www.delmarvacouncil.org/henson-scout-reservation/",
+        "description": "1,500-acre Scout camp on the Delmarva Peninsula in continuous operation since 1965."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.1159, 39.7177]
+      },
+      "properties": {
+        "name": "Horseshoe Scout Reservation",
+        "type": "council_camp",
+        "council": "Chester County Council",
+        "city": "Darlington",
+        "state": "MD",
+        "address": "1286 Ridge Rd, Rising Sun, MD 21911",
+        "website": "https://campreservation.com/539/Camps/432",
+        "description": "Scout reservation divided into Camp Horseshoe in Maryland and Camp John H. Ware III in Pennsylvania."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.9549, 39.5287]
+      },
+      "properties": {
+        "name": "Rodney Scout Reservation",
+        "type": "council_camp",
+        "council": "Del-Mar-Va Council",
+        "city": "North East",
+        "state": "MD",
+        "address": "400 Rodney Scout Rd, North East, MD 21901",
+        "website": "https://www.delmarvacouncil.org/rodney-scout-reservation/",
+        "description": "The only Scout camp on the Chesapeake Bay, founded in 1923."
+      }
     }
   ]
 }
