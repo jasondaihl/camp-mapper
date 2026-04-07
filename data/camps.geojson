@@ -2257,27 +2257,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -94.9473,
-          47.096
-        ]
-      },
-      "properties": {
-        "name": "Camp Wilderness",
-        "type": "council_camp",
-        "council": "Northern Lights Council",
-        "address": "29984 Journey Trail, Park Rapids, MN 56470",
-        "website": "https://scoutingnlc.org/campingprograms/properties/camp-wilderness/",
-        "description": "Northern Lights Council's premier 2,400-acre Scouts BSA summer camp, 17 miles north of Park Rapids, Minnesota.",
-        "city": "Park Rapids",
-        "state": "MN",
-        "country": "USA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -101.8098,
           46.5908
         ]
@@ -10744,6 +10723,279 @@
         "address": null,
         "city": "Marshfield",
         "state": "MO",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0931,
+          44.9497
+        ]
+      },
+      "properties": {
+        "name": "Base Camp (Northern Star Council)",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Saint Paul",
+        "state": "MN",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.0586,
+          46.9222
+        ]
+      },
+      "properties": {
+        "name": "Camp Wilderness (Northern Lights Council)",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Park Rapids",
+        "state": "MN",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.2188,
+          44.1058
+        ]
+      },
+      "properties": {
+        "name": "Cedar Point Scout Camp",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Lake Crystal",
+        "state": "MN",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.9578,
+          46.4822
+        ]
+      },
+      "properties": {
+        "name": "Cuyuna Scout Camp",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Crosby",
+        "state": "MN",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.4421,
+          46.2027
+        ]
+      },
+      "properties": {
+        "name": "Fred C. Anderson Scout Camp",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Camp Ripley",
+        "state": "MN",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.4252,
+          43.9461
+        ]
+      },
+      "properties": {
+        "name": "Gamehaven Scout Camp",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Rochester",
+        "state": "MN",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.7697,
+          45.1987
+        ]
+      },
+      "properties": {
+        "name": "Kiwanis Scout Reservation",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Marine on Saint Croix",
+        "state": "MN",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3839,
+          46.97
+        ]
+      },
+      "properties": {
+        "name": "Many Point Scout Camp",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Ponsford",
+        "state": "MN",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.9585,
+          44.3238
+        ]
+      },
+      "properties": {
+        "name": "Norseland Scout Reservation",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Saint Peter",
+        "state": "MN",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.2886,
+          46.5205
+        ]
+      },
+      "properties": {
+        "name": "Parker Scout Reservation",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Nisswa",
+        "state": "MN",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.9678,
+          44.5059
+        ]
+      },
+      "properties": {
+        "name": "Phillippo Scout Reservation",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Cannon Falls",
+        "state": "MN",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.4035,
+          45.2594
+        ]
+      },
+      "properties": {
+        "name": "Rum River Scout Camp",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Anoka",
+        "state": "MN",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.215,
+          45.2918
+        ]
+      },
+      "properties": {
+        "name": "Stearns Scout Camp",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "South Haven",
+        "state": "MN",
         "country": "USA",
         "website": null,
         "description": null
