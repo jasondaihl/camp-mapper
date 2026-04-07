@@ -4916,6 +4916,176 @@
         "website": "https://scoutingcolorado.org/",
         "description": "A 3,300-acre scout ranch at 7,000 feet elevation near Elbert, renamed in 2021 in honor of former Council President Charles S. McNeil."
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-72.1509, 42.0143]
+      },
+      "properties": {
+        "name": "Camp Pomperaug",
+        "type": "council_camp",
+        "council": "Connecticut Yankee Council",
+        "city": "Woodbury",
+        "state": "CT",
+        "address": "1174 Buckley Highway, Union, CT 06076",
+        "website": "https://www.ctyankee.org/venue/camp-pomperaug/",
+        "description": "A 160-acre camp featuring Wells Pond and access to Lake Mashapaug, surrounded by Nipmuck State Forest near the Massachusetts border."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.0540, 41.8790]
+      },
+      "properties": {
+        "name": "Camp Sequassen",
+        "type": "council_camp",
+        "council": "Connecticut Yankee Council",
+        "city": "New Hartford",
+        "state": "CT",
+        "address": "791 West Hill Road, New Hartford, CT 06057",
+        "website": "https://www.sequassen.org/",
+        "description": "A 600-acre camp at the foot of the Berkshires with over 2,500 feet of shoreline on West Hill Pond, serving Scouts since 1927."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.0412, 41.8870]
+      },
+      "properties": {
+        "name": "Camp Workcoeman",
+        "type": "council_camp",
+        "council": "Connecticut Rivers Council",
+        "city": "New Hartford",
+        "state": "CT",
+        "address": "169 Camp Workcoeman Road, New Hartford, CT 06057",
+        "website": "https://campworkcoeman.org/",
+        "description": "One of the oldest continuously operated Scout camps in the country, established 1924, spanning approximately 427 acres on the shore of West Hill Pond."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.2492, 41.8458]
+      },
+      "properties": {
+        "name": "Edmund D. Strang Scout Reservation",
+        "type": "council_camp",
+        "council": "Housatonic Council",
+        "city": "Goshen",
+        "state": "CT",
+        "address": "278 Westside Road, Goshen, CT 06756",
+        "website": "https://www.housatonicscouting.org/camp-strang",
+        "description": "A 186-acre Scout reservation in Goshen offering resident camping, merit badge programs, and STEM activities."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.6756, 41.0644]
+      },
+      "properties": {
+        "name": "Ernest Thompson Seton Scout Reservation",
+        "type": "council_camp",
+        "council": "Greenwich Council",
+        "city": "Greenwich",
+        "state": "CT",
+        "address": "363 Riversville Road, Greenwich, CT 06831",
+        "website": "https://www.greenwichscouting.org/",
+        "description": "A 249-acre Scout reservation featuring two lakes, five miles of hiking trails, campsites, lean-tos, cabins, and an outdoor swimming pool."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.1851, 42.0165]
+      },
+      "properties": {
+        "name": "Frederick Sprague Barbour Scout Reservation",
+        "type": "council_camp",
+        "council": "Connecticut Rivers Council",
+        "city": "Norfolk",
+        "state": "CT",
+        "address": "323 Loon Meadow Drive, Norfolk, CT 06058",
+        "website": "https://www.ctscouting.org/camp-barbour",
+        "description": "A 106-acre forested wilderness camping facility in Norfolk used for short-term and seasonal camping programs."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.4454, 41.3149]
+      },
+      "properties": {
+        "name": "John Sherman Hoyt Scout Reservation",
+        "type": "council_camp",
+        "council": "Connecticut Yankee Council",
+        "city": "Redding",
+        "state": "CT",
+        "address": "262 Simpaug Turnpike, Redding, CT 06896",
+        "website": "https://www.ctyankee.org/scout-info/council-camps/hoyt/",
+        "description": "A 170-acre tent camping facility in West Redding with lean-to sites, a rifle range, archery range, and a 9-hole disc golf course."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-72.1467, 41.8765]
+      },
+      "properties": {
+        "name": "June Norcross Webster Scout Reservation",
+        "type": "council_camp",
+        "council": "Connecticut Rivers Council",
+        "city": "Ashford",
+        "state": "CT",
+        "address": "231 Ashford Center Road, Ashford, CT 06278",
+        "website": "https://www.gotowebster.org/",
+        "description": "One of New England's most popular Scout camps, established in 1964, offering innovative summer camp programs in Ashford."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.0504, 41.6334]
+      },
+      "properties": {
+        "name": "Mattatuck Scout Reservation",
+        "type": "council_camp",
+        "council": "Connecticut Rivers Council",
+        "city": "Plymouth",
+        "state": "CT",
+        "address": "221 Mt. Tobe Road, Plymouth, CT 06782",
+        "website": "https://www.campmattatuck.org/",
+        "description": "A 500-acre camp established in 1939 featuring Tomlinson Pond, offering Scouts BSA resident camp, Cub Scout programs, and year-round events."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-72.8610, 41.4135]
+      },
+      "properties": {
+        "name": "Wah Wah Taysee",
+        "type": "council_camp",
+        "council": "Connecticut Yankee Council",
+        "city": "North Haven",
+        "state": "CT",
+        "address": "4200 Ridge Road, North Haven, CT 06473",
+        "website": "https://www.ctyankee.org/scout-info/maintenance-committees/wahwahtayseemaint/",
+        "description": "A 16-acre camp near Sleeping Giant State Park, serving Scouts since 1922 and named after the Ojibwe word for firefly."
+      }
     }
   ]
 }
