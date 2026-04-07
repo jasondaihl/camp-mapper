@@ -5086,6 +5086,635 @@
         "website": "https://www.ctyankee.org/scout-info/maintenance-committees/wahwahtayseemaint/",
         "description": "A 16-acre camp near Sleeping Giant State Park, serving Scouts since 1922 and named after the Ojibwe word for firefly."
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.1930, 27.8660]
+      },
+      "properties": {
+        "name": "Camp Alafia",
+        "type": "council_camp",
+        "council": "Gulf Ridge Council",
+        "city": "Lithia",
+        "state": "FL",
+        "address": "14302 Boy Scout Road, Lithia, FL 33547",
+        "website": "https://www.gulfridgecouncil.org/campalafia",
+        "description": "A scout camp along the Alafia River in Hillsborough County offering year-round camping and outdoor programs."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.8290, 27.2440]
+      },
+      "properties": {
+        "name": "Camp Dark Hammock",
+        "type": "council_camp",
+        "council": "Gulf Stream Council",
+        "city": "Okeechobee",
+        "state": "FL",
+        "address": "18001 NW 38th Avenue, Okeechobee, FL 34972",
+        "website": "https://www.gulfstreamcouncil.org/darkhammock",
+        "description": "A scout camp near Okeechobee featuring Florida wilderness camping, nature trails, and outdoor skills programs."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.2370, 26.0760]
+      },
+      "properties": {
+        "name": "Camp Elmore",
+        "type": "council_camp",
+        "council": "South Florida Council",
+        "city": "Davie",
+        "state": "FL",
+        "address": "2901 SW 142nd Avenue, Davie, FL 33330",
+        "website": "https://www.sfcbsa.org/campelmore",
+        "description": "A scout camp in Broward County offering camping and outdoor programs for South Florida scouts."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.4530, 25.3870]
+      },
+      "properties": {
+        "name": "Camp Everglades",
+        "type": "council_camp",
+        "council": "South Florida Council",
+        "city": "Homestead",
+        "state": "FL",
+        "address": "24801 SW 162nd Avenue, Homestead, FL 33031",
+        "website": "https://www.sfcbsa.org/campeverglades",
+        "description": "A unique wilderness camp on the edge of the Everglades offering airboat rides, fishing, and nature programs."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.2880, 27.4940]
+      },
+      "properties": {
+        "name": "Camp Flying Eagle",
+        "type": "council_camp",
+        "council": "Gulf Ridge Council",
+        "city": "Bradenton",
+        "state": "FL",
+        "address": "17399 Leonard Lee Road, Bradenton, FL 34211",
+        "website": "https://www.gulfridgecouncil.org/campflyingeagle",
+        "description": "A scout camp east of Bradenton in Manatee County offering summer camp and year-round outdoor programs."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.0550, 26.9280]
+      },
+      "properties": {
+        "name": "Camp Miles",
+        "type": "council_camp",
+        "council": "Southwest Florida Council",
+        "city": "Punta Gorda",
+        "state": "FL",
+        "address": "7401 Boy Scout Lane, Punta Gorda, FL 33982",
+        "website": "https://www.swflcouncilbsa.org/campmiles",
+        "description": "A scout camp in Charlotte County offering camping, aquatics, and outdoor adventure programs."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.5120, 27.7980]
+      },
+      "properties": {
+        "name": "Camp Oklawaha",
+        "type": "council_camp",
+        "council": "Central Florida Council",
+        "city": "Sebastian",
+        "state": "FL",
+        "address": "7775 Camp Oklawaha Road, Sebastian, FL 32976",
+        "website": "https://www.cflscouting.org/campoklawaha",
+        "description": "A scout camp in Indian River County along the St. Sebastian River offering summer camp and outdoor programs."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.5820, 28.2010]
+      },
+      "properties": {
+        "name": "Camp Owen J. Brorein",
+        "type": "council_camp",
+        "council": "Gulf Ridge Council",
+        "city": "Odessa",
+        "state": "FL",
+        "address": "16401 Boy Scout Road, Odessa, FL 33556",
+        "website": "https://www.gulfridgecouncil.org/brorein",
+        "description": "A scout camp in Pasco County northwest of Tampa offering year-round camping and outdoor programs."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.3520, 24.6730]
+      },
+      "properties": {
+        "name": "Camp Sawyer",
+        "type": "council_camp",
+        "council": "South Florida Council",
+        "city": "Big Pine Key",
+        "state": "FL",
+        "address": "31700 Overseas Highway, Big Pine Key, FL 33043",
+        "website": "https://www.sfcbsa.org/campsawyer",
+        "description": "A unique island scout camp in the Florida Keys offering snorkeling, kayaking, and marine ecology programs."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.0850, 29.5960]
+      },
+      "properties": {
+        "name": "Camp Shands",
+        "type": "council_camp",
+        "council": "North Florida Council",
+        "city": "Hawthorne",
+        "state": "FL",
+        "address": "7744 SE 100th Street, Hawthorne, FL 32640",
+        "website": "https://www.nflscouting.org/campshands",
+        "description": "A scout camp near Hawthorne in Alachua County offering summer camp and year-round outdoor programs."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.7560, 27.9870]
+      },
+      "properties": {
+        "name": "Camp Soule",
+        "type": "council_camp",
+        "council": "Gulf Ridge Council",
+        "city": "Clearwater",
+        "state": "FL",
+        "address": "2710 N McMullen Booth Road, Clearwater, FL 33761",
+        "website": "https://www.gulfridgecouncil.org/campsoule",
+        "description": "A scout camp in Pinellas County offering day camp, Cub Scout programs, and community events."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.8710, 26.6310]
+      },
+      "properties": {
+        "name": "Dr. Franklin Miles Camp",
+        "type": "council_camp",
+        "council": "Southwest Florida Council",
+        "city": "Fort Myers",
+        "state": "FL",
+        "address": "1801 Boy Scout Drive, Fort Myers, FL 33907",
+        "website": "https://www.swflcouncilbsa.org/milescamp",
+        "description": "A scout camp in Lee County offering year-round camping and outdoor programs for Southwest Florida scouts."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.5850, 27.9010]
+      },
+      "properties": {
+        "name": "Flaming Arrow Scout Reservation",
+        "type": "council_camp",
+        "council": "Central Florida Council",
+        "city": "Lake Wales",
+        "state": "FL",
+        "address": "1601 Boy Scout Road, Lake Wales, FL 33898",
+        "website": "https://www.cflscouting.org/flamingarrow",
+        "description": "A scout reservation near Lake Wales in Polk County offering summer camp and year-round outdoor programs in central Florida."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.5370, 28.9720]
+      },
+      "properties": {
+        "name": "Leonard and Marjorie Williams Family Scout Reservation (La-No-Che)",
+        "type": "council_camp",
+        "council": "Central Florida Council",
+        "city": "Paisley",
+        "state": "FL",
+        "address": "28815 County Road 42, Paisley, FL 32767",
+        "website": "https://www.cflscouting.org/lanoche",
+        "description": "A premier 2,800-acre scout reservation in the Ocala National Forest offering summer camp, high adventure, and year-round programs."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.3870, 28.5560]
+      },
+      "properties": {
+        "name": "Sand Hill Scout Reservation",
+        "type": "council_camp",
+        "council": "Gulf Ridge Council",
+        "city": "Brooksville",
+        "state": "FL",
+        "address": "22485 Boy Scout Road, Brooksville, FL 34602",
+        "website": "https://www.gulfridgecouncil.org/sandhill",
+        "description": "A scout reservation in Hernando County north of Tampa offering summer camp and year-round outdoor programs."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-86.1040, 30.7160]
+      },
+      "properties": {
+        "name": "Spanish Trail Scout Reservation",
+        "type": "council_camp",
+        "council": "Gulf Coast Council",
+        "city": "DeFuniak Springs",
+        "state": "FL",
+        "address": "3498 Spanish Trail Scout Road, DeFuniak Springs, FL 32435",
+        "website": "https://www.bsagulfcoast.org/spanishtrail",
+        "description": "A scout reservation in the Florida panhandle offering summer camp and outdoor programs among longleaf pine forests."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.7040, 30.1540]
+      },
+      "properties": {
+        "name": "St. Johns River Base at Echockotee",
+        "type": "council_camp",
+        "council": "North Florida Council",
+        "city": "Orange Park",
+        "state": "FL",
+        "address": "2513 Doctors Lake Drive, Orange Park, FL 32073",
+        "website": "https://www.nflscouting.org/echockotee",
+        "description": "A waterfront scout base on Doctors Lake near the St. Johns River offering aquatic programs and camping."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.0870, 26.9610]
+      },
+      "properties": {
+        "name": "Tanah Keeta Scout Reservation",
+        "type": "council_camp",
+        "council": "Gulf Stream Council",
+        "city": "Tequesta",
+        "state": "FL",
+        "address": "8501 SE Boy Scout Road, Tequesta, FL 33469",
+        "website": "https://www.gulfstreamcouncil.org/tanahkeeta",
+        "description": "A 640-acre scout reservation in Palm Beach County along the Loxahatchee River offering summer camp and year-round programs."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.5850, 30.6120]
+      },
+      "properties": {
+        "name": "Wallwood Scout Reservation",
+        "type": "council_camp",
+        "council": "Suwannee River Area Council",
+        "city": "Quincy",
+        "state": "FL",
+        "address": "2333 Wallwood Road, Quincy, FL 32351",
+        "website": "https://www.suwanneerivercouncil.org/wallwood",
+        "description": "A scout reservation in Gadsden County in the Florida panhandle offering summer camp and year-round outdoor programs."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-83.8560, 33.5570]
+      },
+      "properties": {
+        "name": "Bert Adams Scout Reservation",
+        "type": "council_camp",
+        "council": "Atlanta Area Council",
+        "city": "Covington",
+        "state": "GA",
+        "address": "3475 Camp Bert Adams Road, Covington, GA 30014",
+        "website": "https://www.atlantabsa.org/bertadams",
+        "description": "A 1,400-acre scout reservation in Newton County offering summer camp, high adventure, and year-round programs for metro Atlanta scouts."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.6370, 32.7470]
+      },
+      "properties": {
+        "name": "Black Creek Scout Reservation",
+        "type": "council_camp",
+        "council": "Coastal Empire Council",
+        "city": "Sylvania",
+        "state": "GA",
+        "address": "1757 Camp Ground Road, Sylvania, GA 30467",
+        "website": "https://www.coastalempirecouncil.org/blackcreek",
+        "description": "A scout reservation along Black Creek in Screven County offering summer camp and outdoor programs for coastal Georgia scouts."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.4870, 34.1470]
+      },
+      "properties": {
+        "name": "Camp Allatoona Aquatics Base",
+        "type": "council_camp",
+        "council": "Atlanta Area Council",
+        "city": "Woodstock",
+        "state": "GA",
+        "address": "6600 Bells Ferry Road, Woodstock, GA 30189",
+        "website": "https://www.atlantabsa.org/allatoona",
+        "description": "An aquatics base on Lake Allatoona offering sailing, kayaking, canoeing, and water-based merit badge programs."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.4780, 33.7920]
+      },
+      "properties": {
+        "name": "Camp Daniel Marshall",
+        "type": "council_camp",
+        "council": "Georgia-Carolina Council",
+        "city": "Lincolnton",
+        "state": "GA",
+        "address": "4735 Soap Creek Road, Lincolnton, GA 30817",
+        "website": "https://www.georgiacarolinacouncil.org/danielmarshall",
+        "description": "A scout camp on Clarks Hill Lake in Lincoln County offering summer camp and aquatic programs."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-85.0210, 33.0170]
+      },
+      "properties": {
+        "name": "Camp Frank J. Lumpkin",
+        "type": "council_camp",
+        "council": "Chattahoochee Council",
+        "city": "LaGrange",
+        "state": "GA",
+        "address": "3800 Boy Scout Road, LaGrange, GA 30240",
+        "website": "https://www.chattahoocheecouncil.org/lumpkin",
+        "description": "A scout camp near West Point Lake in Troup County offering summer camp and outdoor programs."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-85.0350, 33.0050]
+      },
+      "properties": {
+        "name": "Camp James G. Gallant",
+        "type": "council_camp",
+        "council": "Chattahoochee Council",
+        "city": "LaGrange",
+        "state": "GA",
+        "address": "3900 Boy Scout Road, LaGrange, GA 30240",
+        "website": "https://www.chattahoocheecouncil.org/gallant",
+        "description": "A Cub Scout camp near LaGrange adjacent to Camp Lumpkin, offering programs for younger scouts."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-83.8060, 31.5210]
+      },
+      "properties": {
+        "name": "Camp Osborn",
+        "type": "council_camp",
+        "council": "South Georgia Council",
+        "city": "Sylvester",
+        "state": "GA",
+        "address": "1475 Camp Osborn Road, Sylvester, GA 31791",
+        "website": "https://www.southgeorgiacouncil.org/osborn",
+        "description": "Part of the Chase S. Osborn Scout Reservation in Worth County offering summer camp and outdoor programs for south Georgia scouts."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-83.0750, 31.0410]
+      },
+      "properties": {
+        "name": "Camp Patten",
+        "type": "council_camp",
+        "council": "South Georgia Council",
+        "city": "Lakeland",
+        "state": "GA",
+        "address": "5601 Camp Patten Road, Lakeland, GA 31635",
+        "website": "https://www.southgeorgiacouncil.org/patten",
+        "description": "A scout camp in Lanier County offering camping and outdoor programs in south Georgia's pine forests."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-85.1250, 32.8890]
+      },
+      "properties": {
+        "name": "Camp Pine Mountain",
+        "type": "council_camp",
+        "council": "Chattahoochee Council",
+        "city": "West Point",
+        "state": "GA",
+        "address": "1551 Camp Pine Mountain Road, West Point, GA 31833",
+        "website": "https://www.chattahoocheecouncil.org/pinemountain",
+        "description": "A scout camp near West Point in Troup County offering outdoor adventure programs in the Pine Mountain area."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-83.3530, 34.8570]
+      },
+      "properties": {
+        "name": "Camp Rainey Mountain",
+        "type": "council_camp",
+        "council": "Northeast Georgia Council",
+        "city": "Clayton",
+        "state": "GA",
+        "address": "1 Rainey Mountain Road, Clayton, GA 30525",
+        "website": "https://www.campraineymountain.org/",
+        "description": "A premier mountain scout camp in the Blue Ridge Mountains of Rabun County offering 50+ merit badges and high adventure programs."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.9480, 34.3530]
+      },
+      "properties": {
+        "name": "Camp Rotary",
+        "type": "council_camp",
+        "council": "Blue Ridge Council",
+        "city": "Hartwell",
+        "state": "GA",
+        "address": "250 Camp Rotary Road, Hartwell, GA 30643",
+        "website": "https://www.blueridgecouncil.org/camprotary",
+        "description": "A scout camp on Lake Hartwell offering waterfront activities, camping, and outdoor programs."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-85.1760, 34.4740]
+      },
+      "properties": {
+        "name": "Camp Sidney Dew",
+        "type": "council_camp",
+        "council": "Northwest Georgia Council",
+        "city": "Armuchee",
+        "state": "GA",
+        "address": "300 Camp Sidney Dew Road, Armuchee, GA 30105",
+        "website": "https://www.nwgacouncil.org/sidneydew",
+        "description": "A scout camp in Floyd County in the Armuchee Valley offering summer camp and year-round outdoor programs."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.5160, 33.0690]
+      },
+      "properties": {
+        "name": "Camp Thunder",
+        "type": "council_camp",
+        "council": "Atlanta Area Council",
+        "city": "Molena",
+        "state": "GA",
+        "address": "2592 Camp Thunder Road, Molena, GA 30258",
+        "website": "https://www.atlantabsa.org/campthunder",
+        "description": "The Gerald I. Lawhorn Scouting Base, a 2,100-acre scout camp in Pike County offering high adventure and STEM programs."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.4950, 31.1540]
+      },
+      "properties": {
+        "name": "Camp Tolochee",
+        "type": "council_camp",
+        "council": "Coastal Empire Council",
+        "city": "Brunswick",
+        "state": "GA",
+        "address": "5000 Camp Tolochee Road, Brunswick, GA 31520",
+        "website": "https://www.coastalempirecouncil.org/tolochee",
+        "description": "A coastal scout camp near Brunswick offering programs in Georgia's coastal marshlands and maritime forests."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.9370, 34.5090]
+      },
+      "properties": {
+        "name": "Camp Westin",
+        "type": "council_camp",
+        "council": "Northwest Georgia Council",
+        "city": "Calhoun",
+        "state": "GA",
+        "address": "1300 Camp Westin Road, Calhoun, GA 30701",
+        "website": "https://www.nwgacouncil.org/westin",
+        "description": "A scout camp in Gordon County offering camping and outdoor programs in northwest Georgia."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.4920, 33.8050]
+      },
+      "properties": {
+        "name": "Robert E. Knox Scout Reservation",
+        "type": "council_camp",
+        "council": "Georgia-Carolina Council",
+        "city": "Lincolnton",
+        "state": "GA",
+        "address": "4800 Knox Scout Road, Lincolnton, GA 30817",
+        "website": "https://www.georgiacarolinacouncil.org/knox",
+        "description": "A scout reservation on Clarks Hill Lake in Lincoln County offering summer camp and waterfront programs."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-83.8240, 34.2920]
+      },
+      "properties": {
+        "name": "Scoutland",
+        "type": "council_camp",
+        "council": "Northeast Georgia Council",
+        "city": "Gainesville",
+        "state": "GA",
+        "address": "3601 Thompson Bridge Road, Gainesville, GA 30506",
+        "website": "https://www.negacouncil.org/scoutland",
+        "description": "A scout camp near Gainesville in Hall County offering camping, training events, and year-round outdoor programs."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-83.9570, 34.8340]
+      },
+      "properties": {
+        "name": "Woodruff Scout Camp",
+        "type": "council_camp",
+        "council": "Atlanta Area Council",
+        "city": "Blairsville",
+        "state": "GA",
+        "address": "2478 Woodruff Road, Blairsville, GA 30512",
+        "website": "https://www.atlantabsa.org/woodruff",
+        "description": "A mountain scout camp in Union County in the Blue Ridge Mountains offering summer camp and high adventure programs."
+      }
     }
   ]
 }
