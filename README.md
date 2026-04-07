@@ -1,4 +1,4 @@
-# Scouting America Camp Mapper
+# Scout Camp Map
 
 Interactive map of Scouting America council camps and high adventure bases, built with [Leaflet](https://leafletjs.com/) and OpenStreetMap.
 
@@ -43,7 +43,7 @@ Add a new feature to `data/camps.geojson`:
 
 The site automatically deploys to GitHub Pages on every push to `main` via GitHub Actions.
 
-Live at: [https://jasondaihl.github.io/camp-mapper/](https://jasondaihl.github.io/camp-mapper/)
+Live at: [https://jasondaihl.github.io/scout-camp-map/](https://jasondaihl.github.io/scout-camp-map/)
 
 ## Attribution
 
