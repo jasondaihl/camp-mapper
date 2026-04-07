@@ -2841,6 +2841,54 @@
         "website": "https://tacscouting.org/camps/campkenya/",
         "description": "BSA high adventure program in Kenya featuring wildlife safaris, community service projects, and outdoor adventures near Mount Kenya."
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.5428, 39.1261]
+      },
+      "properties": {
+        "name": "Akridge Scout Reservation",
+        "type": "council_camp",
+        "council": "Del-Mar-Va Council",
+        "city": "Dover",
+        "state": "DE",
+        "website": "https://www.delmarvacouncil.org/akridge-scout-reservation/",
+        "description": "85-acre Scout reservation on the former Kesselring family farm, located just south of Dover in Kent County."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.6983, 38.1260]
+      },
+      "properties": {
+        "name": "Camp Cherokee",
+        "type": "council_camp",
+        "council": "Buckskin Council",
+        "city": "Louisa",
+        "state": "KY",
+        "website": "https://www.buckskin.org/Camping/CampCherokee/",
+        "description": "Primitive Scout camp located on Yatesville Lake near Louisa, Kentucky."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-83.9346, 37.9367]
+      },
+      "properties": {
+        "name": "McKee Scout Reservation",
+        "type": "council_camp",
+        "council": "Blue Grass Council",
+        "city": "Jeffersonville",
+        "state": "KY",
+        "website": "https://www.campmckee.org/",
+        "description": "900+ acre Scout reservation featuring campsites, hiking trails, camp buildings, and a 15-acre lake in eastern Kentucky."
+      }
     }
   ]
 }
