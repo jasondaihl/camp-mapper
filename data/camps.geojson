@@ -3692,6 +3692,91 @@
         "website": "https://www.delmarvacouncil.org/rodney-scout-reservation/",
         "description": "The only Scout camp on the Chesapeake Bay, founded in 1923."
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.2477, 42.6530]
+      },
+      "properties": {
+        "name": "Camp C.S. Klaus",
+        "type": "council_camp",
+        "council": "Northeast Iowa Council",
+        "city": "Colesburg",
+        "state": "IA",
+        "address": "28157 Horseshoe Rd, Greeley, IA 52050",
+        "website": "https://scoutsiowa.org/camping/scout-camp/",
+        "description": "200-acre Scout camp in a wooded valley near Colesburg."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.4800, 42.7000]
+      },
+      "properties": {
+        "name": "Camp Ingawanis (Ingawanis Adventure Base)",
+        "type": "council_camp",
+        "council": "Winnebago Council",
+        "city": "Waverly",
+        "state": "IA",
+        "address": "2482 Grand Ave, Waverly, IA 50677",
+        "website": "https://www.winnebagocouncil.org/camping/iab/",
+        "description": "Scout camp and adventure base operated by the Winnebago Council."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.9125, 41.9478]
+      },
+      "properties": {
+        "name": "Camp Mitigwa",
+        "type": "council_camp",
+        "council": "Mid-Iowa Council",
+        "city": "Woodward",
+        "state": "IA",
+        "address": "1820 Magnolia Rd, Woodward, IA 50276",
+        "website": "https://campiowa.org/",
+        "description": "Scouts BSA camp operated by the Mid-Iowa Council outside Woodward."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.5759, 42.2546]
+      },
+      "properties": {
+        "name": "Howard H. Cherry Scout Reservation",
+        "type": "council_camp",
+        "council": "Hawkeye Area Council",
+        "city": "Central City",
+        "state": "IA",
+        "address": "4514 Boy Scouts Rd, Central City, IA 52214",
+        "website": "https://hawkeyescouting.org/camping/hhcsr/",
+        "description": "500-acre Scout reservation near Central City operated by the Hawkeye Area Council."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-95.9816, 41.8780]
+      },
+      "properties": {
+        "name": "Little Sioux Scout Ranch",
+        "type": "council_camp",
+        "council": "Mid-America Council",
+        "city": "Little Sioux",
+        "state": "IA",
+        "address": "32977 Carpenteur Memorial Rd, Pisgah, IA 51545",
+        "website": "https://mac-bsa.org/little-sioux-scout-ranch/",
+        "description": "Scout ranch in Iowa's Loess Hills, about 60 miles north of Omaha."
+      }
     }
   ]
 }
