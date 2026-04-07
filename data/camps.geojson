@@ -8060,6 +8060,1791 @@
         "website": null,
         "description": null
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6742,
+          45.5202
+        ]
+      },
+      "properties": {
+        "name": "Aubrey Watzek Lodge",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Portland",
+        "state": "OR",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6681,
+          45.0433
+        ]
+      },
+      "properties": {
+        "name": "Butte Creek Scout Ranch",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Scotts Mills",
+        "state": "OR",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.1013,
+          43.98
+        ]
+      },
+      "properties": {
+        "name": "Camp Baker",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Florence",
+        "state": "OR",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.4298,
+          45.4035
+        ]
+      },
+      "properties": {
+        "name": "Camp Baldwin",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Dufur",
+        "state": "OR",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.8851,
+          45.2016
+        ]
+      },
+      "properties": {
+        "name": "Camp Clark",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Cloverdale",
+        "state": "OR",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.5056,
+          45.2508
+        ]
+      },
+      "properties": {
+        "name": "Camp Cooper",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Willamina",
+        "state": "OR",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.9997,
+          45.5461
+        ]
+      },
+      "properties": {
+        "name": "Camp Ireland",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Hillsboro",
+        "state": "OR",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.9839,
+          43.4808
+        ]
+      },
+      "properties": {
+        "name": "Camp Makualla",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Crescent Lake",
+        "state": "OR",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.7817,
+          42.2249
+        ]
+      },
+      "properties": {
+        "name": "Camp McLoughlin",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Klamath Falls",
+        "state": "OR",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1633,
+          44.1748
+        ]
+      },
+      "properties": {
+        "name": "Camp Melakwa",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "McKenzie Bridge",
+        "state": "OR",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.9238,
+          46.1651
+        ]
+      },
+      "properties": {
+        "name": "Camp Royce-Finel",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Warrenton",
+        "state": "OR",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.3659,
+          34.8937
+        ]
+      },
+      "properties": {
+        "name": "Camp George Thomas",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Apache",
+        "state": "OK",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.9772,
+          36.7509
+        ]
+      },
+      "properties": {
+        "name": "Camp McClintock",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Bartlesville",
+        "state": "OK",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.3999,
+          35.0826
+        ]
+      },
+      "properties": {
+        "name": "Camp Sasakwa",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Holdenville",
+        "state": "OK",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.5492,
+          34.2409
+        ]
+      },
+      "properties": {
+        "name": "Camp Simpson",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Milburn",
+        "state": "OK",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8892,
+          34.7385
+        ]
+      },
+      "properties": {
+        "name": "Hale Scout Reservation",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Talihina",
+        "state": "OK",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.6764,
+          34.2348
+        ]
+      },
+      "properties": {
+        "name": "Kerr Scout Ranch at Slippery Falls",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Tishomingo",
+        "state": "OK",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.1677,
+          36.2001
+        ]
+      },
+      "properties": {
+        "name": "Mabee Scout Reservation",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Locust Grove",
+        "state": "OK",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0013,
+          36.3685
+        ]
+      },
+      "properties": {
+        "name": "Tom Hale Scout Reservation",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Skiatook",
+        "state": "OK",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3109,
+          35.2302
+        ]
+      },
+      "properties": {
+        "name": "Will Rogers Scout Reservation",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Cleveland",
+        "state": "OK",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0013,
+          36.3685
+        ]
+      },
+      "properties": {
+        "name": "Zink Scout Ranch",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Skiatook",
+        "state": "OK",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8613,
+          41.6604
+        ]
+      },
+      "properties": {
+        "name": "Beaumont Scout Reservation (Lake Erie Council)",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Rock Creek",
+        "state": "OH",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.6504,
+          41.0414
+        ]
+      },
+      "properties": {
+        "name": "Camp Berry",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Findlay",
+        "state": "OH",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2638,
+          39.2689
+        ]
+      },
+      "properties": {
+        "name": "Camp Craig",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Loveland",
+        "state": "OH",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4013,
+          40.0581
+        ]
+      },
+      "properties": {
+        "name": "Camp Falling Rock",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Newark",
+        "state": "OH",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2638,
+          39.2689
+        ]
+      },
+      "properties": {
+        "name": "Camp Friedlander",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Loveland",
+        "state": "OH",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.8925,
+          39.8045
+        ]
+      },
+      "properties": {
+        "name": "Camp Hugh Taylor Birch",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Yellow Springs",
+        "state": "OH",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3761,
+          41.2499
+        ]
+      },
+      "properties": {
+        "name": "Camp Lakota",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Defiance",
+        "state": "OH",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0479,
+          40.2326
+        ]
+      },
+      "properties": {
+        "name": "Camp Lazarus",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Delaware",
+        "state": "OH",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7681,
+          40.772
+        ]
+      },
+      "properties": {
+        "name": "Camp McKinley",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Lisbon",
+        "state": "OH",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.6799,
+          41.6948
+        ]
+      },
+      "properties": {
+        "name": "Camp Miakonda",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Sylvania",
+        "state": "OH",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.8174,
+          40.3267
+        ]
+      },
+      "properties": {
+        "name": "Camp Otter Run",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "East Liberty",
+        "state": "OH",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0291,
+          38.7584
+        ]
+      },
+      "properties": {
+        "name": "Camp Oyo",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "West Portsmouth",
+        "state": "OH",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6051,
+          41.0128
+        ]
+      },
+      "properties": {
+        "name": "Camp Rodman",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Barberton",
+        "state": "OH",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7208,
+          41.0096
+        ]
+      },
+      "properties": {
+        "name": "Camp Stambaugh",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Canfield",
+        "state": "OH",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.6486,
+          39.6289
+        ]
+      },
+      "properties": {
+        "name": "Cricket Holler Scout Camp",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Camden",
+        "state": "OH",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2638,
+          39.2689
+        ]
+      },
+      "properties": {
+        "name": "Cub World Adventure Camp",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Loveland",
+        "state": "OH",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3356,
+          41.2871
+        ]
+      },
+      "properties": {
+        "name": "Firelands Scout Reservation",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Wakeman",
+        "state": "OH",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2874,
+          40.2703
+        ]
+      },
+      "properties": {
+        "name": "Fort Steuben Scout Reservation",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Tippecanoe",
+        "state": "OH",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5526,
+          41.2412
+        ]
+      },
+      "properties": {
+        "name": "Manatoc Scout Reservation",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Peninsula",
+        "state": "OH",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.553,
+          41.6801
+        ]
+      },
+      "properties": {
+        "name": "Pioneer Scout Reservation",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Pioneer",
+        "state": "OH",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.9535,
+          40.6819
+        ]
+      },
+      "properties": {
+        "name": "Seven Ranges Scout Reservation",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Kensington",
+        "state": "OH",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.6486,
+          39.6289
+        ]
+      },
+      "properties": {
+        "name": "Woodland Trails Scout Reservation",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Camden",
+        "state": "OH",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8714,
+          35.0483
+        ]
+      },
+      "properties": {
+        "name": "Camp Boddie (East Carolina Scout Reservation)",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Blounts Creek",
+        "state": "NC",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.7176,
+          34.7393
+        ]
+      },
+      "properties": {
+        "name": "Camp Bowers",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "White Oak",
+        "state": "NC",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9568,
+          35.3693
+        ]
+      },
+      "properties": {
+        "name": "Camp Bud Schiele",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Rutherfordton",
+        "state": "NC",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.8374,
+          35.5329
+        ]
+      },
+      "properties": {
+        "name": "Camp Daniel Boone",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Canton",
+        "state": "NC",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9264,
+          36.2183
+        ]
+      },
+      "properties": {
+        "name": "Camp Durant",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Rougemont",
+        "state": "NC",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.5277,
+          35.2893
+        ]
+      },
+      "properties": {
+        "name": "Camp Grimes",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Pinnacle",
+        "state": "NC",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2192,
+          35.4432
+        ]
+      },
+      "properties": {
+        "name": "Camp John J. Barnhardt",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "New London",
+        "state": "NC",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.7176,
+          34.7393
+        ]
+      },
+      "properties": {
+        "name": "Camp McNeil (Cub Scout World)",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "White Oak",
+        "state": "NC",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8648,
+          36.4822
+        ]
+      },
+      "properties": {
+        "name": "Camp Raven Knob",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Mount Airy",
+        "state": "NC",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2553,
+          35.3268
+        ]
+      },
+      "properties": {
+        "name": "Camp Reeves",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Cameron",
+        "state": "NC",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8591,
+          34.7865
+        ]
+      },
+      "properties": {
+        "name": "Camp Sam Hatcher",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Newport",
+        "state": "NC",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.9928,
+          35.3849
+        ]
+      },
+      "properties": {
+        "name": "Camp Tuscarora",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Goldsboro",
+        "state": "NC",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3361,
+          36.404
+        ]
+      },
+      "properties": {
+        "name": "Cherokee Scout Reservation",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Yanceyville",
+        "state": "NC",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9568,
+          35.3693
+        ]
+      },
+      "properties": {
+        "name": "Hemrick Scout Reservation",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Rutherfordton",
+        "state": "NC",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9264,
+          36.2183
+        ]
+      },
+      "properties": {
+        "name": "Occoneechee Scout Reservation",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Rougemont",
+        "state": "NC",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3361,
+          36.404
+        ]
+      },
+      "properties": {
+        "name": "Woodfield Scout Preservation",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Yanceyville",
+        "state": "NC",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.8246,
+          40.9446
+        ]
+      },
+      "properties": {
+        "name": "Baiting Hollow Scout Camp",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Wading River",
+        "state": "NY",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.0593,
+          41.6027
+        ]
+      },
+      "properties": {
+        "name": "Camp Aquehonga",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Narrowsburg",
+        "state": "NY",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9871,
+          41.2295
+        ]
+      },
+      "properties": {
+        "name": "Camp Bullowa",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Stony Point",
+        "state": "NY",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.403,
+          42.6161
+        ]
+      },
+      "properties": {
+        "name": "Camp Cutler",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Naples",
+        "state": "NY",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0583,
+          42.4081
+        ]
+      },
+      "properties": {
+        "name": "Camp Gorton",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Tyrone",
+        "state": "NY",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5347,
+          43.3959
+        ]
+      },
+      "properties": {
+        "name": "Camp Kingsley",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Ava",
+        "state": "NY",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4903,
+          42.2291
+        ]
+      },
+      "properties": {
+        "name": "Camp Merz",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Mayville",
+        "state": "NY",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1224,
+          40.5916
+        ]
+      },
+      "properties": {
+        "name": "Camp Pouch",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Staten Island",
+        "state": "NY",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.1218,
+          42.5237
+        ]
+      },
+      "properties": {
+        "name": "Camp Sam Wood",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Pike",
+        "state": "NY",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.3517,
+          42.4621
+        ]
+      },
+      "properties": {
+        "name": "Camp Scouthaven",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Freedom",
+        "state": "NY",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1454,
+          42.2351
+        ]
+      },
+      "properties": {
+        "name": "Camp Tri-Mount Scout Reservation",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "East Jewett",
+        "state": "NY",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5891,
+          43.4566
+        ]
+      },
+      "properties": {
+        "name": "Camp Wakpominee",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Fort Ann",
+        "state": "NY",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.421,
+          43.9731
+        ]
+      },
+      "properties": {
+        "name": "Camp Woodland",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Long Lake",
+        "state": "NY",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6611,
+          43.7549
+        ]
+      },
+      "properties": {
+        "name": "Curtis S. Read Scout Reservation",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Brant Lake",
+        "state": "NY",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8385,
+          41.4243
+        ]
+      },
+      "properties": {
+        "name": "Durland Scout Reservation",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Putnam Valley",
+        "state": "NY",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.4463,
+          41.8091
+        ]
+      },
+      "properties": {
+        "name": "Elk Lick Scout Reserve",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Smethport",
+        "state": "PA",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.7125,
+          41.5622
+        ]
+      },
+      "properties": {
+        "name": "Forestburg Scout Reservation",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Forestburgh",
+        "state": "NY",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.5697,
+          44.2322
+        ]
+      },
+      "properties": {
+        "name": "Massawepie Scout Camps",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Piercefield",
+        "state": "NY",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.8268,
+          41.8932
+        ]
+      },
+      "properties": {
+        "name": "Onteora Scout Reservation",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Livingston Manor",
+        "state": "NY",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5277,
+          42.7084
+        ]
+      },
+      "properties": {
+        "name": "Rotary Scout Reservation",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Poestenkill",
+        "state": "NY",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.421,
+          43.9731
+        ]
+      },
+      "properties": {
+        "name": "Sabattis Adventure Camp",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Long Lake",
+        "state": "NY",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.421,
+          43.9731
+        ]
+      },
+      "properties": {
+        "name": "Sabattis Scout Reservation",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Long Lake",
+        "state": "NY",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.0593,
+          41.6027
+        ]
+      },
+      "properties": {
+        "name": "Ten Mile River Scout Camps",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Narrowsburg",
+        "state": "NY",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6405,
+          42.0759
+        ]
+      },
+      "properties": {
+        "name": "Tuscarora Scout Reservation",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Windsor",
+        "state": "NY",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1512,
+          44.7349
+        ]
+      },
+      "properties": {
+        "name": "Camp Pioneer (Cascade Pacific Council)",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Detroit",
+        "state": "OR",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3361,
+          36.404
+        ]
+      },
+      "properties": {
+        "name": "Camp Cherokee (Old Hickory Council)",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Yanceyville",
+        "state": "NC",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
     }
   ]
 }
