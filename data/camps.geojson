@@ -2774,6 +2774,7 @@
         "council": "Chickasaw Council",
         "city": "Hardy",
         "state": "AR",
+        "address": "629 Kia Kima Trail, Hardy, AR 72542",
         "website": "https://www.kiakima.org/",
         "description": "Nationally accredited summer camp and scouting tradition since 1916, split into Camp Osage, Camp Cherokee, and the Ozark Venture Base in the Ozark Mountains."
       }
@@ -2854,6 +2855,7 @@
         "council": "Del-Mar-Va Council",
         "city": "Dover",
         "state": "DE",
+        "address": "1910 Baden Powell Way, Dover, DE 19904",
         "website": "https://www.delmarvacouncil.org/akridge-scout-reservation/",
         "description": "85-acre Scout reservation on the former Kesselring family farm, located just south of Dover in Kent County."
       }
@@ -2870,6 +2872,7 @@
         "council": "Buckskin Council",
         "city": "Louisa",
         "state": "KY",
+        "address": "Boy Scout Rd, Louisa, KY 41230",
         "website": "https://www.buckskin.org/Camping/CampCherokee/",
         "description": "Primitive Scout camp located on Yatesville Lake near Louisa, Kentucky."
       }
@@ -2886,8 +2889,162 @@
         "council": "Blue Grass Council",
         "city": "Jeffersonville",
         "state": "KY",
+        "address": "8695 Levee Rd, Jeffersonville, KY 40337",
         "website": "https://www.campmckee.org/",
         "description": "900+ acre Scout reservation featuring campsites, hiking trails, camp buildings, and a 15-acre lake in eastern Kentucky."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-86.4621, 36.3145]
+      },
+      "properties": {
+        "name": "Boxwell Scout Reservation",
+        "type": "council_camp",
+        "council": "Middle Tennessee Council",
+        "city": "Lebanon",
+        "state": "TN",
+        "address": "1260 Creighton Ln, Lebanon, TN 37087",
+        "website": "https://www.mtcscouting.org/campfacilities",
+        "description": "Scout reservation located on Old Hickory Lake, serving the Middle Tennessee Council."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.6786, 35.7784]
+      },
+      "properties": {
+        "name": "Camp Buck Toms",
+        "type": "council_camp",
+        "council": "Great Smoky Mountain Council",
+        "city": "Rockwood",
+        "state": "TN",
+        "address": "373 Camp Buck Toms Rd, Rockwood, TN 37854",
+        "website": "https://easttnscouts.org/about/camps/buck-toms/",
+        "description": "Scout summer camp on the shores of Watts Bar Lake, operated by the Great Smoky Mountain Council."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-83.1531, 36.3318]
+      },
+      "properties": {
+        "name": "Camp Davy Crockett",
+        "type": "council_camp",
+        "council": "Sequoyah Council",
+        "city": "Whitesburg",
+        "state": "TN",
+        "address": "142 Scout Camp Rd, Whitesburg, TN 37891",
+        "website": "https://campdavycrockett.org/",
+        "description": "1,865-acre Scout camp in the foothills of the Great Smoky Mountains with 9 miles of shoreline on Cherokee Lake."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-88.0671, 35.9703]
+      },
+      "properties": {
+        "name": "Camp Mack Morris",
+        "type": "council_camp",
+        "council": "West Tennessee Area Council",
+        "city": "Camden",
+        "state": "TN",
+        "address": "455 Camp Mack Morris Rd, Camden, TN 38320",
+        "website": "https://www.westtnscouts.org/cmm",
+        "description": "Nearly 500 acres nestled in the rural hills and valleys of Benton County on the Tennessee River."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.0123, 36.2615]
+      },
+      "properties": {
+        "name": "Camp Pellissippi",
+        "type": "council_camp",
+        "council": "Great Smoky Mountain Council",
+        "city": "Andersonville",
+        "state": "TN",
+        "address": "262 Boy Scout Camp Rd, Andersonville, TN 37705",
+        "website": "https://easttnscouts.org/about/camps/pellissippi/",
+        "description": "Rustic Scout camp on the shores of Norris Lake with cabins, Adirondack campsites, and tent sites available year-round."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-85.6005, 35.7978]
+      },
+      "properties": {
+        "name": "Charles E. Parrish Wilderness Reservation",
+        "type": "council_camp",
+        "council": "Middle Tennessee Council",
+        "city": "Rock Island",
+        "state": "TN",
+        "address": "400 Tubb Ln, Walling, TN 38587",
+        "website": "https://www.mtcscouting.org/campfacilities",
+        "description": "Scout reservation available for weekend camping, camporees, and other events near Rock Island."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-87.8444, 35.5113]
+      },
+      "properties": {
+        "name": "Grimes Canoe Base",
+        "type": "council_camp",
+        "council": "Middle Tennessee Council",
+        "city": "Linden",
+        "state": "TN",
+        "address": "767 Boy Scout Rd, Linden, TN 37096",
+        "website": "https://www.mtcscouting.org/campfacilities",
+        "description": "Canoe base providing access to over 110 miles of water on the Buffalo River for Scouts."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-85.2877, 35.7983]
+      },
+      "properties": {
+        "name": "Latimer High Adventure Reservation",
+        "type": "council_camp",
+        "council": "Middle Tennessee Council",
+        "city": "Spencer",
+        "state": "TN",
+        "address": "334 Plantation Rd, Spencer, TN 38585",
+        "website": "https://www.latimerbsa.org/",
+        "description": "1,550-acre wilderness reservation on the Cumberland Plateau offering rustic camping and high adventure programs."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-85.8628, 35.4327]
+      },
+      "properties": {
+        "name": "Skymont Scout Reservation",
+        "type": "council_camp",
+        "council": "Cherokee Area Council",
+        "city": "Altamont",
+        "state": "TN",
+        "address": "3344 Cabbage Patch Rd, Altamont, TN 37301",
+        "website": "https://www.cherokeeareabsa.com/skymont",
+        "description": "Over 2,200 acres on the Cumberland Plateau featuring waterfalls, scenic overlooks, caves, and wooded forest."
       }
     }
   ]
