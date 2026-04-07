@@ -497,240 +497,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -85.0325,
-          41.5724
-        ]
-      },
-      "properties": {
-        "name": "Anthony Wayne Scout Reservation",
-        "type": "council_camp",
-        "council": "Anthony Wayne Area Council",
-        "address": "2282 W 500 S, Pleasant Lake, IN 46779",
-        "website": "https://www.awac.org/weekend-camping-at-awsr",
-        "description": "A scout reservation in northeast Indiana near Pleasant Lake, operated by the Anthony Wayne Area Council. Features platform tents, a climbing tower, COPE course, and year-round camping."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.0388,
-          39.8648
-        ]
-      },
-      "properties": {
-        "name": "Camp Belzer",
-        "type": "council_camp",
-        "council": "Crossroads of America Council",
-        "address": "6102 Boy Scout Road, Indianapolis, IN 46226",
-        "website": "https://www.joinscoutsin.org/camps/camp-belzer/",
-        "description": "Located on the northeast side of Indianapolis adjacent to Fort Benjamin Harrison State Park, serving as a day camp and event facility for the Crossroads of America Council."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.7278,
-          40.8893
-        ]
-      },
-      "properties": {
-        "name": "Camp Buffalo",
-        "type": "council_camp",
-        "council": "Sagamore Council",
-        "address": "9400 N Boy Scout Rd, Monticello, IN 47960",
-        "website": "https://campbuffalo.com/",
-        "description": "A Sagamore Council camp located 9 miles north of Monticello, Indiana, offering summer camp programs for Scouts BSA."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.7811,
-          40.4222
-        ]
-      },
-      "properties": {
-        "name": "Franklin L. Cary Camp",
-        "type": "council_camp",
-        "council": "Sagamore Council",
-        "address": "6286 State Road 26 East, Lafayette, IN 47905",
-        "website": "https://carycamp.com/",
-        "description": "A 125-acre wooded camp just east of Lafayette, operated by the Sagamore Council, offering Cub Scout programs and year-round outdoor adventures."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -85.8167,
-          40.1783
-        ]
-      },
-      "properties": {
-        "name": "Camp Kikthawenund",
-        "type": "council_camp",
-        "council": "Crossroads of America Council",
-        "address": "7651 West 500 North, Frankton, IN 46044",
-        "website": "https://www.joinscoutsin.org/camps/camp-kikthawenund/",
-        "description": "A 230-acre camp north of Noblesville, operated by the Crossroads of America Council, serving Scouting families since 1926."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.9616,
-          39.4878
-        ]
-      },
-      "properties": {
-        "name": "Camp Krietenstein",
-        "type": "council_camp",
-        "council": "Crossroads of America Council",
-        "address": "6445 E County Road 575 N, Center Point, IN 47840",
-        "website": "https://campkrietenstein.org/",
-        "description": "A camp in Center Point established in 1922, operated by the Crossroads of America Council."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.87,
-          41.65
-        ]
-      },
-      "properties": {
-        "name": "Camp Topenebee",
-        "type": "council_camp",
-        "council": "LaSalle Council",
-        "address": "0377 N Holmesville Rd, Michigan City, IN 46360",
-        "website": "https://www.lasallecouncilbsa.org/camptopenebee",
-        "description": "A 166-acre camp south of Michigan City in LaPorte County, founded in 1949 and operated by the LaSalle Council."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.3375,
-          39.4876
-        ]
-      },
-      "properties": {
-        "name": "Camp Wildwood",
-        "type": "council_camp",
-        "council": "Crossroads of America Council",
-        "address": "5103 E Old Maple Ave, Terre Haute, IN 47803",
-        "website": "https://www.joinscoutsin.org/camps/",
-        "description": "A camp facility in Terre Haute serving the Wabash Valley district of the Crossroads of America Council."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.2806,
-          39.0087
-        ]
-      },
-      "properties": {
-        "name": "Maumee Scout Reservation",
-        "type": "council_camp",
-        "council": "Hoosier Trails Council",
-        "address": "12975 West County Road 925 North, Norman, IN 47426",
-        "website": "https://hoosiertrails.org/summer-camp-portal/",
-        "description": "A 640-acre reservation surrounded by Hoosier National Forest, operated by the Hoosier Trails Council."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.4298,
-          39.0539
-        ]
-      },
-      "properties": {
-        "name": "Ransburg Scout Reservation",
-        "type": "council_camp",
-        "council": "Crossroads of America Council",
-        "address": "7599 E Waldrip Creek Rd, Bloomington, IN 47401",
-        "website": "https://www.ransburgbsa.org/",
-        "description": "Nestled within Hoosier National Forest on the banks of Lake Monroe near Bloomington, operated by the Crossroads of America Council."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.43,
-          41.49
-        ]
-      },
-      "properties": {
-        "name": "Rice Woods Camp",
-        "type": "council_camp",
-        "council": "LaSalle Council",
-        "address": "E 600 N & N 1100 E, Walkerton, IN 46574",
-        "website": "https://www.lasallecouncilbsa.org/ricewoodsfaq",
-        "description": "A LaSalle Council camp near Walkerton with multiple campsites and the Rice Lodge, serving Scouts in northern Indiana."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -85.6266,
-          38.4834
-        ]
-      },
-      "properties": {
-        "name": "Tunnel Mill Scout Reservation",
-        "type": "council_camp",
-        "council": "Lincoln Heritage Council",
-        "address": "3913 Tunnel Mill Rd, Charlestown, IN 47111",
-        "website": "https://lhcbsa.org/tunnel-mill-scout-reservation/",
-        "description": "A camp inside an oxbow bend of Fourteen Mile Creek near Charlestown, with a 70-year heritage of Scout camping, operated by the Lincoln Heritage Council."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -85.7762,
-          41.8621
-        ]
-      },
-      "properties": {
-        "name": "Wood Lake Scout Reservation (Camp Tamarack)",
-        "type": "council_camp",
-        "council": "LaSalle Council",
-        "address": "10891 Withers St, Jones, MI 49061",
-        "website": "https://www.lasallecouncilbsa.org/camptamarack",
-        "description": "A 500-acre reservation with two glacial lakes just south of Jones, Michigan, operated by the LaSalle Council. Features Camp Tamarack, Camp Will Welber, and primitive camping areas."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -115.1482,
           44.398
         ]
@@ -7001,6 +6767,244 @@
         "address": "10891 Withers St, Jones, MI 49061",
         "website": "https://www.lasallecouncilbsa.org/camptamarack",
         "description": "A 500-acre heavily wooded reservation with two glacial lakes, home to Camp Tamarack and multiple primitive camps."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-85.0325, 41.5724]
+      },
+      "properties": {
+        "name": "Anthony Wayne Scout Reservation",
+        "type": "council_camp",
+        "council": "Anthony Wayne Area Council",
+        "city": "Ashley",
+        "state": "IN",
+        "address": "2282 W 500 S, Pleasant Lake, IN 46779",
+        "website": "https://www.awac.org/",
+        "description": "A 1,200-acre reservation featuring three lakes and the Pigeon River, home to Camp Chief Little Turtle, Camp Foellinger, and Wilderness Camp."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-86.0387, 39.8655]
+      },
+      "properties": {
+        "name": "Camp Belzer",
+        "type": "council_camp",
+        "council": "Crossroads of America Council",
+        "city": "Indianapolis",
+        "state": "IN",
+        "address": "6102 Boy Scout Road, Indianapolis, IN 46226",
+        "website": "https://www.joinscoutsin.org/camps/camp-belzer/",
+        "description": "A Scout camp on the northeast side of Indianapolis adjacent to Fort Benjamin Harrison State Park, offering day camp and year-round programs."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-86.7278, 40.8893]
+      },
+      "properties": {
+        "name": "Camp Buffalo",
+        "type": "council_camp",
+        "council": "Sagamore Council",
+        "city": "Monticello",
+        "state": "IN",
+        "address": "9400 N Boy Scout Rd, Monticello, IN 47960",
+        "website": "https://campbuffalo.com/",
+        "description": "A nationally accredited camp on the banks of the Tippecanoe River in north-central Indiana, 9 miles north of Monticello."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-86.7811, 40.4222]
+      },
+      "properties": {
+        "name": "Franklin L. Cary Camp",
+        "type": "council_camp",
+        "council": "Sagamore Council",
+        "city": "Lafayette",
+        "state": "IN",
+        "address": "6286 State Road 26 East, Lafayette, IN 47905",
+        "website": "https://carycamp.com/",
+        "description": "A 125-acre wooded camp just east of Lafayette, donated in 1927 by Frank M. Cary, offering Cub Scout programs and outdoor adventures."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-85.8197, 40.1714]
+      },
+      "properties": {
+        "name": "Camp Kikthawenund",
+        "type": "council_camp",
+        "council": "Crossroads of America Council",
+        "city": "Frankton",
+        "state": "IN",
+        "address": "7651 W 500 N, Frankton, IN 46044",
+        "website": "https://www.joinscoutsin.org/camps/camp-kikthawenund/",
+        "description": "A 230-acre camp along Pipe Creek that has served Scouting families since 1926, within a quick drive of Indianapolis."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-86.9616, 39.4878]
+      },
+      "properties": {
+        "name": "Camp Krietenstein",
+        "type": "council_camp",
+        "council": "Crossroads of America Council",
+        "city": "Center Point",
+        "state": "IN",
+        "address": "6445 E County Rd 575 N, Center Point, IN 47840",
+        "website": "https://campkrietenstein.org/",
+        "description": "A historic Scout camp established in 1922 in western Indiana."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-85.5214, 38.8687]
+      },
+      "properties": {
+        "name": "Camp Louis Ernst",
+        "type": "council_camp",
+        "council": "Hoosier Trails Council",
+        "city": "Dupont",
+        "state": "IN",
+        "address": "9139 State Hwy 7, Dupont, IN 47231",
+        "website": "https://www.camplouisernst.com/",
+        "description": "A historic camp donated in 1928 by Fritz Ernst in honor of his father, currently being restored by the Friends of Camp Louis Ernst."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-86.8841, 41.6126]
+      },
+      "properties": {
+        "name": "Camp Topenebee",
+        "type": "council_camp",
+        "council": "LaSalle Council",
+        "city": "Michigan City",
+        "state": "IN",
+        "address": "377 N Holmesville Rd, Michigan City, IN 46360",
+        "website": "https://www.lasallecouncilbsa.org/camptopenebee",
+        "description": "A Scout camp in LaPorte County serving northern Indiana youth, operated by LaSalle Council."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-87.3375, 39.4876]
+      },
+      "properties": {
+        "name": "Camp Wildwood",
+        "type": "council_camp",
+        "council": "Crossroads of America Council",
+        "city": "Terre Haute",
+        "state": "IN",
+        "address": "5103 E Old Maple Ave, Terre Haute, IN 47803",
+        "website": "https://www.joinscoutsin.org/camps/",
+        "description": "A Scout camp near Terre Haute used for Cub Scout day camps and district events in the Wabash Valley."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-86.2806, 39.0087]
+      },
+      "properties": {
+        "name": "Maumee Scout Reservation",
+        "type": "council_camp",
+        "council": "Hoosier Trails Council",
+        "city": "Norman",
+        "state": "IN",
+        "address": "12975 W County Road 925 N, Norman, IN 47264",
+        "website": "https://hoosiertrails.org/summer-camp-portal/",
+        "description": "A 640-acre reservation surrounding Lake Tarzian in the Hoosier National Forest, the primary camp of Hoosier Trails Council."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-87.1712, 38.4474]
+      },
+      "properties": {
+        "name": "Old Ben Scout Reservation",
+        "type": "council_camp",
+        "council": "Buffalo Trace Council",
+        "city": "Winslow",
+        "state": "IN",
+        "address": "5735 E County Road 175 N, Winslow, IN 47598",
+        "website": "https://www.buffalotracecouncil.org/",
+        "description": "A 266-acre reservation in Pike County that opened in 1985 on the site of a former Old Ben Coal Company strip mine."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-86.4298, 39.0539]
+      },
+      "properties": {
+        "name": "Ransburg Scout Reservation",
+        "type": "council_camp",
+        "council": "Crossroads of America Council",
+        "city": "Bloomington",
+        "state": "IN",
+        "address": "7599 E Waldrip Creek Rd, Bloomington, IN 47401",
+        "website": "https://www.ransburgbsa.org/",
+        "description": "Established in 1966, nestled within Hoosier National Forest on the banks of Lake Monroe near Bloomington."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-86.4690, 41.4680]
+      },
+      "properties": {
+        "name": "Rice Woods Camp",
+        "type": "council_camp",
+        "council": "LaSalle Council",
+        "city": "South Bend",
+        "state": "IN",
+        "address": "E 600 N and N 1100 E, Walkerton, IN 46574",
+        "website": "https://www.lasallecouncilbsa.org/ricewoodsfaq",
+        "description": "A Scout camp property operated by LaSalle Council in St. Joseph County, featuring Rice Lodge and multiple campsites."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-85.6266, 38.4834]
+      },
+      "properties": {
+        "name": "Tunnel Mill Scout Reservation",
+        "type": "council_camp",
+        "council": "Lincoln Heritage Council",
+        "city": "Charlestown",
+        "state": "IN",
+        "address": "3913 Tunnel Mill Rd, Charlestown, IN 47111",
+        "website": "https://lhcbsa.org/tunnel-mill-scout-reservation/",
+        "description": "Built on the site of one of the earliest mills in southern Indiana, with over 70 years of Scout camping heritage."
       }
     }
   ]
