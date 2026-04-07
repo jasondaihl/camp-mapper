@@ -7640,6 +7640,426 @@
         "description": "Built on the site of one of the earliest mills in southern Indiana, with over 70 years of Scout camping heritage.",
         "country": "USA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5725,
+          40.4716
+        ]
+      },
+      "properties": {
+        "name": "Bashore Scout Reservation",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Jonestown",
+        "state": "PA",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6398,
+          41.1211
+        ]
+      },
+      "properties": {
+        "name": "Camp Acahela",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Blakeslee",
+        "state": "PA",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2267,
+          40.0249
+        ]
+      },
+      "properties": {
+        "name": "Camp Conestoga",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Somerset",
+        "state": "PA",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1418,
+          40.8849
+        ]
+      },
+      "properties": {
+        "name": "Camp Karoondinha",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Millmont",
+        "state": "PA",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.3836,
+          41.1951
+        ]
+      },
+      "properties": {
+        "name": "Camp Lavigne",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Benton",
+        "state": "PA",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3864,
+          41.1112
+        ]
+      },
+      "properties": {
+        "name": "Camp Minsi",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Pocono Summit",
+        "state": "PA",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.7622,
+          41.1187
+        ]
+      },
+      "properties": {
+        "name": "Camp Mountain Run",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "DuBois",
+        "state": "PA",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2654,
+          41.812
+        ]
+      },
+      "properties": {
+        "name": "Camp Olmsted",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Warren",
+        "state": "PA",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0969,
+          40.1
+        ]
+      },
+      "properties": {
+        "name": "Camp Tuckahoe",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Dillsburg",
+        "state": "PA",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.2258,
+          39.7509
+        ]
+      },
+      "properties": {
+        "name": "Camp Ware (John H. Ware III)",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Peach Bottom",
+        "state": "PA",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0084,
+          41.4644
+        ]
+      },
+      "properties": {
+        "name": "Custaloga Town Scout Reservation",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Carlton",
+        "state": "PA",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1821,
+          41.4759
+        ]
+      },
+      "properties": {
+        "name": "Goose Pond Scout Reservation",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Hawley",
+        "state": "PA",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.9752,
+          40.6145
+        ]
+      },
+      "properties": {
+        "name": "Hawk Mountain Scout Reservation",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Hawk Mountain",
+        "state": "PA",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5655,
+          39.8071
+        ]
+      },
+      "properties": {
+        "name": "Heritage Scout Reservation",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Farmington",
+        "state": "PA",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3492,
+          40.3493
+        ]
+      },
+      "properties": {
+        "name": "Hidden Valley Scout Reservation",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Loysville",
+        "state": "PA",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.2109,
+          40.351
+        ]
+      },
+      "properties": {
+        "name": "J. Edward Mack Scout Reservation",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Newmanstown",
+        "state": "PA",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2927,
+          40.372
+        ]
+      },
+      "properties": {
+        "name": "Musser Scout Reservation",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Perkasie",
+        "state": "PA",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.0881,
+          40.4357
+        ]
+      },
+      "properties": {
+        "name": "Ockanickon Scout Reservation",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Pipersville",
+        "state": "PA",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.0962,
+          41.1121
+        ]
+      },
+      "properties": {
+        "name": "Resica Falls Scout Reservation",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "East Stroudsburg",
+        "state": "PA",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0478,
+          40.9176
+        ]
+      },
+      "properties": {
+        "name": "Seven Mountains Scout Camp",
+        "type": "council_camp",
+        "council": null,
+        "address": null,
+        "city": "Mifflinburg",
+        "state": "PA",
+        "country": "USA",
+        "website": null,
+        "description": null
+      }
     }
   ]
 }
