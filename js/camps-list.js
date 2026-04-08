@@ -262,19 +262,9 @@
       function attachListeners() {
         var backToTop = document.getElementById("back-to-top");
 
-        // Use IntersectionObserver to detect when user has scrolled down.
-        // A sentinel element at the top of the page goes out of view when
-        // the user scrolls, which reliably triggers on iOS Safari.
-        var sentinel = document.createElement("div");
-        sentinel.style.height = "1px";
-        sentinel.style.position = "absolute";
-        sentinel.style.top = "400px";
-        document.body.insertBefore(sentinel, document.body.firstChild);
-
-        var observer = new IntersectionObserver(function (entries) {
-          backToTop.classList.toggle("visible", !entries[0].isIntersecting);
+        window.addEventListener("scroll", function () {
+          backToTop.classList.toggle("visible", window.scrollY > 400);
         });
-        observer.observe(sentinel);
 
         backToTop.addEventListener("click", function () {
           window.scrollTo({ top: 0, behavior: "smooth" });
