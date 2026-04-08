@@ -29,7 +29,7 @@
     return "council-camp";
   }
 
-  function buildCampCard(props) {
+  function buildCampCard(props, showCouncil) {
     var html = '<div class="camp-card">';
     html += '<div class="camp-card-header">';
     html += "<h3>" + props.name + "</h3>";
@@ -49,7 +49,7 @@
       typeLabels[props.type] +
       "</span>";
 
-    if (props.council) {
+    if (showCouncil && props.council) {
       html +=
         '<div class="detail"><strong>' + props.council + "</strong></div>";
     }
@@ -82,7 +82,7 @@
     return "group-" + str.replace(/[^a-zA-Z0-9]+/g, "-").toLowerCase();
   }
 
-  function buildSection(key, camps) {
+  function buildSection(key, camps, showCouncil) {
     var id = toId(key);
     var html = '<section class="state-section" id="' + id + '">';
     html +=
@@ -97,7 +97,7 @@
         return a.name.localeCompare(b.name);
       })
       .forEach(function (props) {
-        html += buildCampCard(props);
+        html += buildCampCard(props, showCouncil);
       });
     html += "</div></section>";
     return html;
@@ -234,7 +234,7 @@
       if (g.divider) {
         html += '<div class="region-divider"><h2>' + g.divider + "</h2></div>";
       } else {
-        html += buildSection(g.label, g.camps);
+        html += buildSection(g.label, g.camps, mode !== "council");
       }
     });
 
