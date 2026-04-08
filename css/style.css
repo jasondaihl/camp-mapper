@@ -279,6 +279,10 @@ body.page-map {
   border-bottom: 2px solid #1B5E20;
   padding: 6px 0;
   margin: 0 0 16px;
+  position: sticky;
+  top: 48px;
+  background: #fff;
+  z-index: 10;
 }
 
 .type-counts {
