@@ -7633,12 +7633,12 @@
         "name": "Bashore Scout Reservation",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "160 Moonshine Rd, Jonestown, PA 17038",
         "city": "Jonestown",
         "state": "PA",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://padutchbsa.org/camping/bashore/",
+        "description": "A 400-acre camp nestled in the foothills of the Blue Mountains of central Pennsylvania, operated by the Pennsylvania Dutch Council."
       }
     },
     {
@@ -7654,12 +7654,12 @@
         "name": "Camp Acahela",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "359 Acahela Rd, Blakeslee, PA 18610",
         "city": "Blakeslee",
         "state": "PA",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://www.acahela.org/",
+        "description": "Founded in 1919 and operated by the Northeastern Pennsylvania Council, Camp Acahela sits on a peninsula formed by the joining of the Lehigh River and Tobyhanna Creek in the Pocono Mountains."
       }
     },
     {
@@ -7675,12 +7675,12 @@
         "name": "Camp Conestoga",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "639 Buck Run Rd, Somerset, PA 15501",
         "city": "Somerset",
         "state": "PA",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://wfbsa.org/camping/camp-conestoga/",
+        "description": "A Scouts BSA resident camp operated by the Westmoreland-Fayette Council, located near Laurel Hill State Park in the Laurel Highlands."
       }
     },
     {
@@ -7696,12 +7696,12 @@
         "name": "Camp Karoondinha",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "225 Thomas Dam Rd, Millmont, PA 17845",
         "city": "Millmont",
         "state": "PA",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://susquehannascouting.org/camping/camp-karoondinha/",
+        "description": "A 400-acre camp operated by the Susquehanna Council, situated along Penns Creek in western Union County."
       }
     },
     {
@@ -7717,12 +7717,12 @@
         "name": "Camp Lavigne",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "35 Camp Lavigne Rd, Benton, PA 17814",
         "city": "Benton",
         "state": "PA",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://columbiamontourbsa.org/camping/",
+        "description": "Operated by the Columbia-Montour Council, Camp Lavigne has been welcoming Scouts for over 100 years near Benton in northeastern Pennsylvania."
       }
     },
     {
@@ -7738,12 +7738,12 @@
         "name": "Camp Minsi",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "106 Camp Minsi Rd, Pocono Summit, PA 18346",
         "city": "Pocono Summit",
         "state": "PA",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://minsitrails.org/camp-minsi",
+        "description": "A 1,200-acre camp operated by the Minsi Trails Council on the shores of 314-acre Stillwater Lake in the heart of the Pocono Mountains."
       }
     },
     {
@@ -7759,12 +7759,12 @@
         "name": "Camp Mountain Run",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "4980 Mountain Run Rd, Penfield, PA 15849",
         "city": "DuBois",
         "state": "PA",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://bucktail.org/",
+        "description": "A 380-acre camp operated by the Bucktail Council in the forested highlands of north-central Pennsylvania near the Allegheny National Forest."
       }
     },
     {
@@ -7780,12 +7780,12 @@
         "name": "Camp Olmsted",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "3123 Roper Hollow Rd, Russell, PA 16345",
         "city": "Warren",
         "state": "PA",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://www.cornplanterbsa.org/camping/summer-camp/",
+        "description": "Situated on the Kinzua Reservoir in the Allegheny National Forest, this nearly 500-acre camp offers a 31-mile waterfront with sailing, water skiing, and motorboating."
       }
     },
     {
@@ -7801,12 +7801,12 @@
         "name": "Camp Tuckahoe",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "400 Tuckahoe Rd, Dillsburg, PA 17019",
         "city": "Dillsburg",
         "state": "PA",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://newbirthoffreedom.org/camping/camp-tuckahoe/",
+        "description": "A 1,300-acre camp operated by the New Birth of Freedom Council since 1948 on the York and Cumberland County border."
       }
     },
     {
@@ -7822,12 +7822,12 @@
         "name": "Camp Ware (John H. Ware III)",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "239 Jubilee Rd, Peach Bottom, PA 17563",
         "city": "Peach Bottom",
         "state": "PA",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://campreservation.com/539/Camps/433",
+        "description": "Part of the Horseshoe Scout Reservation owned by the Chester County Council, offering year-round camping and Cub Scout overnight summer programs in southern Lancaster County."
       }
     },
     {
@@ -7843,12 +7843,12 @@
         "name": "Custaloga Town Scout Reservation",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "7 Boy Scout Ln, Carlton, PA 16311",
         "city": "Carlton",
         "state": "PA",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://www.fccscouting.org/custaloga-town-scout-reservation/",
+        "description": "A 525-acre reservation operated by the French Creek Council in northwestern Pennsylvania, offering canoeing, archery, and rock climbing."
       }
     },
     {
@@ -7864,12 +7864,12 @@
         "name": "Goose Pond Scout Reservation",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "1047 Goose Pond Rd, Lake Ariel, PA 18436",
         "city": "Hawley",
         "state": "PA",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://gpsr.nepabsa.org/",
+        "description": "A 507-acre reservation operated by the Northeastern Pennsylvania Council, surrounding a 43-acre glacial lake near Lake Wallenpaupack."
       }
     },
     {
@@ -7885,12 +7885,12 @@
         "name": "Hawk Mountain Scout Reservation",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "402 Blue Mountain Rd, Schuylkill Haven, PA 17972",
         "city": "Hawk Mountain",
         "state": "PA",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://hmc-bsa.org/hmsr/",
+        "description": "A 700-acre reservation operated by the Hawk Mountain Council in the Blue Mountain ridge of the Appalachians."
       }
     },
     {
@@ -7906,12 +7906,12 @@
         "name": "Heritage Scout Reservation",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "300 Heritage Rd, Farmington, PA 15437",
         "city": "Farmington",
         "state": "PA",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://heritagereservation.org/",
+        "description": "A 2,000-acre reservation operated by the Laurel Highlands Council, located minutes from Ohiopyle State Park in southwestern Pennsylvania."
       }
     },
     {
@@ -7927,12 +7927,12 @@
         "name": "Hidden Valley Scout Reservation",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "268 Hidden Valley Rd, Loysville, PA 17047",
         "city": "Loysville",
         "state": "PA",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://newbirthoffreedom.org/camping/hidden-valley-scout-reservation/",
+        "description": "An 830-acre camp operated by the New Birth of Freedom Council since 1927, nestled along Sherman's Creek in Perry County."
       }
     },
     {
@@ -7948,12 +7948,12 @@
         "name": "J. Edward Mack Scout Reservation",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "2 Scout Ln, Newmanstown, PA 17073",
         "city": "Newmanstown",
         "state": "PA",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://padutchbsa.org/camping/mack/",
+        "description": "A 1,000-acre property operated by the Pennsylvania Dutch Council, serving as the home for Cub Scout summer programs in the hills of Lebanon County."
       }
     },
     {
@@ -7969,12 +7969,12 @@
         "name": "Musser Scout Reservation",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "5505 Upper Ridge Rd, Pennsburg, PA 18073",
         "city": "Perkasie",
         "state": "PA",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://mussersr.org/",
+        "description": "A 1,400-acre reservation operated by the Cradle of Liberty Council along the Unami Creek, the largest contiguous forest in southeastern Pennsylvania."
       }
     },
     {
@@ -7990,12 +7990,12 @@
         "name": "Ockanickon Scout Reservation",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "5787 State Park Rd, Pipersville, PA 18947",
         "city": "Pipersville",
         "state": "PA",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://www.ockanickon.org/",
+        "description": "Operated by the Washington Crossing Council in Bucks County, serving over 2,000 Scouts annually in the rolling hills of southeastern Pennsylvania."
       }
     },
     {
@@ -8011,12 +8011,12 @@
         "name": "Resica Falls Scout Reservation",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "1200 Resica Falls Rd, East Stroudsburg, PA 18302",
         "city": "East Stroudsburg",
         "state": "PA",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://resicafalls.org/",
+        "description": "A 4,200-acre reservation operated by the Cradle of Liberty Council in the Pocono Mountains, hosting over 3,000 Scouts each summer."
       }
     },
     {
@@ -8032,12 +8032,12 @@
         "name": "Seven Mountains Scout Camp",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "227 Sand Mountain Rd, Spring Mills, PA 16875",
         "city": "Mifflinburg",
         "state": "PA",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://www.sevenmountainsscoutcamp.org/",
+        "description": "Operated by the Juniata Valley Council in the Seven Mountains region of central Pennsylvania, less than 30 minutes from State College."
       }
     },
     {
@@ -8053,12 +8053,12 @@
         "name": "Aubrey Watzek Lodge",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "14000 Hwy 35, Parkdale, OR 97041",
         "city": "Portland",
         "state": "OR",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://cpcscouting.org/wintercamp/",
+        "description": "A mountain lodge on Mt. Hood operated by Cascade Pacific Council, offering winter camping activities such as snowshoeing, sledding, and igloo building."
       }
     },
     {
@@ -8074,12 +8074,12 @@
         "name": "Butte Creek Scout Ranch",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "13462 S Butte Creek Rd, Scotts Mills, OR 97375",
         "city": "Scotts Mills",
         "state": "OR",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://cpcscouting.org/project/butte-creek/",
+        "description": "A 640-acre working horse ranch in the Cascade foothills operated by Cascade Pacific Council, the only Cub Scout horse ranch on the West Coast."
       }
     },
     {
@@ -8095,12 +8095,12 @@
         "name": "Camp Baker",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "5262 Boy Scout Rd, Florence, OR 97439",
         "city": "Florence",
         "state": "OR",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://pccscouting.org/camping/",
+        "description": "A Scouts BSA summer camp on a peninsula on Siltcoos Lake near the Oregon coast, operated by Pacific Crest Council with sandboarding on the Oregon Dunes."
       }
     },
     {
@@ -8116,12 +8116,12 @@
         "name": "Camp Baldwin",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "76201 Dufur Valley Rd, Dufur, OR 97021",
         "city": "Dufur",
         "state": "OR",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://cpcscouting.org/project/camp-baldwin/",
+        "description": "A 640-acre Scouts BSA summer camp perched at 3,600 feet in the Mt. Hood National Forest, operated by Cascade Pacific Council."
       }
     },
     {
@@ -8137,12 +8137,12 @@
         "name": "Camp Clark",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "17500 Cape Lookout Rd, Cloverdale, OR 97112",
         "city": "Cloverdale",
         "state": "OR",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://cpcscouting.org/project/camp-clark/",
+        "description": "A Cub Scout camp on the Oregon coast at the base of Cape Lookout, part of the Meriwether-Clark Scout Reservation with 2.5 miles of private beachfront."
       }
     },
     {
@@ -8158,12 +8158,12 @@
         "name": "Camp Cooper",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "6000 SW Bald Mountain Rd, Willamina, OR 97396",
         "city": "Willamina",
         "state": "OR",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://cpcscouting.org/project/camp-cooper/",
+        "description": "A 240-acre camp nestled in the Coast Range near Willamina, operated by Cascade Pacific Council and surrounded by old-growth forest."
       }
     },
     {
@@ -8179,12 +8179,12 @@
         "name": "Camp Ireland",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "31557 NW Camp Ireland Rd, Hillsboro, OR 97124",
         "city": "Hillsboro",
         "state": "OR",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://cpcscouting.org/project/camp-ireland/",
+        "description": "A Cascade Pacific Council camp about two miles north of downtown Hillsboro, nearly surrounded by McKay Creek, serving as a close-to-town nature experience."
       }
     },
     {
@@ -8200,12 +8200,12 @@
         "name": "Camp Makualla",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "FR 60, Crescent, OR 97733",
         "city": "Crescent Lake",
         "state": "OR",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://pccscouting.org/camping/",
+        "description": "Founded in 1938 on the southern shore of Crescent Lake at 4,500 feet elevation in the Deschutes National Forest, operated by Pacific Crest Council."
       }
     },
     {
@@ -8221,12 +8221,12 @@
         "name": "Camp McLoughlin",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "OR-140, Klamath Falls, OR 97601",
         "city": "Klamath Falls",
         "state": "OR",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://pccscouting.org/camping/",
+        "description": "A Cub Scout resident camp on the northwestern shore of Lake of the Woods in the Fremont-Winema National Forest at 5,000 feet elevation."
       }
     },
     {
@@ -8242,12 +8242,12 @@
         "name": "Camp Melakwa",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "2649 Scott Creek Rd, Blue River, OR 97413",
         "city": "McKenzie Bridge",
         "state": "OR",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://pccscouting.org/camping/summer-camp/",
+        "description": "A wilderness Scouts BSA summer camp high in the Oregon Cascades near Scott Lake in the Deschutes National Forest with access to the Pacific Crest Trail."
       }
     },
     {
@@ -8263,12 +8263,12 @@
         "name": "Camp Royce-Finel",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "Cullaby Lake Ln, Warrenton, OR 97146",
         "city": "Warrenton",
         "state": "OR",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://cpcscouting.org/project/camp-royce-finel/",
+        "description": "A primitive camp on the northeast end of Cullaby Lake near Astoria, operated by Cascade Pacific Council with five primitive campsites accessible by hiking or boat."
       }
     },
     {
@@ -8284,12 +8284,12 @@
         "name": "Camp George Thomas",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "45456 County Street 2520, Apache, OK 73006",
         "city": "Apache",
         "state": "OK",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://www.scoutingrocks.tv/CGT",
+        "description": "A Last Frontier Council camp at the foot of the Wichita Mountains, established in 1935, primarily serving Cub and Webelos Scouts."
       }
     },
     {
@@ -8305,12 +8305,12 @@
         "name": "Camp McClintock",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "216 County Rd 2427, Bartlesville, OK 74003",
         "city": "Bartlesville",
         "state": "OK",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://cherokeebsa.org/camp-mcclintock/",
+        "description": "A 240-acre Cherokee Area Council camp in the Osage Hills west of Bartlesville, offering year-round camping with hiking, canoeing, and scenic woods."
       }
     },
     {
@@ -8326,12 +8326,12 @@
         "name": "Camp Sasakwa",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "D1445 Rd, Allen, OK 74825",
         "city": "Holdenville",
         "state": "OK",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://scoutingrocks.tv/posts/148837/camp-sasakwa-history",
+        "description": "A primitive, short-term camping property operated by the Last Frontier Council near Allen, offering a low-impact high adventure setting."
       }
     },
     {
@@ -8347,12 +8347,12 @@
         "name": "Camp Simpson",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "6535 East Coatsworth Road, Bromide, OK 74530",
         "city": "Milburn",
         "state": "OK",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://arbucklebsa.org/camping/campsimpsongeneralinformation/",
+        "description": "A 2,000-acre Arbuckle Area Council camp in the heart of the Arbuckle Mountains, serving over 2,500 youth annually with 13 campsites."
       }
     },
     {
@@ -8368,12 +8368,12 @@
         "name": "Hale Scout Reservation",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "1 Camp Tom Hale Road, Talihina, OK 74571",
         "city": "Talihina",
         "state": "OK",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://www.halescoutreservation.org/",
+        "description": "A 620-acre Indian Nations Council camp in the Winding Stair Mountains of southeastern Oklahoma, nestled in the Ouachita National Forest."
       }
     },
     {
@@ -8389,12 +8389,12 @@
         "name": "Kerr Scout Ranch at Slippery Falls",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "4500 S Bullet Prairie Rd, Tishomingo, OK 73460",
         "city": "Tishomingo",
         "state": "OK",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://scoutingrocks.tv/posts/66697/kerr-scout-ranch-at-slippery-falls",
+        "description": "A Last Frontier Council summer camp near Tishomingo in south-central Oklahoma, serving Troops and Crews with a rustic outdoor Scouting experience."
       }
     },
     {
@@ -8410,12 +8410,12 @@
         "name": "Mabee Scout Reservation",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "6500 E 590, Locust Grove, OK 74352",
         "city": "Locust Grove",
         "state": "OK",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://www.okscouts.org/camps-1/mabee-scout-reservation",
+        "description": "A 600-acre Indian Nations Council property along Spring Creek south of Locust Grove, hosting Cub Scout resident camps and high adventure activities."
       }
     },
     {
@@ -8431,12 +8431,12 @@
         "name": "Tom Hale Scout Reservation",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "1 Camp Tom Hale Road, Talihina, OK 74571",
         "city": "Skiatook",
         "state": "OK",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://www.halescoutreservation.org/",
+        "description": "The historic name for Hale Scout Reservation, a 620-acre Indian Nations Council camp in the Ouachita National Forest."
       }
     },
     {
@@ -8452,12 +8452,12 @@
         "name": "Will Rogers Scout Reservation",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "362369 E Highway 64, Cleveland, OK 74020",
         "city": "Cleveland",
         "state": "OK",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://www.cimarronbsa.org/council-properties",
+        "description": "The premier summer camp of the Cimarron Council, comprising approximately 340 acres of oak and hickory forest with shooting ranges."
       }
     },
     {
@@ -8473,12 +8473,12 @@
         "name": "Zink Scout Ranch",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "11301 Zink Ranch Rd, Skiatook, OK 74070",
         "city": "Skiatook",
         "state": "OK",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://www.okscouts.org/camps-1/zink-scout-ranch",
+        "description": "An Indian Nations Council property at Skiatook Lake about 30 minutes from Tulsa, featuring Babbitt Cub World and the ZBASE high adventure base."
       }
     },
     {
@@ -8494,12 +8494,12 @@
         "name": "Beaumont Scout Reservation (Lake Erie Council)",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "2429 SR 45 N, Rock Creek, OH 44084",
         "city": "Rock Creek",
         "state": "OH",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://lecscouting.org/beaumont",
+        "description": "A 1,260-acre full-service Scout reservation along the Grand River, operated by the Lake Erie Council approximately 40 miles east of Cleveland."
       }
     },
     {
@@ -8515,12 +8515,12 @@
         "name": "Camp Berry",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "11716 CR 40, Findlay, OH 45840",
         "city": "Findlay",
         "state": "OH",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://www.blackswampbsa.org/camping/camp-berry/63302",
+        "description": "A 360-acre camp operated by the Black Swamp Area Council, established in 1928 through a land donation by Mr. and Mrs. R.J. Berry."
       }
     },
     {
@@ -8536,12 +8536,12 @@
         "name": "Camp Craig",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "6113 Price Rd, Loveland, OH 45140",
         "city": "Loveland",
         "state": "OH",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://danbeard.org/camp-properties/camp-craig/",
+        "description": "A training facility and group rental property within the Dan Beard Scout Reservation in the greater Cincinnati area."
       }
     },
     {
@@ -8557,12 +8557,12 @@
         "name": "Camp Falling Rock",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "12637 Houdeshell Rd, Newark, OH 43055",
         "city": "Newark",
         "state": "OH",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://skcscouts.org/camps/camp-locations-and-rentals/camp-falling-rock/",
+        "description": "A 600-acre camp operated by the Simon Kenton Council, featuring rolling hardwood forests, streams, waterfalls, and scenic meadows."
       }
     },
     {
@@ -8578,12 +8578,12 @@
         "name": "Camp Friedlander",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "581 Ibold Rd, Loveland, OH 45140",
         "city": "Loveland",
         "state": "OH",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://danbeard.org/camp-properties/camp-friedlander/",
+        "description": "The Dan Beard Council's premier Scouts BSA summer camp offering a wide variety of merit badges and training opportunities."
       }
     },
     {
@@ -8599,12 +8599,12 @@
         "name": "Camp Hugh Taylor Birch",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "4057 Swimming Pool Rd, Yellow Springs, OH 45387",
         "city": "Yellow Springs",
         "state": "OH",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://tecumsehcouncil.org/camping/campbirch/",
+        "description": "A 440-acre woodland camp operated by the Tecumseh Council, featuring a dining hall, Olympic-size swimming pool, and a 10-acre lake near Yellow Springs."
       }
     },
     {
@@ -8620,12 +8620,12 @@
         "name": "Camp Lakota",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "2180 Ginter Rd, Defiance, OH 43512",
         "city": "Defiance",
         "state": "OH",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://www.blackswampbsa.org/camping/camp-lakota/63303",
+        "description": "A 640-acre camp operated by the Black Swamp Area Council, featuring the 48-acre Lake Glengary and bordered by the Auglaize River."
       }
     },
     {
@@ -8641,12 +8641,12 @@
         "name": "Camp Lazarus",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "4422 Columbus Pike, Delaware, OH 43015",
         "city": "Delaware",
         "state": "OH",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://skcscouts.org/camps/camp-locations-and-rentals/camp-lazarus/",
+        "description": "A year-round camping facility operated by the Simon Kenton Council, located just north of Columbus."
       }
     },
     {
@@ -8662,12 +8662,12 @@
         "name": "Camp McKinley",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "37748 Furnace Rd, Lisbon, OH 44432",
         "city": "Lisbon",
         "state": "OH",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://www.buckeyecouncil.org/camping-old/weekend-camping/",
+        "description": "A 200-acre camp in Columbiana County operated by the Buckeye Council since 1934, encompassing the historic McKinley family homestead."
       }
     },
     {
@@ -8683,12 +8683,12 @@
         "name": "Camp Miakonda",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "5600 W Sylvania Ave, Toledo, OH 43623",
         "city": "Sylvania",
         "state": "OH",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://www.erieshorescouncil.org/miakonda",
+        "description": "Ohio's oldest and America's fifth-oldest surviving Scout camp, a 160-acre facility operated by the Erie Shores Council in Toledo."
       }
     },
     {
@@ -8704,12 +8704,12 @@
         "name": "Camp Otter Run",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "7647 Co Rd 144, East Liberty, OH 43319",
         "city": "East Liberty",
         "state": "OH",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://skcscouts.org/camps/camp-locations-and-rentals/camp-otter-run/",
+        "description": "A primitive camping facility operated by the Simon Kenton Council near Marysville."
       }
     },
     {
@@ -8725,12 +8725,12 @@
         "name": "Camp Oyo",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "168 Shawnee Rd, West Portsmouth, OH 45663",
         "city": "West Portsmouth",
         "state": "OH",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://skcscouts.org/camps/summercamps/scouts-bsa-resident-camp-camp-oyo/",
+        "description": "Established in 1926 and operated by the Simon Kenton Council, nestled in the heart of Shawnee State Forest near Portsmouth."
       }
     },
     {
@@ -8746,12 +8746,12 @@
         "name": "Camp Rodman",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "11400 State Street NE, Alliance, OH 44601",
         "city": "Barberton",
         "state": "OH",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://www.buckeyecouncil.org/camping-old/weekend-camping/camp-rodman/",
+        "description": "A small camp maintained by the Buckeye Council, ideal for single-unit camping and small district events near Alliance."
       }
     },
     {
@@ -8767,12 +8767,12 @@
         "name": "Camp Stambaugh",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "3712 Leffingwell Rd, Canfield, OH 44406",
         "city": "Canfield",
         "state": "OH",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://www.manatoc.org/camping/camp-stambaugh",
+        "description": "The second-oldest continuously operating Scout camp in Ohio, opened in 1919 and operated by the Great Trail Council in the Mahoning Valley."
       }
     },
     {
@@ -8788,12 +8788,12 @@
         "name": "Cricket Holler Scout Camp",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "6675 Brantford Rd, Dayton, OH 45414",
         "city": "Camden",
         "state": "OH",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://miamivalleyscouting.org/",
+        "description": "A 135-acre camp established in 1919 as the first camp built by the Miami Valley Council, featuring trails, streams, and woods in the Dayton area."
       }
     },
     {
@@ -8809,12 +8809,12 @@
         "name": "Cub World Adventure Camp",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "6035 Price Rd, Loveland, OH 45140",
         "city": "Loveland",
         "state": "OH",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://danbeard.org/camp-properties/",
+        "description": "Operated by the Dan Beard Council, this camp hosted the first Cub Scout resident camp program in the BSA in 1973."
       }
     },
     {
@@ -8830,12 +8830,12 @@
         "name": "Firelands Scout Reservation",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "13782 Gore Orphanage Rd, Wakeman, OH 44889",
         "city": "Wakeman",
         "state": "OH",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://lecscouting.org/firelands",
+        "description": "A 455-acre reservation operated by the Lake Erie Council near Oberlin, encompassing Camp Avery Hand and Camp Wyandot."
       }
     },
     {
@@ -8851,12 +8851,12 @@
         "name": "Fort Steuben Scout Reservation",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "79601 Simpson Rd, Tippecanoe, OH 44699",
         "city": "Tippecanoe",
         "state": "OH",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://mountaineerscouting.org/fssr/",
+        "description": "A Scout reservation situated along Clendening Lake in eastern Ohio, offering cabins, shelters, and rustic campsites."
       }
     },
     {
@@ -8872,12 +8872,12 @@
         "name": "Manatoc Scout Reservation",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "1075 Truxell Rd, Peninsula, OH 44264",
         "city": "Peninsula",
         "state": "OH",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://www.manatoc.org/",
+        "description": "A 600-acre reservation operated by the Great Trail Council in the heart of Cuyahoga Valley National Park."
       }
     },
     {
@@ -8893,12 +8893,12 @@
         "name": "Pioneer Scout Reservation",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "7371 County Road S, Pioneer, OH 43554",
         "city": "Pioneer",
         "state": "OH",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://www.psrweb.org/",
+        "description": "An 1,100-acre reservation operated by the Erie Shores Council, home to Camp Frontier, the premier Scouts BSA summer camp in northwest Ohio."
       }
     },
     {
@@ -8914,12 +8914,12 @@
         "name": "Seven Ranges Scout Reservation",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "7070 Meter Rd NE, Kensington, OH 44427",
         "city": "Kensington",
         "state": "OH",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://www.buckeyecouncil.org/camping/scouts-bsa-summer-camp/",
+        "description": "A nearly 900-acre reservation operated by the Buckeye Council in Carroll County, featuring rolling hills, woods, meadows, and lakes."
       }
     },
     {
@@ -8935,12 +8935,12 @@
         "name": "Woodland Trails Scout Reservation",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "265 Gasper-Somers Rd, Camden, OH 45311",
         "city": "Camden",
         "state": "OH",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://miamivalleyscouting.org/",
+        "description": "A 1,000-acre spread of hardwood forests, fields, and streams in Preble County, operated by the Miami Valley Council since 1959."
       }
     },
     {
@@ -8956,12 +8956,12 @@
         "name": "Camp Boddie (East Carolina Scout Reservation)",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "419 Camp Bonner Boy Scout Rd, Blounts Creek, NC 27814",
         "city": "Blounts Creek",
         "state": "NC",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://scoutingecc.org/camping/camp-boddie/general-information/",
+        "description": "Located on 880 acres along the banks of the Pamlico River, Camp Boddie serves as the East Carolina Council's primary summer resident camp with waterfront activities."
       }
     },
     {
@@ -8977,12 +8977,12 @@
         "name": "Camp Bowers",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "13165 NC Hwy 53 W, White Oak, NC 28399",
         "city": "White Oak",
         "state": "NC",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://www.capefearscouting.org/content/132782/Camp-Bowers",
+        "description": "A 1,400-acre Cape Fear Council camp in southeastern North Carolina, featuring 35-acre Lake Katherine, a climbing tower, and pristine longleaf pine forests."
       }
     },
     {
@@ -8998,12 +8998,12 @@
         "name": "Camp Bud Schiele",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "668 Boy Scout Rd, Rutherfordton, NC 28139",
         "city": "Rutherfordton",
         "state": "NC",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://www.campbudschiele.org/",
+        "description": "Centerpiece of the 1,500-acre Piedmont Scout Reservation, Camp Bud Schiele opened in 1982 and is one of the premier Scouting camps in the Southern Region."
       }
     },
     {
@@ -9019,12 +9019,12 @@
         "name": "Camp Daniel Boone",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "3647 Little East Fork Rd, Canton, NC 28716",
         "city": "Canton",
         "state": "NC",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://www.campdanielboone.org/",
+        "description": "The Daniel Boone Council's flagship camp in the mountains of western North Carolina, celebrating over 85 years of operation with high adventure treks and living history programs."
       }
     },
     {
@@ -9040,12 +9040,12 @@
         "name": "Camp Durant",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "4637 Old Carthage Rd, Carthage, NC 28327",
         "city": "Rougemont",
         "state": "NC",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://ocscouts.org/outdoor-programs/camping/camp-durant/",
+        "description": "Part of the 2,400-acre Occoneechee Scout Reservation in Moore County, Camp Durant is the Occoneechee Council's full-service summer camp with 15 campsites."
       }
     },
     {
@@ -9061,12 +9061,12 @@
         "name": "Camp Grimes",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "383 Vein Mountain Rd, Nebo, NC 28761",
         "city": "Pinnacle",
         "state": "NC",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://www.mycampgrimes.org/",
+        "description": "Operated by the Mecklenburg County Council in the foothills of the Blue Ridge Mountains, featuring 100-acre Lake Calhoun and over 60 merit badge offerings."
       }
     },
     {
@@ -9082,12 +9082,12 @@
         "name": "Camp John J. Barnhardt",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "44184 Cannon Rd, New London, NC 28127",
         "city": "New London",
         "state": "NC",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://www.campjohnjbarnhardt.org/",
+        "description": "Set on the 1,000-acre William C. Cannon Scout Reservation in Stanly County with views of Badin Lake and the Uwharrie Mountains."
       }
     },
     {
@@ -9103,12 +9103,12 @@
         "name": "Camp McNeil (Cub Scout World)",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "13165 NC Hwy 53 W, White Oak, NC 28399",
         "city": "White Oak",
         "state": "NC",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://www.capefearscouting.org/content/132783/Camp-McNeill",
+        "description": "A Cape Fear Council camp designed for Cub Scouts, featuring themed program areas including a gold mine, pirate ship, western fort, and Native American teepee village."
       }
     },
     {
@@ -9124,12 +9124,12 @@
         "name": "Camp Raven Knob",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "266 Raven Knob Rd, Mount Airy, NC 27030",
         "city": "Mount Airy",
         "state": "NC",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://www.ravenknob.com/",
+        "description": "The Old Hickory Council's 3,200-acre home camp in the foothills of the Blue Ridge Mountains, offering summer camp programs since 1954."
       }
     },
     {
@@ -9145,12 +9145,12 @@
         "name": "Camp Reeves",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "4637 Old Carthage Rd, Carthage, NC 28327",
         "city": "Cameron",
         "state": "NC",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://ocscouts.org/outdoor-programs/camping/camp-reeves/",
+        "description": "Part of the Occoneechee Scout Reservation in Moore County, Camp Reeves provides primitive camping facilities on the 2,400-acre reservation."
       }
     },
     {
@@ -9166,12 +9166,12 @@
         "name": "Camp Sam Hatcher",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "Hatcher Rd, Newport, NC 28570",
         "city": "Newport",
         "state": "NC",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://www.scoutingecc.org/camping",
+        "description": "A former East Carolina Council camp located along Bogue Sound near Newport, offering waterfront access and primitive camping on 35 acres of coastal land."
       }
     },
     {
@@ -9187,12 +9187,12 @@
         "name": "Camp Tuscarora",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "965 Scout Rd, Four Oaks, NC 27524",
         "city": "Goldsboro",
         "state": "NC",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://www.tuscarorabsa.org/Summercamp",
+        "description": "The Tuscarora Council's summer camp in Johnston County, open since 1973, serving Scouts from Duplin, Johnston, Sampson, and Wayne counties."
       }
     },
     {
@@ -9208,12 +9208,12 @@
         "name": "Cherokee Scout Reservation",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "3296 Boy Scout Camp Rd, Yanceyville, NC 27379",
         "city": "Yanceyville",
         "state": "NC",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://csr.camp/",
+        "description": "A 1,700-acre Old North State Council camp in the hardwood forests of Caswell County, featuring 14 campsites, COPE course, and year-round programming."
       }
     },
     {
@@ -9229,12 +9229,12 @@
         "name": "Hemrick Scout Reservation",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "Boat Launch Rd, Clarksville, VA 23927",
         "city": "Rutherfordton",
         "state": "NC",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://onsc.org/camping/",
+        "description": "An Old North State Council island camp on Kerr Lake near the North Carolina-Virginia border, accessible only by watercraft."
       }
     },
     {
@@ -9250,12 +9250,12 @@
         "name": "Occoneechee Scout Reservation",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "4637 Old Carthage Rd, Carthage, NC 28327",
         "city": "Rougemont",
         "state": "NC",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://ocscouts.org/outdoor-programs/camping/",
+        "description": "A 2,400-acre Occoneechee Council property in Moore County encompassing Camp Durant and Camp Reeves for year-round Scouting adventures."
       }
     },
     {
@@ -9271,12 +9271,12 @@
         "name": "Woodfield Scout Preservation",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "491 Woodfield Scout Trail, Asheboro, NC 27205",
         "city": "Yanceyville",
         "state": "NC",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://onsc.org/camping/",
+        "description": "An 800-acre Old North State Council property along the Uwharrie River in Randolph County, used for Cub Scout events, unit camping, and Order of the Arrow activities."
       }
     },
     {
@@ -9292,12 +9292,12 @@
         "name": "Baiting Hollow Scout Camp",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "1774 Sound Ave, Calverton, NY 11933",
         "city": "Wading River",
         "state": "NY",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://www.sccbsa.org/bhsc",
+        "description": "A Suffolk County Council camp on the North Shore of Long Island, serving Scouting since 1926 with a freshwater lake and beachfront access on Long Island Sound."
       }
     },
     {
@@ -9313,12 +9313,12 @@
         "name": "Camp Aquehonga",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "125 Aquehonga Rd, Narrowsburg, NY 12764",
         "city": "Narrowsburg",
         "state": "NY",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://tenmileriver.org/aq/",
+        "description": "A patrol cooking camp within the Ten Mile River Scout Camps, operated by the Greater New York Councils on the edge of Half-Moon Lake."
       }
     },
     {
@@ -9334,12 +9334,12 @@
         "name": "Camp Bullowa",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "15 Franck Rd, Stony Point, NY 10980",
         "city": "Stony Point",
         "state": "NY",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://www.ghvscouting.org/bullowa/",
+        "description": "A 300-acre Greater Hudson Valley Council camp in northern Rockland County, founded in 1947, offering year-round Scouting programs including day camp and boating on Lake Boyce."
       }
     },
     {
@@ -9355,12 +9355,12 @@
         "name": "Camp Cutler",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "7131 Gulick Rd, Naples, NY 14512",
         "city": "Naples",
         "state": "NY",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://members.senecawaterways.org/camps/j-warren-cutler-scout-reservation",
+        "description": "A 1,200-acre Seneca Waterways Council camp in the heart of the Finger Lakes region, officially the J. Warren Cutler Scout Reservation."
       }
     },
     {
@@ -9376,12 +9376,12 @@
         "name": "Camp Gorton",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "4241 County Rt 25, Dundee, NY 14837",
         "city": "Tyrone",
         "state": "NY",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://gfcscouting.org/camping/camp-gorton/",
+        "description": "A Great Falls Council camp on Waneta Lake in the Finger Lakes region, celebrating over 100 years of operation with 350 acres and over 50 merit badges."
       }
     },
     {
@@ -9397,12 +9397,12 @@
         "name": "Camp Kingsley",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "5330 Tuffey Rd, Ava, NY 13303",
         "city": "Ava",
         "state": "NY",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://www.leatherstockingcouncil.org/about-us/districts-camps/camps/camp-kingsley/",
+        "description": "A Leatherstocking Council camp established in 1921, situated on over 365 acres of wilderness adjacent to state land."
       }
     },
     {
@@ -9418,12 +9418,12 @@
         "name": "Camp Merz",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "5297 West Lake Rd, Mayville, NY 14757",
         "city": "Mayville",
         "state": "NY",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://www.campmerz.org/",
+        "description": "A 350-acre Allegheny Highlands Council camp on the shores of Chautauqua Lake in western New York."
       }
     },
     {
@@ -9439,12 +9439,12 @@
         "name": "Camp Pouch",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "1465 Manor Rd, Staten Island, NY 10314",
         "city": "Staten Island",
         "state": "NY",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://camppouch.org/",
+        "description": "A 143-acre Greater New York Councils camp and the only urban Scout camp in the nation, located within Staten Island's Greenbelt."
       }
     },
     {
@@ -9460,12 +9460,12 @@
         "name": "Camp Sam Wood",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "7772 Camp Rd, Portageville, NY 14536",
         "city": "Pike",
         "state": "NY",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://gfcscouting.org/camping/camp-samwood/",
+        "description": "A Great Falls Council camp near Letchworth State Park in western New York, named after the first Eagle Scout in Genesee County."
       }
     },
     {
@@ -9481,12 +9481,12 @@
         "name": "Camp Scouthaven",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "10784 NY-98, Freedom, NY 14065",
         "city": "Freedom",
         "state": "NY",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://gfcscouting.org/camping/camp-scouthaven/",
+        "description": "One of the oldest Scout camps in the United States, established in 1918 on Crystal Lake, a 732-acre Great Falls Council camp in Cattaraugus County."
       }
     },
     {
@@ -9502,12 +9502,12 @@
         "name": "Camp Tri-Mount Scout Reservation",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "261 Boy Scout Rd, East Jewett, NY 12424",
         "city": "East Jewett",
         "state": "NY",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://www.rvwbsa.org/",
+        "description": "A Rip Van Winkle Council camp in the heart of the Catskill Mountains, founded in 1946 with a lake, hiking trails, and year-round camping."
       }
     },
     {
@@ -9523,12 +9523,12 @@
         "name": "Camp Wakpominee",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "185 Sly Pond Rd, Fort Ann, NY 12827",
         "city": "Fort Ann",
         "state": "NY",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://trcscouting.org/camp-wakpominee/",
+        "description": "A 1,000-acre Twin Rivers Council camp in the Adirondack foothills, founded in 1920 with views of Lake George."
       }
     },
     {
@@ -9544,12 +9544,12 @@
         "name": "Camp Woodland",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "491 Kibbe Lake Rd, Constantia, NY 13044",
         "city": "Long Lake",
         "state": "NY",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://cnyscouts.org/camping/camp-woodland/",
+        "description": "A Longhouse Council camp near the north shore of Oneida Lake, purchased in 1929, serving as the home of Cub Scout and Scouts BSA programs."
       }
     },
     {
@@ -9565,12 +9565,12 @@
         "name": "Curtis S. Read Scout Reservation",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "1377 Palisades Rd, Brant Lake, NY 12815",
         "city": "Brant Lake",
         "state": "NY",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://www.ghvscouting.org/read/",
+        "description": "A 1,000-acre Greater Hudson Valley Council camp in the Adirondack Park, 30 minutes north of Lake George, with horseback riding, rock climbing, and over 50 merit badges."
       }
     },
     {
@@ -9586,12 +9586,12 @@
         "name": "Durland Scout Reservation",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "1 Clear Lake Rd, Putnam Valley, NY 10512",
         "city": "Putnam Valley",
         "state": "NY",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://www.ghvscouting.org/durland/",
+        "description": "A 1,400-acre Greater Hudson Valley Council camp of mostly deciduous forest containing five lakes, bordered by Clarence Fahnestock State Park."
       }
     },
     {
@@ -9607,12 +9607,12 @@
         "name": "Elk Lick Scout Reserve",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "2420 Bordell Rd, Smethport, PA 16749",
         "city": "Smethport",
         "state": "PA",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://www.alleghenyhighlands.org/camping",
+        "description": "A 313-acre camp operated by the Allegheny Highlands Council near Allegany State Park in McKean County in the northern tier of Pennsylvania."
       }
     },
     {
@@ -9628,12 +9628,12 @@
         "name": "Forestburg Scout Reservation",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "1945 State Route 42, Forestburgh, NY 12777",
         "city": "Forestburgh",
         "state": "NY",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://www.monmouthcouncilscouting.org/fsr",
+        "description": "A 1,200-acre Monmouth Council camp in the Catskill Mountains of Sullivan County, established in 1956 with over 20 miles of hiking trails and a 90-foot waterfall."
       }
     },
     {
@@ -9649,12 +9649,12 @@
         "name": "Massawepie Scout Camps",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "65 Massawepie Rd, Piercefield, NY 12776",
         "city": "Piercefield",
         "state": "NY",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://scoutsroc.org/camps/massawepie-scout-camp",
+        "description": "A 3,700-acre Seneca Waterways Council property in the Adirondack Mountains near Tupper Lake, featuring a mile-long private lake and four distinct camps."
       }
     },
     {
@@ -9670,12 +9670,12 @@
         "name": "Onteora Scout Reservation",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "3 Old Hunter Rd, Livingston Manor, NY 12758",
         "city": "Livingston Manor",
         "state": "NY",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://www.trcscouts.org/camping/onteora/",
+        "description": "A 1,400-acre Theodore Roosevelt Council camp in the Catskill Mountains, offering over 85 merit badges and welcoming over 1,000 Scouts each summer."
       }
     },
     {
@@ -9691,12 +9691,12 @@
         "name": "Rotary Scout Reservation",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "279 Davitt Lake Rd, Averill Park, NY 12018",
         "city": "Poestenkill",
         "state": "NY",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://rsrbsa.org/",
+        "description": "A 1,300-acre Twin Rivers Council wilderness camp less than 30 minutes from Albany, offering Scouts BSA and Cub Scout resident camp."
       }
     },
     {
@@ -9712,12 +9712,12 @@
         "name": "Sabattis Adventure Camp",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "1745 Sabattis Rd, Long Lake, NY 12847",
         "city": "Long Lake",
         "state": "NY",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://ppcscouting.org/",
+        "description": "A Patriots' Path Council camp covering 1,250 acres in the heart of Adirondack Park, known for its patrol-style cooking program and high adventure canoe and hiking treks."
       }
     },
     {
@@ -9733,12 +9733,12 @@
         "name": "Sabattis Scout Reservation",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "1745 Sabattis Rd, Long Lake, NY 12847",
         "city": "Long Lake",
         "state": "NY",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://cnyscouts.org/camping/sabattis-scout-reservation/",
+        "description": "A former 1,500-acre Longhouse Council camp in the Adirondack Park between Tupper Lake and Long Lake, opened in 1958."
       }
     },
     {
@@ -9754,12 +9754,12 @@
         "name": "Ten Mile River Scout Camps",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "1481 Crystal Lake Rd, Narrowsburg, NY 12764",
         "city": "Narrowsburg",
         "state": "NY",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://tenmileriver.org/",
+        "description": "A Greater New York Councils reservation in the Sullivan County Catskills, one of the largest Scout camps in the eastern United States."
       }
     },
     {
@@ -9775,12 +9775,12 @@
         "name": "Tuscarora Scout Reservation",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "205 Summit Rd, Windsor, NY 13865",
         "city": "Windsor",
         "state": "NY",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://www.bpcouncil.org/camping/tuscarora/",
+        "description": "A 900-acre Baden-Powell Council camp in the foothills of the Catskill Mountains near the New York-Pennsylvania border, featuring 35-acre Summit Lake."
       }
     },
     {
@@ -9796,12 +9796,12 @@
         "name": "Camp Pioneer (Cascade Pacific Council)",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "62681 Twin Meadows Rd, Idanha, OR 97350",
         "city": "Detroit",
         "state": "OR",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://cpcscouting.org/project/camp-pioneer/",
+        "description": "Established in 1936 on Pine Lake in the shadow of Mt. Jefferson at over 4,500 feet elevation, offering the signature Cascade Rangers high adventure program."
       }
     },
     {
@@ -9817,12 +9817,12 @@
         "name": "Camp Cherokee (Old Hickory Council)",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "3296 Boy Scout Camp Rd, Yanceyville, NC 27379",
         "city": "Yanceyville",
         "state": "NC",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://csr.camp/",
+        "description": "Located at Cherokee Scout Reservation in Caswell County on over 1,700 acres of hardwood forest, welcoming Scouts every summer since 1968."
       }
     },
     {
@@ -9838,12 +9838,12 @@
         "name": "Alpine Scout Camp",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "441 Route 9W, Alpine, NJ 07620",
         "city": "Alpine",
         "state": "NJ",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://alpinescoutcamp.org/",
+        "description": "A Greater New York Councils camp located 10 miles north of the George Washington Bridge, offering year-round weekend camping with archery, climbing walls, and hiking trails on the Palisades."
       }
     },
     {
@@ -9859,12 +9859,12 @@
         "name": "Camp Grice",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "384 Watsons Mill Road, Elmer, NJ 08318",
         "city": "Pine Hill",
         "state": "NJ",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://gardenstatescouting.org/camping/summer-camp/",
+        "description": "One of three camps within Roosevelt Scout Reservation, operated by the Garden State Council in the rural farmland of Salem County."
       }
     },
     {
@@ -9880,12 +9880,12 @@
         "name": "Camp Lewis",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "39 Upper Hibernia Road, Rockaway, NJ 07866",
         "city": "Rockaway",
         "state": "NJ",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://www.camp-lewis.com/",
+        "description": "A 188-acre Northern New Jersey Council camp in Rockaway Township, originally donated by the Rosenthal family of Maidenform."
       }
     },
     {
@@ -9901,12 +9901,12 @@
         "name": "Camp NoBeBoSco",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "11 Sand Pond Road, Hardwick, NJ 07825",
         "city": "Blairstown",
         "state": "NJ",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://www.nnjbsa.org/camping/scouts-bsa-summer-camp/camp-no-be-bo-sco/",
+        "description": "A 380-acre Northern New Jersey Council camp in the Kittatinny Mountains, opened in 1927, famously known as a filming location for the original Friday the 13th movie."
       }
     },
     {
@@ -9922,12 +9922,12 @@
         "name": "Camp Somers (Mt. Allamuchy SR)",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "750 Waterloo Road, Stanhope, NJ 07874",
         "city": "Byram Township",
         "state": "NJ",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://www.campsomers.org/",
+        "description": "A Scouts BSA summer camp on the 1,000-acre Mt. Allamuchy Scout Reservation, operated by the Patriots' Path Council with activities including ATVs, climbing, and aquatics."
       }
     },
     {
@@ -9943,12 +9943,12 @@
         "name": "Camp Watchung",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "452 New Providence Road, Mountainside, NJ 07092",
         "city": "Watchung",
         "state": "NJ",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://ppcscouting.org/camping/camps/",
+        "description": "A Patriots' Path Council Cub Scout day camp located within the 1,945-acre Watchung Reservation in Union County."
       }
     },
     {
@@ -9964,12 +9964,12 @@
         "name": "Camp Wheeler (Mt. Allamuchy SR)",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "750 Waterloo Road, Stanhope, NJ 07874",
         "city": "Byram Township",
         "state": "NJ",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://ppcscouting.org/camping/camps/",
+        "description": "A Cub Scout day camp on the 1,000-acre Mt. Allamuchy Scout Reservation, operated by the Patriots' Path Council."
       }
     },
     {
@@ -9985,12 +9985,12 @@
         "name": "Camp Winnebago",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "102 Timberbrook Road, Rockaway, NJ 07866",
         "city": "Rockaway",
         "state": "NJ",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://www.camp-winnebago.org/",
+        "description": "A Patriots' Path Council Scouts BSA summer camp on 450+ acres in the Copperas Mountains of Rockaway, featuring a 1,000-foot zip line over Durham Pond."
       }
     },
     {
@@ -10006,12 +10006,12 @@
         "name": "Camp Yaw Paw",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "100 Bear Swamp Road, Mahwah, NJ 07430",
         "city": "Mahwah",
         "state": "NJ",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://www.nnjbsa.org/camping/cub-scout-camp/camp-yaw-paw/",
+        "description": "A 400-acre Northern New Jersey Council Cub Scout day camp in the Ramapo Mountains of northern Bergen County."
       }
     },
     {
@@ -10027,12 +10027,12 @@
         "name": "Floodwood Mountain Reservation",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "Floodwood Rd, Tupper Lake, NY 12986",
         "city": "Tupper Lake",
         "state": "NY",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://www.floodwood.org/",
+        "description": "A Northern New Jersey Council high adventure base in the heart of the Adirondacks near Saranac Lake, established in 1963, offering canoe and backpacking treks."
       }
     },
     {
@@ -10048,12 +10048,12 @@
         "name": "Joseph A. Citta Scout Reservation",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "229 Brookville Road, Barnegat, NJ 08005",
         "city": "Barnegat",
         "state": "NJ",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://www.cittascoutreservation.org/",
+        "description": "A 500-acre Jersey Shore Council camp nestled in the New Jersey Pine Barrens near Barnegat, with access to kayaking on Barnegat Bay."
       }
     },
     {
@@ -10069,12 +10069,12 @@
         "name": "Mt. Allamuchy Scout Reservation",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "750 Waterloo Road, Stanhope, NJ 07874",
         "city": "Byram Township",
         "state": "NJ",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://ppcscouting.org/camping/camps/",
+        "description": "A nearly 1,000-acre Patriots' Path Council reservation in northern New Jersey encompassing Camp Somers, Camp Wheeler, and Camp COLEY with 22 campsites and year-round programming."
       }
     },
     {
@@ -10090,12 +10090,12 @@
         "name": "Pine Hill Scout Reservation",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "120 Watsontown-New Freedom Road, Pine Hill, NJ 08021",
         "city": "Pine Hill",
         "state": "NJ",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://gardenstatescouting.org/camping/",
+        "description": "A Garden State Council camp in Camden County, located just 20 minutes east of Philadelphia with shooting sports, canoeing, fishing, and hiking trails."
       }
     },
     {
@@ -10111,12 +10111,12 @@
         "name": "Quail Hill Scout Reservation",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "56 LaValley Drive, Manalapan, NJ 07726",
         "city": "Manalapan",
         "state": "NJ",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://www.monmouthcouncilscouting.org/qhsr",
+        "description": "A 250-acre Monmouth Council camp in western Monmouth County featuring woodlands, streams, meadows, a pool, and a pond with year-round camping."
       }
     },
     {
@@ -10132,12 +10132,12 @@
         "name": "Roosevelt Scout Reservation",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "384 Watsons Mill Road, Elmer, NJ 08318",
         "city": "Tabernacle",
         "state": "NJ",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://gardenstatescouting.org/camping/summer-camp/",
+        "description": "The Garden State Council's primary Scouts BSA summer camp in Salem County, encompassing three sub-camps: Camp Roosevelt, Camp Diller, and Camp Grice."
       }
     },
     {
@@ -10153,12 +10153,12 @@
         "name": "Winnebago Scout Reservation",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "102 Timberbrook Road, Rockaway, NJ 07866",
         "city": "Rockaway",
         "state": "NJ",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://www.camp-winnebago.org/",
+        "description": "A 450+ acre Patriots' Path Council reservation in the Copperas Mountains of Rockaway, offering Scouts BSA summer camp, year-round weekend camping, and shooting sports."
       }
     },
     {
@@ -10174,12 +10174,12 @@
         "name": "Camp Bell",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "254 Griswold Lane, Gilmanton Iron Works, NH 03837",
         "city": "Gilmanton Iron Works",
         "state": "NH",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://nhscouting.org/gsr/",
+        "description": "One of two summer camps at Griswold Scout Reservation, Camp Bell emphasizes the Patrol Method with patrol cooking and day-long patrol activities across over 3,500 acres of forest, lakes, and mountains."
       }
     },
     {
@@ -10195,12 +10195,12 @@
         "name": "Camp Carpenter",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "300 Blondin Road, Manchester, NH 03109",
         "city": "Manchester",
         "state": "NH",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://nhscouting.org/camp-carpenter/",
+        "description": "A 230-acre camp in southeast Manchester with its own private lake, modern dining hall, and numerous program areas, home to the Lawrence L. Lee Scouting Museum."
       }
     },
     {
@@ -10216,12 +10216,12 @@
         "name": "Camp Wanocksett",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "642 Upper Jaffrey Road, Dublin, NH 03444",
         "city": "Dublin",
         "state": "NH",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://hnescouting.org/camping/camp-wanocksett/",
+        "description": "A 223-acre Scout camp operated by the Heart of New England Council, situated on the shores of Thorndike Pond at the base of Mount Monadnock, in use since 1924."
       }
     },
     {
@@ -10237,12 +10237,12 @@
         "name": "Hidden Valley Scout Camp",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "2 Eileen Shore Road, Gilmanton Iron Works, NH 03837",
         "city": "Gilmanton Iron Works",
         "state": "NH",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://nhscouting.org/gsr/",
+        "description": "One of two summer camps within the Griswold Scout Reservation, sharing the reservation's 3,500-acre property of forest, lakes, and mountains in the Belknap Range."
       }
     },
     {
@@ -10258,12 +10258,12 @@
         "name": "Parker Mountain Scout Reservation",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "55 Boy Scout Road, Strafford, NH 03884",
         "city": "Strafford",
         "state": "NH",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://www.scoutspirit.org/",
+        "description": "A Scout reservation in Strafford owned by the Spirit of Adventure Council, situated on Big Willey Pond and Little Willey Pond."
       }
     },
     {
@@ -10279,12 +10279,12 @@
         "name": "Pierre Hoge Scout Camp",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "Eaton Road, Walpole, NH 03608",
         "city": "Walpole",
         "state": "NH",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://nhscouting.org/outdoor-programs/our-camp-properties/",
+        "description": "A 390-acre wilderness-type conservation base in Walpole operated by Scouting America New Hampshire, featuring over 200 wooded acres with undeveloped campsites and a conservation pond."
       }
     },
     {
@@ -10300,12 +10300,12 @@
         "name": "Beaumont Scout Reservation",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "6480 Beaumont Reservation Dr, High Ridge, MO 63049",
         "city": "High Ridge",
         "state": "MO",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://stlbsa.org/properties/beaumont-scout-reservation/",
+        "description": "A 2,400-acre wooded reservation operated by the Greater St. Louis Area Council, featuring rolling hills, miles of trails, horseback riding, and a climbing tower near metro St. Louis."
       }
     },
     {
@@ -10321,12 +10321,12 @@
         "name": "Camp Famous Eagle",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "120 US Hwy 67, Knob Lick, MO 63651",
         "city": "Knob Lick",
         "state": "MO",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://stlbsa.org/camps/scouts-bsa-venturing-summer-camp/",
+        "description": "One of several camps on the 5,200-acre S-F Scout Ranch operated by the Greater St. Louis Area Council, offering a traditional Scouts BSA summer camp experience in the Ozark hills."
       }
     },
     {
@@ -10342,12 +10342,12 @@
         "name": "Camp Gamble",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "120 US Hwy 67, Knob Lick, MO 63651",
         "city": "Knob Lick",
         "state": "MO",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://stlbsa.org/camps/scouts-bsa-venturing-summer-camp/",
+        "description": "Located on the north shore of 270-acre Nims Lake at the S-F Scout Ranch, Camp Gamble is known for its patrol-method cooking program."
       }
     },
     {
@@ -10363,12 +10363,12 @@
         "name": "Camp Geiger Scout Reservation",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "9525 County Rd 388, St. Joseph, MO 64505",
         "city": "Saint Joseph",
         "state": "MO",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://ponyexpressbsa.org/camping-and-activities/camp-geiger",
+        "description": "A roughly 450-acre camp operated by the Pony Express Council, situated on the scenic bluffs above the Missouri River in northwest Missouri."
       }
     },
     {
@@ -10384,12 +10384,12 @@
         "name": "Camp Lewallen",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "1588 Wayne Route K, Silva, MO 63964",
         "city": "Silva",
         "state": "MO",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://stlbsa.org/properties/camp-lewallen/",
+        "description": "A 580-acre Greater St. Louis Area Council camp nestled in the Mark Twain National Forest on the Ozark Plateau, offering climbing, kayaking, and shooting sports."
       }
     },
     {
@@ -10405,12 +10405,12 @@
         "name": "Camp Sakima",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "120 US Hwy 67, Knob Lick, MO 63651",
         "city": "Knob Lick",
         "state": "MO",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://stlbsa.org/camps/scouts-bsa-venturing-summer-camp/",
+        "description": "A camp on the S-F Scout Ranch operated by the Greater St. Louis Area Council, serving as a home for National Youth Leadership Training and Scouts BSA summer camp programs."
       }
     },
     {
@@ -10426,12 +10426,12 @@
         "name": "Cow Creek Scout Reservation",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "2658 Cow Creek Rd, Blue Eye, MO 65611",
         "city": "Blue Eye",
         "state": "MO",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://otcscouting.org/cow-creek-scout-reservation/",
+        "description": "An Ozark Trails Council camp located on the shores of Table Rock Lake near Blue Eye, offering waterfront activities and scenic Ozarks camping."
       }
     },
     {
@@ -10447,12 +10447,12 @@
         "name": "H. Roe Bartle Scout Reservation",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "5525 NE Scout Camp Rd, Osceola, MO 64776",
         "city": "Osceola",
         "state": "MO",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://www.hoac-bsa.org/bartle",
+        "description": "A 4,200-acre reservation in the Osage hills operated by the Heart of America Council, hosting over 6,000 Scouts annually across three separate camps."
       }
     },
     {
@@ -10468,12 +10468,12 @@
         "name": "Lake of the Ozarks Scout Reservation",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "525 Camp Hohn Dr, Gravois Mills, MO 65037",
         "city": "Gravois Mills",
         "state": "MO",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://greatriversscouting.org/lake-of-the-ozarks-scout-reservation/",
+        "description": "A 450-acre Great Rivers Council reservation with a mile and a half of shoreline on the Osage Arm of the Lake of the Ozarks."
       }
     },
     {
@@ -10489,12 +10489,12 @@
         "name": "S-F Scout Ranch",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "120 US Hwy 67, Knob Lick, MO 63651",
         "city": "Knob Lick",
         "state": "MO",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://stlbsa.org/properties/s-bar-f-scout-ranch/",
+        "description": "A 5,200-acre wooded property operated by the Greater St. Louis Area Council south of Farmington, encompassing multiple camps including Famous Eagle, Gamble, Sakima, and Swift High Adventure Base."
       }
     },
     {
@@ -10510,12 +10510,12 @@
         "name": "Swift High Adventure Base",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "120 US Hwy 67, Knob Lick, MO 63651",
         "city": "Knob Lick",
         "state": "MO",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://stlbsa.org/camps/venturing-summer-camp/",
+        "description": "The Greater St. Louis Area Council's high adventure base on the S-F Scout Ranch, offering Venturing summer camp programs with challenging outdoor activities."
       }
     },
     {
@@ -10531,12 +10531,12 @@
         "name": "Bay Springs Scout Base",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "Bay Springs Lake, Dennis, MS 38838",
         "city": "Booneville",
         "state": "MS",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://www.natcheztracecouncil.org/BaySprings",
+        "description": "A primitive tent camping facility operated by the Natchez Trace Council, situated on a peninsula surrounded by Bay Springs Lake about 30 minutes east of Booneville."
       }
     },
     {
@@ -10552,12 +10552,12 @@
         "name": "Camp Binachi",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "4434 Camp Binachi Rd, Meridian, MS 39301",
         "city": "Meridian",
         "state": "MS",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://choctawareacouncil.org/camp-binachi",
+        "description": "A historic council camp in east-central Mississippi operated by the Choctaw Area Council for over a century, featuring Lake Frank Williams and Binachi Shooting Sports."
       }
     },
     {
@@ -10573,12 +10573,12 @@
         "name": "Camp Currier",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "9700 Highway 304, Hernando, MS 38632",
         "city": "Eudora",
         "state": "MS",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://www.chickasaw.org/camping",
+        "description": "A 300-acre year-round camp and training facility built in 1925 by the Chickasaw Council on land donated by Elizabeth Currier, located near Arkabutla Lake south of Memphis."
       }
     },
     {
@@ -10594,12 +10594,12 @@
         "name": "Camp Seminole",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "2244 Sun Creek Rd, Starkville, MS 39759",
         "city": "Starkville",
         "state": "MS",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://www.natcheztracecouncil.org/CampSeminole",
+        "description": "A year-round resident camping facility operated by the Natchez Trace Council, located 10 minutes north of Starkville with tent and cabin camping, a dining hall, and shooting ranges."
       }
     },
     {
@@ -10615,12 +10615,12 @@
         "name": "Camp Tiak",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "64 Camp Tiak Rd, Wiggins, MS 39577",
         "city": "Wiggins",
         "state": "MS",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://www.pineburrscouts.org/about-the-camp",
+        "description": "Opened in 1955 and operated by the Pine Burr Area Council, Camp Tiak takes its name from the Choctaw word meaning 'Tall Pines,' reflecting the towering pine forests of southern Mississippi."
       }
     },
     {
@@ -10636,12 +10636,12 @@
         "name": "Camp Toby Tubby",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "589 Co Rd 100, Oxford, MS 38655",
         "city": "Oxford",
         "state": "MS",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://www.natcheztracecouncil.org/TobyTubby",
+        "description": "A Natchez Trace Council camp on Sardis Lake about 20 minutes northwest of Oxford, featuring developed tent camping with fire rings and access to mountain bike trails."
       }
     },
     {
@@ -10657,12 +10657,12 @@
         "name": "Camp Yocona",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "878 Boy Scout Rd, Randolph, MS 38864",
         "city": "Pontotoc",
         "state": "MS",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://www.natcheztracecouncil.org/CampYocona",
+        "description": "The Natchez Trace Council's primary summer camp facility with a tradition dating back to 1947, located less than 40 minutes from Tupelo."
       }
     },
     {
@@ -10678,12 +10678,12 @@
         "name": "Hood Scout Reservation (Warren Hood SR)",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "8065 Old Port Gibson Rd, Hazlehurst, MS 39083",
         "city": "Hazlehurst",
         "state": "MS",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://bsa-jackson.org/hood-scout-reservation/",
+        "description": "A 1,300-acre reservation in the rolling hills of southwestern Mississippi operated by the Andrew Jackson Council, declared one of the Top 10 Scout Camps in the country."
       }
     },
     {
@@ -10699,12 +10699,12 @@
         "name": "Salmen Scout Reservation (Camp V-Bar)",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "27585 V-Bar Rd, Perkinston, MS 39573",
         "city": "Kiln",
         "state": "MS",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://www.bsa-selacouncil.org/facilities/salmen-scout-reservation/74461",
+        "description": "A 1,400-acre reservation operated by the Southeast Louisiana Council, located about 90 minutes from New Orleans with a lake, swimming pool, and lighted COPE course."
       }
     },
     {
@@ -10720,12 +10720,12 @@
         "name": "Camp Arrowhead (Ozark Trails Council)",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "4202 State Hwy DD, Marshfield, MO 65706",
         "city": "Marshfield",
         "state": "MO",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://otcscouting.org/camp-arrowhead/",
+        "description": "The oldest Scout camp west of the Mississippi River, established in 1924 and operated by the Ozark Trails Council on 557 wooded acres near Marshfield."
       }
     },
     {
@@ -10741,12 +10741,12 @@
         "name": "Base Camp (Northern Star Council)",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "6202 Bloomington Rd, Fort Snelling, MN 55111",
         "city": "Saint Paul",
         "state": "MN",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://www.explorebasecamp.org/",
+        "description": "Northern Star Council's indoor activity center at historic Fort Snelling, featuring a TeamBuilding Center with rock climbing, ropes courses, and archery, plus a Leadership Center housing council headquarters."
       }
     },
     {
@@ -10762,12 +10762,12 @@
         "name": "Camp Wilderness (Northern Lights Council)",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "29984 Journey Trail, Park Rapids, MN 56470",
         "city": "Park Rapids",
         "state": "MN",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://scoutingnlc.org/campingprograms/properties/camp-wilderness/",
+        "description": "Northern Lights Council's premier camping and high adventure facility, a 2,400-acre outdoor classroom situated between Bad Axe and Mantrap Lakes in the heart of the Paul Bunyan State Forest."
       }
     },
     {
@@ -10783,12 +10783,12 @@
         "name": "Cedar Point Scout Camp",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "125 200th Ave, Fairmont, MN 56031",
         "city": "Lake Crystal",
         "state": "MN",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://www.scoutingtwinvalley.org/camps/cedar-point-scout-camp/",
+        "description": "A Twin Valley Council camp near the Iowa border offering woods and waterfront activities including canoeing, kayaking, and stand-up paddleboarding."
       }
     },
     {
@@ -10804,12 +10804,12 @@
         "name": "Cuyuna Scout Camp",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "38594 County Road 3, Crosslake, MN 56442",
         "city": "Crosby",
         "state": "MN",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://www.scoutingtwinvalley.org/camps/cuyuna-scout-camp/",
+        "description": "A 684-acre Twin Valley Council camp in a heavily wooded area north of Brainerd, bordering six lakes."
       }
     },
     {
@@ -10825,12 +10825,12 @@
         "name": "Fred C. Anderson Scout Camp",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "186 Andersen Scout Camp Trail, Houlton, WI 54082",
         "city": "Camp Ripley",
         "state": "MN",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://camp.northernstar.org/fred-c-andersen-scout-camp",
+        "description": "A Northern Star Council camp located on the St. Croix River just five miles northeast of Stillwater, Minnesota, offering Scouts BSA and Venturing summer camp programs in a riverside woodland setting."
       }
     },
     {
@@ -10846,12 +10846,12 @@
         "name": "Gamehaven Scout Camp",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "5015 Simpson Rd SE, Rochester, MN 55904",
         "city": "Rochester",
         "state": "MN",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://gamehavenbsa.org/camp/",
+        "description": "Established in 1995 by the Gamehaven Council, this 190-acre camp southeast of Rochester features a developed upper camp area for Cub Scouts and a rustic camp area for older groups."
       }
     },
     {
@@ -10867,12 +10867,12 @@
         "name": "Kiwanis Scout Reservation",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "15987 St. Croix Trail N, Marine on St. Croix, MN 55047",
         "city": "Marine on Saint Croix",
         "state": "MN",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://camp.northernstar.org/kiwanis-scout-camp",
+        "description": "A 110-acre Northern Star Council camp nestled on the banks of the St. Croix River, operating as a camp since 1923."
       }
     },
     {
@@ -10888,12 +10888,12 @@
         "name": "Many Point Scout Camp",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "41408 Many Point Scout Camp Rd, Ponsford, MN 56575",
         "city": "Ponsford",
         "state": "MN",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://www.manypoint.org/",
+        "description": "A 1,700-acre Northern Star Council camp on Many Point Lake with over 6 miles of shoreline, bordering the Tamarac National Wildlife Refuge."
       }
     },
     {
@@ -10909,12 +10909,12 @@
         "name": "Norseland Scout Reservation",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "41556 370th St, St. Peter, MN 56082",
         "city": "Saint Peter",
         "state": "MN",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://www.scoutingtwinvalley.org/camps/norseland-scout-camp/",
+        "description": "A 56-acre Twin Valley Council camp on the shores of Sand Lake, approximately 12 miles northwest of St. Peter."
       }
     },
     {
@@ -10930,12 +10930,12 @@
         "name": "Parker Scout Reservation",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "21930 Paradise Dr, Nisswa, MN 56468",
         "city": "Nisswa",
         "state": "MN",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://www.bsacmc.org/",
+        "description": "A 256-acre Central Minnesota Council camp established in 1941 on North Long Lake north of Brainerd, featuring twelve campsites, a private beach, and shooting sports ranges."
       }
     },
     {
@@ -10951,12 +10951,12 @@
         "name": "Phillippo Scout Reservation",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "30654 32nd Ave Way, Cannon Falls, MN 55009",
         "city": "Cannon Falls",
         "state": "MN",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://camp.northernstar.org/phillippo-scout-reservation",
+        "description": "A 450-acre Northern Star Council camp on the south shore of Byllesby Reservoir, featuring rolling fields, wooded campsites, and hills overlooking the Cannon River valley."
       }
     },
     {
@@ -10972,12 +10972,12 @@
         "name": "Rum River Scout Camp",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "15659 Saint Francis Blvd NW, Ramsey, MN 55303",
         "city": "Anoka",
         "state": "MN",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://camp.northernstar.org/rum-river-scout-camp",
+        "description": "A 160-acre Northern Star Council camp located 4 miles north of Anoka, featuring wooded campsites, three enclosed activity buildings, and year-round programming."
       }
     },
     {
@@ -10993,12 +10993,12 @@
         "name": "Stearns Scout Camp",
         "type": "council_camp",
         "council": null,
-        "address": null,
+        "address": "3303 County Road 44, South Haven, MN 55382",
         "city": "South Haven",
         "state": "MN",
         "country": "USA",
-        "website": null,
-        "description": null
+        "website": "https://camp.northernstar.org/stearns-scout-camp",
+        "description": "A 1,200-acre Northern Star Council camp featuring open fields, rolling hills, and thick forest, suitable for small overnight campouts or large events."
       }
     }
   ]

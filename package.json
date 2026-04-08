@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "start": "serve -l 8000",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "validate": "node scripts/validate-camps.js",
+    "test": "node scripts/validate-camps.js"
   },
   "repository": {
     "type": "git",
