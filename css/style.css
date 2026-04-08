@@ -359,23 +359,13 @@ body.page-map {
 }
 
 #back-to-top {
-  position: fixed;
-  bottom: calc(24px + env(safe-area-inset-bottom, 0px));
-  right: calc(24px + env(safe-area-inset-right, 0px));
-  width: 44px;
-  height: 44px;
-  border: none;
-  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  border: 5px solid blue;
   background: red;
   color: #fff;
-  font-size: 22px;
-  line-height: 1;
-  cursor: pointer;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
-  opacity: 1;
-  pointer-events: auto;
-  transition: opacity 0.3s;
-  z-index: 9999;
+  font-size: 40px;
+  margin: 20px auto;
 }
 
 #back-to-top.visible {
