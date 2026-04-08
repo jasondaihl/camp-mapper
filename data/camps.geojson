@@ -10844,6 +10844,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -92.1294,
+          46.8738
+        ]
+      },
+      "properties": {
+        "name": "Camp Horace Johnson",
+        "type": "council_camp",
+        "council": "Northern Star Council",
+        "address": "7200 Rice Lake Rd, Duluth, MN 55803",
+        "city": "Duluth",
+        "state": "MN",
+        "country": "USA",
+        "website": "https://camp.northernstar.org/Camp-Horace-Johnson",
+        "description": "Located on the 8,000-acre Island Lake Reservoir less than 30 minutes north of downtown Duluth, offering waterfront activities, hiking, and year-round camping in the northern Minnesota wilderness."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.1141,
+          46.8062
+        ]
+      },
+      "properties": {
+        "name": "Adventure Base",
+        "type": "council_camp",
+        "council": "Northern Star Council",
+        "address": "7254 Boulder Lake Rd, Duluth, MN 55803",
+        "city": "Duluth",
+        "state": "MN",
+        "country": "USA",
+        "website": "https://campreservation.com/250/Camps/1028",
+        "description": "Rustic camp near Camp Horace Johnson with five campsites, a climbing tower, archery range, shooting sports, and aquatic activities, ideal for high adventure preparation."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -94.4421,
           46.2027
         ]
