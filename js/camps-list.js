@@ -278,6 +278,34 @@
         container.innerHTML = render(allProps, currentMode);
         window.scrollTo(0, 0);
         attachListeners();
+        setupSectionObserver();
+      }
+
+      function setupSectionObserver() {
+        var indicator = document.getElementById("section-indicator");
+        var sections = document.querySelectorAll(".state-section");
+        if (!sections.length) return;
+
+        var observer = new IntersectionObserver(
+          function (entries) {
+            entries.forEach(function (entry) {
+              if (entry.isIntersecting) {
+                var h2 = entry.target.querySelector("h2");
+                if (h2) indicator.textContent = h2.firstChild.textContent.trim();
+              }
+            });
+            var scrollTop = document.documentElement.scrollTop || document.body.scrollTop || 0;
+            indicator.classList.toggle("visible", scrollTop > 200);
+          },
+          { rootMargin: "-48px 0px -60% 0px", threshold: 0 }
+        );
+
+        sections.forEach(function (s) { observer.observe(s); });
+
+        document.addEventListener("scroll", function () {
+          var scrollTop = document.documentElement.scrollTop || document.body.scrollTop || 0;
+          indicator.classList.toggle("visible", scrollTop > 200);
+        }, { passive: true });
       }
 
       function attachListeners() {

@@ -271,6 +271,23 @@ body.page-map {
   margin-bottom: 26px;
 }
 
+.section-indicator {
+  position: sticky;
+  top: 48px;
+  z-index: 10;
+  background: #e8f5e9;
+  color: #1B5E20;
+  font-size: 14px;
+  font-weight: 600;
+  padding: 6px 24px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  display: none;
+}
+
+.section-indicator.visible {
+  display: block;
+}
+
 .state-section h2 {
   display: flex;
   align-items: center;
@@ -279,10 +296,6 @@ body.page-map {
   border-bottom: 2px solid #1B5E20;
   padding: 6px 0;
   margin: 0 0 16px;
-  position: sticky;
-  top: 48px;
-  background: #fff;
-  z-index: 10;
 }
 
 .type-counts {
@@ -329,6 +342,7 @@ body.page-map {
   padding: 14px;
   background: #fff;
   transition: box-shadow 0.2s;
+  scroll-margin-top: 100px;
 }
 
 .camp-card:hover {
