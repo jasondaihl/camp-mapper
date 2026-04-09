@@ -10739,7 +10739,7 @@
         ]
       },
       "properties": {
-        "name": "Camp Arrowhead (Ozark Trails Council)",
+        "name": "Camp Arrowhead",
         "type": "council_camp",
         "council": "Ozark Trails Council",
         "address": "4202 State Hwy DD, Marshfield, MO 65706",
@@ -10760,7 +10760,7 @@
         ]
       },
       "properties": {
-        "name": "Base Camp (Northern Star Council)",
+        "name": "Base Camp",
         "type": "council_camp",
         "council": "Northern Star Council",
         "address": "6202 Bloomington Rd, Fort Snelling, MN 55111",
