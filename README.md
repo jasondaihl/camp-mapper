@@ -1,4 +1,4 @@
-# Scout Camp Map
+# 🏕️ Scout Camp Map
 
 Interactive map of Scouting America council camps and high adventure bases, built with [Leaflet](https://leafletjs.com/) and OpenStreetMap.
 
