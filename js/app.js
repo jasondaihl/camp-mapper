@@ -1,12 +1,241 @@
 (function () {
   var isMobile = window.innerWidth <= 768;
-  var map = L.map("map").setView([39.8283, -98.5795], isMobile ? 3 : 4);
+  var defaultCenter = [39.8283, -98.5795];
+  var defaultZoom = isMobile ? 3 : 4;
+  var map = L.map("map").setView(defaultCenter, defaultZoom);
+  var campData = null;
+  var searchState = { lat: null, lng: null, radius: 50, displayName: null };
 
   L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
     maxZoom: 18,
     attribution:
       '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
   }).addTo(map);
+
+  /* ---- Location Search Utilities ---- */
+
+  function haversineDistance(lat1, lon1, lat2, lon2) {
+    var R = 3958.8;
+    var dLat = ((lat2 - lat1) * Math.PI) / 180;
+    var dLon = ((lon2 - lon1) * Math.PI) / 180;
+    var a =
+      Math.sin(dLat / 2) * Math.sin(dLat / 2) +
+      Math.cos((lat1 * Math.PI) / 180) *
+        Math.cos((lat2 * Math.PI) / 180) *
+        Math.sin(dLon / 2) *
+        Math.sin(dLon / 2);
+    var c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
+    return R * c;
+  }
+
+  function countCampsInRadius(centerLat, centerLng, radiusMiles) {
+    if (!campData) return 0;
+    var count = 0;
+    campData.features.forEach(function (f) {
+      var coords = f.geometry.coordinates;
+      var dist = haversineDistance(centerLat, centerLng, coords[1], coords[0]);
+      if (dist <= radiusMiles) count++;
+    });
+    return count;
+  }
+
+  function geocode(query, callback) {
+    var url =
+      "https://nominatim.openstreetmap.org/search?" +
+      "q=" +
+      encodeURIComponent(query) +
+      "&format=json&limit=1&countrycodes=us";
+    fetch(url)
+      .then(function (r) {
+        return r.json();
+      })
+      .then(function (results) {
+        if (results && results.length > 0) {
+          callback(null, {
+            lat: parseFloat(results[0].lat),
+            lng: parseFloat(results[0].lon),
+            displayName: results[0].display_name,
+          });
+        } else {
+          callback("No location found");
+        }
+      })
+      .catch(function () {
+        callback("Search failed");
+      });
+  }
+
+  function geolocate(callback) {
+    if (!navigator.geolocation) {
+      callback("Geolocation not supported");
+      return;
+    }
+    navigator.geolocation.getCurrentPosition(
+      function (pos) {
+        callback(null, {
+          lat: pos.coords.latitude,
+          lng: pos.coords.longitude,
+          displayName: "Your Location",
+        });
+      },
+      function (err) {
+        var msg = "Unable to get location";
+        if (err.code === 1) msg = "Location permission denied";
+        if (err.code === 2) msg = "Location unavailable";
+        if (err.code === 3) msg = "Location request timed out";
+        callback(msg);
+      },
+      { enableHighAccuracy: false, timeout: 10000, maximumAge: 300000 },
+    );
+  }
+
+  function zoomToRadius(lat, lng, radiusMiles) {
+    var radiusMeters = radiusMiles * 1609.34;
+    var center = L.latLng(lat, lng);
+    map.fitBounds(center.toBounds(radiusMeters * 2), { padding: [20, 20] });
+  }
+
+  /* ---- Location Search Control ---- */
+
+  var SearchControl = L.Control.extend({
+    options: { position: "topleft" },
+    onAdd: function () {
+      var container = L.DomUtil.create(
+        "div",
+        "leaflet-control-search leaflet-bar",
+      );
+      container.innerHTML =
+        '<div class="search-input-row">' +
+        '<input type="text" class="search-input" placeholder="City, state, or zip">' +
+        '<button class="search-gps-btn" title="Use my location" aria-label="Use my location">' +
+        '<svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">' +
+        '<circle cx="12" cy="12" r="4"/>' +
+        '<line x1="12" y1="2" x2="12" y2="6"/>' +
+        '<line x1="12" y1="18" x2="12" y2="22"/>' +
+        '<line x1="2" y1="12" x2="6" y2="12"/>' +
+        '<line x1="18" y1="12" x2="22" y2="12"/>' +
+        "</svg>" +
+        "</button>" +
+        '<button class="search-go-btn">Search</button>' +
+        "</div>" +
+        '<div class="search-options-row">' +
+        '<label class="search-radius-label">Radius:</label>' +
+        '<select class="search-radius">' +
+        '<option value="25">25 mi</option>' +
+        '<option value="50" selected>50 mi</option>' +
+        '<option value="100">100 mi</option>' +
+        '<option value="200">200 mi</option>' +
+        "</select>" +
+        "</div>" +
+        '<div class="search-result-row" style="display:none">' +
+        '<span class="search-badge"></span>' +
+        '<button class="search-clear-btn" title="Clear search" aria-label="Clear search">' +
+        '<svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round">' +
+        '<line x1="18" y1="6" x2="6" y2="18"/>' +
+        '<line x1="6" y1="6" x2="18" y2="18"/>' +
+        "</svg>" +
+        "</button>" +
+        "</div>";
+
+      L.DomEvent.disableClickPropagation(container);
+      L.DomEvent.disableScrollPropagation(container);
+
+      var input = container.querySelector(".search-input");
+      var goBtn = container.querySelector(".search-go-btn");
+      var gpsBtn = container.querySelector(".search-gps-btn");
+      var radiusSelect = container.querySelector(".search-radius");
+      var resultRow = container.querySelector(".search-result-row");
+      var badge = container.querySelector(".search-badge");
+      var clearBtn = container.querySelector(".search-clear-btn");
+      var errorTimeout = null;
+
+      function showResult(text, isError) {
+        badge.textContent = text;
+        badge.className = "search-badge" + (isError ? " search-error" : "");
+        resultRow.style.display = "flex";
+        if (errorTimeout) clearTimeout(errorTimeout);
+        if (isError) {
+          errorTimeout = setTimeout(function () {
+            if (searchState.lat === null) resultRow.style.display = "none";
+          }, 5000);
+        }
+      }
+
+      function updateBadge() {
+        if (searchState.lat === null) {
+          resultRow.style.display = "none";
+          return;
+        }
+        var count = countCampsInRadius(
+          searchState.lat,
+          searchState.lng,
+          searchState.radius,
+        );
+        showResult(
+          count +
+            " camp" +
+            (count !== 1 ? "s" : "") +
+            " within " +
+            searchState.radius +
+            " mi",
+          false,
+        );
+      }
+
+      function handleLocation(err, result) {
+        goBtn.disabled = false;
+        gpsBtn.disabled = false;
+        if (err) {
+          showResult(err, true);
+          return;
+        }
+        searchState.lat = result.lat;
+        searchState.lng = result.lng;
+        searchState.displayName = result.displayName;
+        zoomToRadius(result.lat, result.lng, searchState.radius);
+        updateBadge();
+      }
+
+      function doSearch() {
+        var query = input.value.trim();
+        if (!query) return;
+        goBtn.disabled = true;
+        geocode(query, handleLocation);
+      }
+
+      input.addEventListener("keydown", function (e) {
+        if (e.key === "Enter") doSearch();
+      });
+
+      goBtn.addEventListener("click", doSearch);
+
+      gpsBtn.addEventListener("click", function () {
+        gpsBtn.disabled = true;
+        geolocate(handleLocation);
+      });
+
+      radiusSelect.addEventListener("change", function () {
+        searchState.radius = parseInt(radiusSelect.value, 10);
+        if (searchState.lat !== null) {
+          zoomToRadius(searchState.lat, searchState.lng, searchState.radius);
+          updateBadge();
+        }
+      });
+
+      clearBtn.addEventListener("click", function () {
+        searchState.lat = null;
+        searchState.lng = null;
+        searchState.displayName = null;
+        input.value = "";
+        resultRow.style.display = "none";
+        map.setView(defaultCenter, defaultZoom);
+      });
+
+      return container;
+    },
+  });
+
+  new SearchControl().addTo(map);
 
   var markerStyles = {
     high_adventure: {
@@ -104,6 +333,7 @@
       return response.json();
     })
     .then(function (data) {
+      campData = data;
       var overlays = {};
       var layersByType = {};
       layerOrder.forEach(function (type) {

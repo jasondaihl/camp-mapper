@@ -187,6 +187,161 @@ body.page-map {
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.15);
 }
 
+/* ---- Location Search Control ---- */
+
+.leaflet-control-search {
+  background: rgba(255, 255, 253, 0.96) !important;
+  border: none !important;
+  border-radius: 10px !important;
+  box-shadow: var(--shadow-md) !important;
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  padding: 10px 12px !important;
+  width: 280px;
+  font-family: var(--font-body);
+}
+
+.search-input-row {
+  display: flex;
+  gap: 6px;
+}
+
+.search-input {
+  flex: 1;
+  min-width: 0;
+  padding: 8px 10px;
+  border: 2px solid var(--sage);
+  border-radius: 8px;
+  font-family: var(--font-body);
+  font-size: 13px;
+  color: var(--charcoal);
+  background: #fff;
+  outline: none;
+  transition: border-color 0.2s, box-shadow 0.2s;
+}
+
+.search-input:focus {
+  border-color: var(--forest-mid);
+  box-shadow: 0 0 0 3px rgba(61, 122, 85, 0.25);
+}
+
+.search-input::placeholder {
+  color: var(--stone);
+}
+
+.search-gps-btn,
+.search-go-btn {
+  flex-shrink: 0;
+  border: none;
+  border-radius: 8px;
+  background: var(--forest);
+  color: #fff;
+  cursor: pointer;
+  font-family: var(--font-body);
+  font-weight: 600;
+  transition: background-color 0.2s;
+}
+
+.search-gps-btn:hover,
+.search-go-btn:hover {
+  background: var(--forest-mid);
+}
+
+.search-gps-btn:disabled,
+.search-go-btn:disabled {
+  opacity: 0.5;
+  cursor: default;
+}
+
+.search-gps-btn {
+  width: 36px;
+  height: 36px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+}
+
+.search-go-btn {
+  padding: 8px 12px;
+  font-size: 12px;
+  letter-spacing: 0.3px;
+  text-transform: uppercase;
+}
+
+.search-options-row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-top: 8px;
+}
+
+.search-radius-label {
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--bark-light);
+}
+
+.search-radius {
+  flex: 1;
+  padding: 6px 8px;
+  border: 2px solid var(--sage);
+  border-radius: 8px;
+  font-family: var(--font-body);
+  font-size: 12px;
+  font-weight: 500;
+  color: var(--forest-mid);
+  background: #fff;
+  cursor: pointer;
+}
+
+.search-radius:focus {
+  outline: none;
+  box-shadow: 0 0 0 3px rgba(61, 122, 85, 0.25);
+}
+
+.search-result-row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-top: 8px;
+}
+
+.search-badge {
+  display: inline-block;
+  padding: 4px 10px;
+  border-radius: 12px;
+  font-size: 12px;
+  font-weight: 700;
+  color: #fff;
+  background: var(--pine);
+  white-space: nowrap;
+}
+
+.search-badge.search-error {
+  background: var(--amber);
+}
+
+.search-clear-btn {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  border: none;
+  border-radius: 50%;
+  background: var(--stone);
+  color: #fff;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+  transition: background-color 0.2s;
+}
+
+.search-clear-btn:hover {
+  background: var(--bark);
+}
+
 /* ---- Map Popups ---- */
 
 .leaflet-popup-content-wrapper {
@@ -629,6 +784,24 @@ body.page-map {
 /* ---- Mobile ---- */
 
 @media (max-width: 600px) {
+  .leaflet-control-search {
+    width: calc(100vw - 24px) !important;
+    max-width: none !important;
+  }
+
+  .search-input {
+    font-size: 16px;
+  }
+
+  .search-gps-btn {
+    width: 44px;
+    height: 44px;
+  }
+
+  .search-go-btn {
+    padding: 10px 14px;
+  }
+
   #site-header {
     padding: 0 12px;
   }
