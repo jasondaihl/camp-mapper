@@ -198,6 +198,8 @@ body.page-map {
   -webkit-backdrop-filter: blur(8px);
   padding: 10px 12px !important;
   width: 280px;
+  max-width: calc(100vw - 24px);
+  box-sizing: border-box;
   font-family: var(--font-body);
 }
 
@@ -781,12 +783,36 @@ body.page-map {
   letter-spacing: 2px;
 }
 
+/* ---- Desktop: inline search next to zoom ---- */
+
+@media (min-width: 769px) {
+  .leaflet-top.leaflet-left {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    gap: 10px;
+  }
+}
+
 /* ---- Mobile ---- */
 
-@media (max-width: 600px) {
+@media (max-width: 768px) {
+  .leaflet-bottom.leaflet-left {
+    left: 0;
+    right: 0;
+    display: flex;
+    justify-content: center;
+    bottom: 10px;
+  }
+
   .leaflet-control-search {
-    width: calc(100vw - 24px) !important;
-    max-width: none !important;
+    width: calc(100vw - 48px) !important;
+    max-width: 360px !important;
+    box-sizing: border-box;
+  }
+
+  .leaflet-control-search.leaflet-bar {
+    margin-left: 0;
   }
 
   .search-input {
@@ -800,6 +826,21 @@ body.page-map {
 
   .search-go-btn {
     padding: 10px 14px;
+  }
+
+  /* Compact layer toggle on mobile */
+  .leaflet-control-layers {
+    padding: 8px 10px !important;
+  }
+
+  .leaflet-control-layers label {
+    font-size: 11px;
+    gap: 6px;
+    margin-bottom: 4px;
+  }
+
+  .legend-circle {
+    transform: scale(0.8);
   }
 
   #site-header {

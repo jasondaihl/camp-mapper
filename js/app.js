@@ -98,7 +98,7 @@
   /* ---- Location Search Control ---- */
 
   var SearchControl = L.Control.extend({
-    options: { position: "topleft" },
+    options: { position: isMobile ? "bottomleft" : "topleft" },
     onAdd: function () {
       var container = L.DomUtil.create(
         "div",
@@ -362,7 +362,7 @@
         },
       );
       L.control
-        .layers(null, overlays, { collapsed: false, position: "topright" })
+        .layers(null, overlays, { collapsed: isMobile, position: "topright" })
         .addTo(map);
     });
 })();
