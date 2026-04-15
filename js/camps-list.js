@@ -211,8 +211,9 @@
     return total + " camps across " + parts.join(", ");
   }
 
-  function render(allProps, mode) {
-    var result = mode === "council" ? groupByCouncil(allProps) : groupByState(allProps);
+  function render(allProps, mode, activeTypes) {
+    var filtered = allProps.filter(function (p) { return activeTypes[p.type]; });
+    var result = mode === "council" ? groupByCouncil(filtered) : groupByState(filtered);
     var groups = result.groups;
 
     var html = '<div class="list-header">';
@@ -220,8 +221,17 @@
     html += '<p class="camp-count">' + result.summary + "</p>";
     html += "</div>";
 
-    // Sort toggle + jump select
+    // Type filters + sort toggle + jump select
     html += '<nav class="state-nav">';
+    html += '<div class="type-filters">';
+    html += '<span class="sort-label">Show:</span>';
+    html += '<button class="filter-btn ' + (activeTypes.council_camp ? "active" : "") + '" data-type="council_camp">' +
+      '<span class="legend-circle" style="background:var(--color-council-camp)"></span>Council Camps</button>';
+    html += '<button class="filter-btn ' + (activeTypes.council_high_adventure ? "active" : "") + '" data-type="council_high_adventure">' +
+      '<span class="legend-circle" style="background:var(--color-council-high-adventure)"></span>Council High Adventure</button>';
+    html += '<button class="filter-btn ' + (activeTypes.high_adventure ? "active" : "") + '" data-type="high_adventure">' +
+      '<span class="legend-circle" style="background:var(--color-high-adventure)"></span>National High Adventure</button>';
+    html += "</div>";
     html += '<div class="sort-toggle">';
     html += '<span class="sort-label">Group by:</span>';
     html +=
@@ -271,10 +281,11 @@
       });
 
       var currentMode = "state";
+      var activeTypes = { council_camp: true, council_high_adventure: true, high_adventure: true };
       var container = document.getElementById("camp-list");
 
       function update() {
-        container.innerHTML = render(allProps, currentMode);
+        container.innerHTML = render(allProps, currentMode, activeTypes);
         window.scrollTo(0, 0);
         attachListeners();
         setupSectionObserver();
@@ -343,6 +354,21 @@
               currentMode = newMode;
               update();
             }
+          });
+        });
+
+        var filterBtns = document.querySelectorAll(".filter-btn");
+        filterBtns.forEach(function (btn) {
+          btn.addEventListener("click", function () {
+            var type = this.getAttribute("data-type");
+            activeTypes[type] = !activeTypes[type];
+            // Ensure at least one type stays active
+            var anyActive = Object.keys(activeTypes).some(function (k) { return activeTypes[k]; });
+            if (!anyActive) {
+              activeTypes[type] = true;
+              return;
+            }
+            update();
           });
         });
       }

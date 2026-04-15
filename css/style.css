@@ -503,6 +503,55 @@ body.page-map {
   flex-wrap: wrap;
 }
 
+.type-filters {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  flex-wrap: wrap;
+  width: 100%;
+  order: 1;
+}
+
+.filter-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 13px;
+  font-family: var(--font-body);
+  font-weight: 600;
+  padding: 7px 14px;
+  border: 2px solid var(--parchment-dark);
+  border-radius: 8px;
+  background: #fff;
+  color: var(--bark-light);
+  cursor: pointer;
+  transition: background-color 0.2s, color 0.2s, border-color 0.2s, opacity 0.2s;
+}
+
+.filter-btn .legend-circle {
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  flex-shrink: 0;
+}
+
+.filter-btn.active {
+  border-color: var(--forest-mid);
+  color: var(--forest);
+  background: var(--meadow);
+}
+
+.filter-btn:not(.active) {
+  opacity: 0.5;
+}
+
+.filter-btn:hover {
+  border-color: var(--forest-mid);
+  opacity: 1;
+}
+
 .sort-toggle {
   display: flex;
   align-items: center;
@@ -878,12 +927,22 @@ body.page-map {
   }
 
   .state-nav {
-    gap: 12px;
+    gap: 10px;
   }
 
   .state-nav select {
     min-width: 0;
     width: 100%;
+  }
+
+  .type-filters {
+    gap: 4px;
+  }
+
+  .filter-btn {
+    font-size: 11px;
+    padding: 6px 10px;
+    gap: 4px;
   }
 
   .camp-grid {
