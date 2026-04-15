@@ -373,15 +373,22 @@ body.page-map {
   box-shadow: var(--shadow-sm) !important;
 }
 
-.camp-popup-header {
+.camp-popup-header,
+.camp-card-header {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  gap: 8px;
+  gap: 12px;
+  margin-bottom: 6px;
+}
+
+.camp-header-info {
+  flex: 1;
+  min-width: 0;
 }
 
 .camp-popup h3 {
-  margin: 0 0 6px 0;
+  margin: 0 0 4px 0;
   font-family: var(--font-display);
   font-size: 15px;
   font-weight: 700;
@@ -395,7 +402,7 @@ body.page-map {
   font-size: 10px;
   font-weight: 700;
   color: #fff;
-  margin-bottom: 8px;
+  margin-bottom: 0;
   letter-spacing: 0.5px;
   text-transform: uppercase;
 }
@@ -423,6 +430,15 @@ body.page-map {
   font-size: 12px;
   color: var(--bark-light);
   line-height: 1.5;
+}
+
+.camp-logo {
+  width: 40px;
+  height: 40px;
+  object-fit: contain;
+  border-radius: 4px;
+  flex-shrink: 0;
+  margin-left: auto;
 }
 
 .camp-popup a {
@@ -665,15 +681,8 @@ body.page-map {
   border-left-color: var(--color-council-camp);
 }
 
-.camp-card-header {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 8px;
-}
-
 .camp-card h3 {
-  margin: 0 0 6px;
+  margin: 0 0 4px 0;
   font-family: var(--font-display);
   font-size: 15px;
   font-weight: 700;

@@ -34,14 +34,19 @@
     var delay = Math.min((index || 0) * 0.04, 0.6);
     var html = '<div class="camp-card ' + borderClass + '" style="animation-delay:' + delay + 's">';
     html += '<div class="camp-card-header">';
+    html += '<div class="camp-header-info">';
     html += "<h3>" + props.name + "</h3>";
-    html += "</div>";
     html +=
       '<span class="type-badge ' +
       typeClass(props.type) +
       '">' +
       typeLabels[props.type] +
       "</span>";
+    html += "</div>";
+    if (props.logo) {
+      html += '<img class="camp-logo" src="' + props.logo + '" alt="' + props.name + ' logo" onerror="this.style.display=\'none\'">';
+    }
+    html += "</div>";
 
     if (showCouncil && props.council) {
       html +=

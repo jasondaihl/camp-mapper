@@ -335,14 +335,19 @@
           : "council-camp";
     var html = '<div class="camp-popup">';
     html += '<div class="camp-popup-header">';
+    html += '<div class="camp-header-info">';
     html += "<h3>" + props.name + "</h3>";
-    html += "</div>";
     html +=
       '<span class="type-badge ' +
       typeClass +
       '">' +
       typeLabels[props.type] +
       "</span>";
+    html += "</div>";
+    if (props.logo) {
+      html += '<img class="camp-logo" src="' + props.logo + '" alt="' + props.name + ' logo" onerror="this.style.display=\'none\'">';
+    }
+    html += "</div>";
 
     if (props.council) {
       html +=
